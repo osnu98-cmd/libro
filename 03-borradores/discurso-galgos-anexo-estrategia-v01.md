@@ -166,10 +166,12 @@ Las dejo señaladas porque pueden ser muy potentes, pero **no las escribí
 en el discurso porque no tengo cómo verificarlas**. Si tú las tienes con
 fuente, entran y suben mucho la pieza:
 
-1. **Qué pasó en Argentina después de 2016.** Si existe evidencia de que
-   la prohibición desplazó la actividad a la clandestinidad, ese es el
-   cierre perfecto del Riesgo 5. Hoy el argumento es lógico; con ese dato
-   sería empírico.
+1. ~~**Qué pasó en Argentina después de 2016.**~~ **RESUELTO en v02.**
+   La evidencia existe y es mejor de lo esperado: operativos con agentes
+   encubiertos, 14 allanamientos, armas de fuego, y las propias ONG de
+   rescate declarando que la ley no se cumple. Está en
+   `04-fuentes/argentina-prohibicion-2016-dossier.md` e incorporada al
+   §7 del discurso. Falta verificarla contra fuente.
 2. **Cuántas familias viven de esto en Chile, por región.** Un número de
    personas, con distrito, cambia el cálculo de un diputado más que
    cualquier argumento jurídico.
@@ -179,7 +181,10 @@ fuente, entran y suben mucho la pieza:
    legisló sobre perros sin resultado — y es letal para el Riesgo 6.
 4. **El nombre y el estado del proyecto que usa el mismo molde contra el
    rodeo.** Con boletín y fecha, el Riesgo 4 deja de ser advertencia y
-   pasa a ser constatación.
+   pasa a ser constatación. **Parcialmente resuelto en v02:** el video del
+   30-07 trae el rodeo a la discusión por sí solo («que las carreras sean
+   como el rodeo»), lo que ya permite decir «no lo digo yo». Con el
+   boletín en la mano el punto queda cerrado del todo.
 5. **Fotografías del canódromo real chileno**: pista recta, humectada,
    veterinario, público familiar. Contra el video editado de treinta
    segundos, la única defensa es imagen propia.

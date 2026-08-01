@@ -43,6 +43,26 @@ Estados: PENDIENTE · EN BÚSQUEDA · VERIFICADO · NO HALLADO
 
 ---
 
+## Argentina y videos (incorporados en v02 del discurso)
+
+Todos provienen de **búsqueda web** (prensa y declaraciones de ONG). Bajo
+la Regla del Testimonio son material de apoyo, no base del relato.
+Detalle completo en `04-fuentes/argentina-prohibicion-2016-dossier.md`.
+
+| N.º | Dato a verificar | Dónde se usa | Estado | Fuente primaria a consultar |
+|-----|------------------|--------------|--------|------------------------------|
+| 23 | Ley 27.330 (Argentina, 2016): prohibición total; penas de 3 meses a 4 años; multa $4.000-$80.000; votación 132-17-32; prohibición de caza de liebre con galgos | §7 | PENDIENTE | InfoLeg, norma 268503 + Diario de Sesiones |
+| 24 | Operativo Tres Arroyos / Coronel Pringles: 14 allanamientos (6 y 8), agentes encubiertos, cámaras y grupos de WhatsApp; secuestro de armas de fuego, medicamentos veterinarios, químicos y handies; causa en Bahía Blanca por Ley 27.330 y Ley 14.346 | §7, refutación | PENDIENTE | Prensa local (La Voz del Pueblo, El Eco, Perfil, La Nación 10-07-2025). **Confirmar el año: aparece como causa iniciada en 2024 con operativo difundido en 2025** |
+| 25 | Que la denuncia la originaron **vecinos y productores rurales** de Coronel Pringles por ingreso a sus campos | §7 (remate) | PENDIENTE | Misma prensa |
+| 26 | Operativo Las Heras, Mendoza (nov-2025): 10 detenidos, animales bajo resguardo judicial | dossier | PENDIENTE | Prensa mendocina (El Nueve, Sitio Andino) |
+| 27 | Cita de Hilen Elisci (ONG Rescatando Huellas): «la ley de galgos no se está cumpliendo; hoy hay carreras clandestinas y muchos otros galgos son usados para la caza» | §7, refutación | PENDIENTE | 0223.com.ar, 14-03-2024 — confirmar textual y fecha |
+| 28 | Artículo «Ley 27330 de prohibición de carreras de galgos: una ley penal innecesaria», revista Aequitas Virtual (USAL): autor, año, volumen y argumento | dossier | PENDIENTE | p3.usal.edu.ar (bloquea acceso automatizado; abrir a mano) |
+| 29 | **Video del 30-07-2026**: autoría, fecha de publicación y cuenta. Conservar copia del archivo | §6 del discurso, refutación completa | PENDIENTE | El archivo está en poder del autor |
+| 30 | **Cuál es exactamente el proyecto de regulación que va en cuarto lugar de la tabla**: ¿es el Boletín 12.786-12 u otro posterior? Y confirmar que no contiene ninguna norma de financiamiento estatal | refutación, afirmación 2 — **el punto más caro de equivocar** | PENDIENTE | Tabla de la Sala + texto del boletín en BCN |
+| 31 | Si el rodeo recibe o no aportes estatales | **NO AFIRMAR** — ver refutación §6 | PENDIENTE | Solo si alguna vez se va a afirmar |
+
+---
+
 ## Nota sobre el uso de estos datos
 
 Regla Cero del proyecto: **nada de esta tabla se pronuncia en público

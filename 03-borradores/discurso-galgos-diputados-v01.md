@@ -1,12 +1,14 @@
 ---
 pieza: Discurso — prohibición de carreras de perros (Boletín 15388-12)
-versión: v01
-estado: VIGENTE
+versión: v02
+estado: VIGENTE (supera a v01)
 fecha: 2026-08-01
 autor: Oscar Antonio Núñez Llanca · Fundación Soy del Campo Chile
 destinatario: Diputadas y diputados que deben votar el proyecto
 origen: no proviene de dictado — redactado sobre documentos del proyecto
-pendientes de verificación: 14 (ver 04-fuentes/por-verificar.md)
+pendientes de verificación: 25 (ver 04-fuentes/por-verificar.md)
+cambios v02: incorpora la evidencia de Argentina (Riesgo 5) y la
+  confirmación del precedente del rodeo tomada del video del 30-07 (Riesgo 4)
 ---
 
 # El riesgo de la prohibición
@@ -184,7 +186,16 @@ animales.
 
 **El que vota que sí hoy no vota por el galgo. Vota por el molde.**
 
-Y a quien crea que su distrito no tiene nada que ver con esto, le pido que
+Y no lo digo yo. Lo dice quien empuja este proyecto. Esta semana circuló
+un video pidiendo que ustedes aprueben la prohibición el lunes. ¿Y cuál es
+el argumento contra el proyecto de regulación? Textual: que pretende que
+las carreras queden **«como el rodeo»**.
+
+Nadie había hablado de rodeo en esta discusión. Lo trajeron ellos. Porque
+para ellos es la misma pelea, solo que en orden.
+`[VERIFICAR: autoría y fecha del video; conservar copia]`
+
+A quien crea que su distrito no tiene nada que ver con esto, le pido que
 lo mire de nuevo dentro de dos años.
 
 ### 7 · Riesgo quinto: se pierde el interlocutor
@@ -214,6 +225,38 @@ que llamar.
 
 Y el animal —que es de lo que se trataba— va a quedar exactamente donde
 nadie lo ve.
+
+Y esto no es una conjetura mía. Está probado, al lado, y hace nueve años.
+
+Argentina prohibió las carreras de perros en 2016, con pena de hasta
+cuatro años de prisión. Prohibición total, en todo el territorio, igual
+que la que se les propone hoy.
+
+¿Qué pasó? En 2025 la policía bonaerense tuvo que trabajar meses con
+**agentes encubiertos**, análisis de cámaras y seguimiento de grupos de
+WhatsApp, para llegar a **catorce allanamientos simultáneos** en Tres
+Arroyos y Coronel Pringles.
+
+¿Y qué encontraron ahí? Apuestas ilegales. **Armas de fuego.** Química
+veterinaria. Handies para coordinarse.
+
+Escuchen bien de dónde salió la denuncia: **de los productores rurales**,
+porque los corredores clandestinos se les metían en los campos.
+
+Y las propias fundaciones argentinas de rescate lo dicen con todas sus
+letras: que la ley no se está cumpliendo, que hay carreras clandestinas, y
+que ahora muchos galgos se usan para la caza —donde no hay pista, no hay
+veterinario, no hay horario y no hay testigos.
+`[VERIFICAR todo el bloque contra el dossier de fuentes]`
+
+Nueve años después de la prohibición, Argentina no tiene menos galgos
+corriendo. Tiene los mismos galgos corriendo con armas al lado.
+
+**La prohibición no terminó con la actividad. Le cambió el dueño.**
+
+Hoy, en Chile, esto tiene chip, veterinario y reglamento. Si ustedes
+aprueban esto, la próxima vez que quieran saber dónde está un galgo van a
+tener que pedirle a la PDI que se infiltre en un grupo de WhatsApp.
 
 ### 8 · Riesgo sexto: el problema real queda intacto
 
@@ -400,6 +443,13 @@ Y una advertencia que le hago de buena fe: usted no está votando por el
 galgo. Está votando el molde —actividad con animales igual actividad
 intrínsecamente cruel— y el siguiente proyecto que usa ese molde ya está
 presentado. Es el rodeo.
+
+Y mire lo que pasó donde ya lo hicieron. Argentina prohibió en 2016. En
+2025 la policía necesitó agentes encubiertos y catorce allanamientos para
+desbaratar una red que corría con apuestas ilegales, armas de fuego y
+química veterinaria. Los que denunciaron fueron los productores rurales,
+porque se les metían en los campos. La prohibición no terminó la
+actividad: le cambió el dueño.
 
 Hay salida y no lo deja mal con nadie: el Boletín 12.786-12 regula en vez
 de prohibir. Veterinario obligatorio, dopaje aleatorio, estándar de pista,
