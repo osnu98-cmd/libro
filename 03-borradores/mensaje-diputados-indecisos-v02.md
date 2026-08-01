@@ -1,7 +1,7 @@
 ---
 pieza: Mensaje a diputados nuevos e indecisos — votación del lunes 3-08-2026
 versión: v02
-estado: VIGENTE (supera a v01)
+estado: SUPERADA POR v03
 fecha: 2026-08-01
 dictado de origen: 01-dictados/transcripciones/2026-08-01-mensaje-diputados.md
 registros inferidos: sí — ver §0

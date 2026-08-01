@@ -65,6 +65,10 @@ Detalle completo en `04-fuentes/argentina-prohibicion-2016-dossier.md`.
 | 34 | Los seis parlamentarios que el video 2 nombra como impulsores de la prohibición: Jaime Araya, Camila Musante, Clara Sagardía, Marisela Santibáñez, Félix González, Daniel Melo. **Los nombres vienen de reconocimiento automático de voz y pueden estar deformados** | refutación §3 | PENDIENTE | Contrastar con los firmantes reales del boletín en BCN antes de usarlos |
 | 35 | Que el Boletín 15388-12 y el 12.420-12 son **mociones parlamentarias** (no de origen galguero), para sostener la respuesta a la afirmación 8 | refutación §3 | PENDIENTE | Ficha de tramitación de ambos boletines |
 
+| 36 | **Votaciones anteriores del proyecto: cuántas veces se ha votado, con qué fecha y con qué cifras cada vez.** El eje del video es que el rechazo es CRECIENTE. Si la progresión no es creciente, el tramo sale entero | v03 §4, tramo 0:56 | **CRÍTICO** | Diario de Sesiones y fichas de tramitación (BCN). Dato conocido: Sala 13-08-2024, 58 a favor / 68 en contra / 13 abstenciones — por confirmar |
+| 37 | Quiénes impulsaron cada versión del proyecto y **cuáles de ellos siguen hoy en el Congreso**. El dictado dice «todos están fuera»; el video 2 nombra a Félix González entre los impulsores actuales. Basta un nombre en ejercicio para que «todos» sea falso | v03 §4, tramo 1:18 | **CRÍTICO** | Firmantes de los boletines 12.420-12, 12.786-12 y 15388-12 + composición actual de la Cámara |
+| 38 | «Animales sufriendo condiciones documentadas por imposición de las políticas animalistas» — ¿a qué condiciones concretas se refiere el autor? | cavilaciones C-001 | PENDIENTE | Precisar con el autor y luego buscar fuente |
+
 ---
 
 ## Nota sobre el uso de estos datos
