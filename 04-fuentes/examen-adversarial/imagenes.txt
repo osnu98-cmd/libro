@@ -1,0 +1,134 @@
+# REPERTORIO DE IMÁGENES — mensaje a diputados (insumo para v07)
+
+Archivo de referencia: `/home/user/libro/03-borradores/mensaje-diputados-texto-hablado-v06.md`
+
+Regla de uso: **una imagen por concepto, no todas.** Dos imágenes seguidas en la misma sección se anulan entre sí. Donde doy variantes (A/B/C), es para elegir, no para encadenar.
+
+---
+
+## 1. Por qué prohibir empuja a la clandestinidad
+
+**1-A (la luz)**
+> «La prohibición no apaga la carrera. Le apaga la luz. El perro sigue corriendo igual, pero ahora corre donde usted no lo ve.»
+*Dónde:* §VII, reemplaza «Porque lo que se prohíbe no se regula. Se va a donde nadie lo mira.»
+
+**1-B (la dirección) — la más fuerte para un legislador**
+> «Hoy esa carrera tiene una dirección escrita, y usted puede mandar a alguien a mirar. Si el lunes se prohíbe, mañana la dirección se manda por WhatsApp dos horas antes y después se borra.»
+*Dónde:* §VII, justo antes de entrar a Argentina (o abriendo el §VIII, como bisagra).
+
+**1-C (el cambio de horario) — reemplaza «handies»**
+> «Deja de correrse un domingo a las tres de la tarde, con gente mirando, y pasa a correrse un martes a las dos de la mañana en un potrero, con un tipo en la esquina con radio avisando que viene Carabineros.»
+*Dónde:* §IX, en lugar de «mañana va a tener handies y no va a tener a nadie».
+
+**1-D (el costo de fiscalizar)**
+> «Hoy, a esa carrera, un fiscalizador entra por la puerta. Prohibida, hay que ir a buscarla de noche y llegar tarde.»
+*Dónde:* §VIII, cerrando el dato argentino de los meses de agentes encubiertos.
+
+---
+
+## 2. Regular es mejor que prohibir (sin definiciones)
+
+**2-A (la puerta) — la más simple**
+> «Prohibir es cerrar la puerta y quedarse afuera. Regular es entrar y poner las reglas adentro. Lo que le pido el lunes es que entre.»
+*Dónde:* §VII, reemplaza «usted no tiene que elegir entre prohibir o no hacer nada. Esa es una trampa» (saca además la atribución de mala fe).
+
+**2-B (el candado)**
+> «Con la regulación, a la cancha que no cumpla le ponen un candado y se acabó. Con la prohibición no hay cancha a la que ponerle candado: hay un potrero, y al potrero no le pone candado nadie.»
+*Dónde:* §VII, cierre de la lista de los cinco «a favor de».
+
+**2-C (el teléfono)**
+> «Regular es que haya un responsable con nombre, con dirección y con teléfono, y que ese señor responda. Prohibir es que no haya a quién llamar.»
+*Dónde:* §IX, apoyando «es votar a favor de que exista alguien a quien exigirle».
+
+**2-D (la hípica) — única analogía que recomiendo conservar**
+> «En la hípica corren animales, hay premios y hay plata de por medio. Y a nadie se le ha ocurrido pedir que se prohíba la hípica: lo que se hizo fue ponerle veterinario, control de dopaje y alguien que pueda cerrar. Eso, exactamente eso, es lo que le pido el lunes.»
+*Dónde:* §V, reemplaza el bloque del fútbol completo. `[REQUIERE VERIFICACIÓN DE FUENTE: que el estatuto de la hípica chilena contemple efectivamente veterinario, control de dopaje y una autoridad con facultad de clausura. Si no consta, decir solo «lo que se hizo fue regularla».]`
+
+---
+
+## 3. Qué se pierde en concreto (veterinario, chip, reglamento)
+
+**3-A (la foto de hoy) — resuelve la contradicción §VII/§IX**
+> «Hoy, en esa carrera, hay un veterinario parado ahí con su maletín. Cada perro anda con un chip en el cuello, con su número. Y hay una hoja firmada con las reglas. Nada de eso lo exige la ley: se lo puso la propia gente de la actividad. El lunes usted lo puede convertir en obligación.»
+*Dónde:* §VII, reemplaza «Nada de eso existe hoy». Y en §IX se dice la contracara (3-B o 1-C), nunca la misma frase.
+`[POR CONFIRMAR CONTIGO: que hoy efectivamente haya veterinario en pista, chip registrado y reglamento escrito. Si es de algunos clubes y no de todos, decir «en las carreras que yo conozco».]`
+
+**3-B (la pata quebrada)**
+> «Si un perro se quiebra una pata en la pista, hoy tiene un veterinario a diez metros. En un potrero, de noche, tiene la parte de atrás de una camioneta.»
+*Dónde:* §IX, inmediatamente después de la mención al perro herido.
+
+**3-C (el número)**
+> «El chip es un número. Con ese número se sabe de quién es el perro y quién responde por él. Prohibida la carrera, el perro corre igual, pero sin número. Y un perro sin número es un perro del que no responde nadie.»
+*Dónde:* §IX, alternativa a 3-B si quiere el énfasis en responsabilidad y no en la lesión.
+
+**3-D (lo voluntario contra lo exigible)**
+> «Hoy, el que no pone veterinario no tiene a nadie encima. Eso es lo que usted puede cambiar el lunes: que deje de depender de la buena voluntad del que organiza.»
+*Dónde:* §VII, cierre de la lista, si prefiere una sola frase en vez de 3-A.
+
+---
+
+## 4. Que el reproche cambió de maltrato a apuestas
+
+**4-A (la puerta de entrada y la de salida)**
+> «La denuncia entró por una puerta y salió por otra. Entró diciendo que le pegaban a los perros. Después de que fueron a mirar, salió diciendo que ahí se apuesta.»
+*Dónde:* §V, reemplaza «Nadie cambia de acusación cuando la primera se sostiene» (que es un universal refutable).
+
+**4-B (la más corta)**
+> «Fíjese en el cambio, nada más: partieron hablando del perro y terminaron hablando de la plata.»
+*Dónde:* §V, si quiere el golpe seco antes del silencio de dos segundos que ordena el §XI.
+
+**4-C (la salida constructiva, va pegada a la anterior)**
+> «Y son dos cosas distintas, que se responden distinto. Si el problema es que le pegan a un perro, para eso ya hay ley y hay que usarla. Si el problema es la apuesta ilegal, legisle usted sobre apuestas, y cuente conmigo.»
+*Dónde:* §V, cerrando la sección; sustituye «legislen sobre apuestas. Yo los apoyo» (corrige el plural y el «yo los apoyo»).
+`[REQUIERE VERIFICACIÓN DE FUENTE: revisar los fundamentos del boletín. Si las apuestas ya aparecen ahí desde el ingreso, esta imagen se cae entera y hay que rehacer el §V.]`
+
+---
+
+## 5. La escala: galgos inscritos frente a perros en la calle
+
+`[REQUIERE VERIFICACIÓN DE FUENTE: las dos cifras —25.000 galgos inscritos y 3,5 millones de perros en situación de calle— vienen del dictado y no están verificadas contra fuente primaria. Ninguna de estas imágenes se graba sin el papel. La 5-D no usa cifras y sirve de reemplazo.]`
+
+**5-A (el estadio)**
+> «Todos los galgos inscritos de Chile caben en un estadio. Los perros que andan sueltos en la calle no caben en ninguna parte.»
+*Dónde:* §VI, antes de la pregunta «¿Por qué hay que prohibirla?».
+
+**5-B (la proporción, dicha como piso y no como cifra exacta)**
+> «Por cada galgo inscrito, con chip y con dueño, hay más de cien perros en la calle sin nombre y sin nadie.»
+*Dónde:* misma posición que 5-A; es la versión más segura porque «más de cien» es un piso, no una cifra.
+
+**5-C (el mismo lunes) — con la coartada anti-«whataboutism» incorporada**
+> «El lunes van a legislar sobre veinticinco mil perros que tienen dueño, chip y veterinario. Y ese mismo lunes van a amanecer tres millones y medio en la calle, que no tienen ni nombre. No se lo digo para que usted no haga nada. Se lo digo para que sepa dónde está el perro que de verdad lo está pasando mal.»
+*Dónde:* §VI. La última frase no es opcional: sin ella la imagen se lee como «hay cosas peores» y se refuta sola.
+
+**5-D (sin cifras, si no alcanza a verificar)**
+> «Si el lunes usted quiere hacer algo grande por los perros de Chile, el perro que peor lo está pasando no está en una pista. Está a dos cuadras del Congreso, en la calle.»
+*Dónde:* §VI, reemplazo directo de 5-A/B/C.
+
+---
+
+## 6. Votar en contra no es votar a favor del maltrato
+
+**6-A (a quién reclamarle)**
+> «Votar que no el lunes no es votar a favor de que le peguen a un perro. Es votar a favor de que haya alguien a quien reclamarle cuando eso pase, con nombre y con dirección.»
+*Dónde:* §IX, reemplaza «Es votar a favor de que exista alguien a quien exigirle».
+
+**6-B (las dos manos) — la que baja el costo político, que es el objetivo del mensaje**
+> «Ese día usted levanta la mano dos veces: una para decir que no a la prohibición, y otra para decir que sí al veterinario obligatorio. Las dos quedan en la misma acta, del mismo día, y la firma usted.»
+*Dónde:* §VII, cerrando la petición. Sustituye con ventaja la frase-guion del §IX: el acta habla sola y no hay que entregarle un libreto a un parlamentario.
+
+**6-C (el perro herido) — no descarta la evidencia, la usa)**
+> «Si le muestran un perro herido, ese perro existe y yo no le voy a decir que no. La pregunta es una sola: el que lo dañó, ¿aparece o desaparece? Hoy hay un club con nombre a quien preguntarle. En un potrero de noche no hay nadie a quien preguntarle nada.»
+*Dónde:* §IX, reemplaza «No lo está. Y usted lo sabe.»
+
+**6-D (lo que queda escrito)**
+> «En el acta no va a decir “votó contra los perros”. Va a decir el número del proyecto, y va a decir que usted aprobó el que pone veterinario obligatorio.»
+*Dónde:* §IX, alternativa a 6-B si prefiere el énfasis al final y no en el §VII.
+
+---
+
+## Notas de ejecución (punto de vista de Claude, no instrucción)
+
+- **Presupuesto de imágenes:** en un texto de cuatro a cinco minutos caben cinco o seis imágenes, no dieciocho. Sugerencia de set mínimo, una por concepto: **1-B, 2-A, 3-A, 4-A, 5-D, 6-B.** Ese set no depende de ninguna cifra sin verificar.
+- **Tres imágenes cargan el peso del mensaje** y conviene que no compitan: 3-A (§VII), 1-B o 1-C (§VIII/§IX) y 6-B (§VII). Las tres dicen lo mismo desde ángulos distintos: hoy hay alguien, mañana no hay nadie.
+- **El potrero es el ancla del repertorio.** Aparece en 1-C, 2-B, 3-B y 6-C. Úselo en dos lugares como máximo, o se gasta.
+- **Ninguna de estas imágenes reemplaza una verificación.** Las que tocan hechos van marcadas arriba; la tabla del lunes sigue siendo bloqueante para todo el §VII, como ya dice el §X del archivo.

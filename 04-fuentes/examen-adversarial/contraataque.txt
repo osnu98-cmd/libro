@@ -1,0 +1,111 @@
+He leído el archivo completo (`/home/user/libro/03-borradores/mensaje-diputados-texto-hablado-v06.md`, v06, 328 líneas).
+
+**Advertencia previa (Regla Cero):** todo lo que sigue en la Parte A es **[HIPOTÉTICO]** — una simulación de guion adversario escrita por mí, no una pieza real ni una fuente. Ningún dato que aparezca ahí está verificado; donde el adversario usaría una cifra, dejo el hueco marcado en vez de inventarla. Las réplicas de la Parte B son propuestas ("punto de vista de Claude"), no afirmaciones establecidas.
+
+---
+
+# A · El contraataque: guion de 60 segundos [HIPOTÉTICO]
+
+Supuesto de partida: **el video se filtra**. Un diputado lo reenvía el sábado. El domingo sale esto, público, en vertical, sin música, voz baja de mujer. Su fuerza no es gritar: es usar las palabras de él.
+
+**Título en pantalla:** *"Ayer su diputado recibió un video. En privado. Este no."*
+
+| Tiempo | Imagen | Voz en off |
+|---|---|---|
+| 0–06 | Negro. Sonido de pista. Texto: "En privado. Uno por uno." | "Ayer los abogados de los galgueros le mandaron un video a su diputado. En privado. Uno por uno. Para que usted no lo viera." |
+| 06–11 | Rostro de galgo, fijo. Sin música. | "Nosotros se lo decimos acá, donde usted lo ve." |
+| 11–30 | Las cinco frases apareciendo en pantalla, una a una, en blanco sobre negro | "En ese video ellos piden veterinario obligatorio. Control de dopaje. Edad mínima para correr. Estándar de pista. Y clausurar al que no cumpla." *(silencio 1s)* "Se lo piden a usted. Porque hoy nada de eso existe. Hoy en Chile un perro puede correr sin veterinario, sin edad mínima y sin control. **Acaba de decírselo el abogado de ellos.**" |
+| 30–40 | Documento borroso, sello | "Dicen que en diecisiete años no hay ni una condena. Le creemos. Tampoco hay [N] fiscalizaciones. *(dato que ellos afirmarían — hueco)* Que nadie haya ido a mirar no es un certificado de buen trato." |
+| 40–50 | Galgo viejo, plano largo | "Dicen que en el fútbol también se apuesta. En el fútbol, al que pierde no lo desechan. Pregúnteles qué pasa con el galgo que deja de ganar. Esa respuesta no está en su video." |
+| 50–60 | Placa: LUNES 3 DE AGOSTO | "Diputada, diputado: el lunes usted vota. Vote a favor. Y dígalo en público — como estamos hablando nosotros." |
+
+Los seis golpes, aislados:
+
+1. **Canal:** "se lo mandaron en privado para que usted no lo viera" → lobby oculto.
+2. **Confesión invertida:** su lista de regulación leída como inventario de lo que hoy falta.
+3. **Ausencia de condena = ausencia de fiscalización**, no de maltrato.
+4. **El fútbol**, devuelto como remate.
+5. **El galgo que ya no gana** — el hueco que v06 no toca en ninguna línea.
+6. **"Dígalo en público"** — ataque directo a la estrategia del canal privado: le exige al indeciso comprometerse antes de leer.
+
+---
+
+# B · Réplicas, dichas en voz alta
+
+**1. "Se lo mandaron en privado."**
+> "Se lo mandé a usted y no lo publiqué porque no vengo a presionarlo en público, vengo a que lo revise tranquilo. Publíquelo entero si quiere: no hay nada que sacarle, y lo mismo estoy dispuesto a decirlo en comisión, con nombre."
+
+**2. "El único que le pide que no mire es el que cobra por esto."**
+> "Yo no le pedí que no mire. Le pedí lo contrario: vaya usted, o mande a quien quiera, el día que se le ocurra y sin avisar. Yo le abro la puerta."
+> *(Esto debería estar dentro del video, no solo en la réplica. Ver C-6.)*
+
+**3. "Su propia lista dice todo lo que hoy falta."** ← el golpe más difícil
+> "Que yo pida veterinario obligatorio por ley no significa que hoy no haya veterinario: significa que hoy no es exigible a nadie ni permite clausurar a nadie, y yo quiero que lo sea. Prohibir no pone un veterinario en ninguna parte; el proyecto cuarto sí."
+
+**4. "No hay condenas porque nadie fue a fiscalizar."**
+> "Puede ser, pero en diecisiete años la denuncia la pudo hacer cualquiera, y quien quiso denunciar denunció. Si hay un caso, tráiganlo el lunes: yo mismo pido que se persiga con la ley que ya existe."
+> *Y si el domingo aparecen con un caso concreto:* "Un caso probado prueba que la ley sirve y hay que aplicarla, no que haya que prohibir una actividad entera."
+
+**5. "En el fútbol al que pierde no lo desechan / ¿qué pasa con el galgo que ya no gana?"**
+> **No tiene respuesta preparada y es la pregunta que más le van a hacer.** La réplica tiene que salir de su testimonio y de papel, no de mí. Formato: "El galgo que deja de correr se queda con el mismo dueño, y el abandono ya es delito por [norma exacta]. Si quiere trazabilidad obligatoria del perro después de la carrera, eso se puede exigir en el proyecto cuarto — la prohibición no le da casa a ningún perro." **[REQUIERE VERIFICACIÓN DE FUENTE: ¿el proyecto de regulación incluye registro/destino del galgo retirado? Si lo incluye, es su mejor carta y hoy no la está jugando.]**
+
+**6. "Nadie cambia de acusación cuando la primera se sostiene" — devuelto: ahora usted ofrece regular.**
+> "Yo no cambié de posición: llevo siete años pidiendo lo mismo, que se regule y se fiscalice. Los que cambiaron partieron por maltrato y terminaron hablando de apuestas." **[POR CONFIRMAR CONTIGO: que tu posición pública de regular sea documentable desde el inicio, con fecha. Si no lo es, no uses esta réplica.]**
+
+**7. "Argentina: armas, dopaje. Lo contó él mismo."**
+> "Se lo conté yo porque es un procedimiento público, y ocurrió nueve años después de que Argentina prohibiera. Eso es lo que queda cuando se prohíbe: acá todavía se puede llegar con un veterinario, allá solo se llega con la policía."
+
+**8. "¿Quién le paga? Es el abogado de la industria."**
+> "Soy abogado y represento a gente del campo, y se lo digo yo antes de que se lo digan ellos. Por eso todo lo que le mando es documento público con número, para que usted lo revise sin tener que creerme a mí."
+
+**9. "Les recordaron que el 90% no salió reelecto."** ← si el video ya circuló
+> "Ese dato no era una advertencia a nadie, y si se puede leer así, está mal dicho y lo retiro. Lo que sostengo está en los oficios, no en una estadística electoral."
+> *Mejor que la réplica: sacarlo antes de grabar. Ver C-1.*
+
+**10. "Dígalo en público."** — réplica dirigida al diputado, no al adversario
+> "Si le piden que anuncie su voto antes del lunes, le están pidiendo que se comprometa antes de leer. Lea el proyecto que va cuarto, y después diga en público lo que quiera."
+
+---
+
+# C · Qué frases de v06 le están regalando munición
+
+Ordenado por daño, con la corrección concreta.
+
+**1. §III — "alrededor del noventa por ciento hoy no está en el Congreso. No fueron reelectos."**
+Es la línea más peligrosa del texto. En un video privado a un legislador, en vísperas de votación, se lee como recordatorio electoral, y el "yo no le voy a interpretar" lo agrava en vez de protegerlo: pone el dato y se retira. Un solo pantallazo convierte los cinco minutos en "amenazaron a los diputados". Además está sin verificar. **Corrección: eliminar el bloque completo, no reemplazarlo.** No sostiene ningún otro argumento del texto.
+
+**2. §VII — la lista de la regulación sin blindaje inmediato.**
+"Veterinario obligatorio, dopaje, pista, edad mínima, clausura… nada de eso existe hoy" es, leído solo, una confesión firmada. El antídoto ya lo tienes escrito, pero está en §IX, dos minutos después ("hoy tiene chip, tiene veterinario y tiene reglamento"). **Corrección: subirlo. Que la frase "hoy eso existe por reglamento privado y no obliga a nadie; yo quiero que sea ley y que permita clausurar" venga pegada a la lista, no dos minutos más tarde.** Es la edición de mayor rendimiento del documento.
+
+**3. §IX — "Y si necesita una frase para decir en público, se la dejo hecha."**
+Filtrada, es la imagen del abogado de la industria redactándole los dichos al parlamentario. **Corrección: que la frase sea tuya, no un guion que le entregas.** "Lo que yo digo en público es esto, y usted puede decir lo mismo si lo comparte."
+
+**4. §V — "En el fútbol se apuesta… prohibir el fútbol."**
+Regala el remate ("al que pierde no lo desechan") y compara categorías distintas. La hípica sí te sirve y está en la misma frase, desperdiciada: es carrera de animales, con apuesta legal y regulación por ley, en Chile. **Corrección: sacar el fútbol, quedarse con la hípica y llevarla hasta el final** — "a la hípica no la prohibieron: le pusieron reglas".
+
+**5. §VIII — "armas de fuego, química veterinaria" sin marco previo.**
+Hoy las imágenes llegan primero y el encuadre ("le cambió el dueño") llega después: el oyente ya vio la escena. **Corrección: marco antes.** "Esto es lo que había nueve años después de prohibir" y recién entonces la enumeración.
+
+**6. §IX — la inoculación del video de treinta segundos.**
+Preverlo es correcto, pero tal como está se puede voltear en "el único que le pide que no mire es él" — justo contra tu propia tesis del §IV ("se cae cuando alguien va a mirar"). **Corrección: invertir la petición.** "Véalo. Y después haga esto otro: vaya usted, sin avisar, el día que quiera. Yo le abro la puerta." Una invitación abierta a inspección sin aviso es lo único que el otro guion no puede contestar.
+
+**7. §IV — "diputados que se las dieron de investigadores".**
+Es la única línea con filo del texto, y va dirigida a la audiencia misma. Roza la regla 6 del §XI. **Corrección: "diputados que fueron a verificar personalmente".**
+
+**8. §IV — "no existe una sola condena en diecisiete años".**
+Aparte de estar sin verificar, invita la respuesta "porque nadie fiscalizó". **Corrección: inmunizarla en la misma frase** — "y no porque nadie pudiera denunciar: la denuncia la puede hacer cualquiera, y en estos años se han hecho".
+
+**9. §I — "le voy a hablar cuatro minutos" en una pieza de cinco.**
+Detalle, pero el argumento entero es "yo soy el que tiene los datos exactos". Ajústalo o quítalo.
+
+**10. Falta absoluta: quién eres respecto de los galgueros.**
+No hay una línea de declaración de interés en todo el texto, y "a mí no me interesa ponerme a defender la actividad" (§VI) deja el flanco abierto a que te lo revelen ellos. **Corrección: declararlo tú en §I**, donde ya dices "con los papeles arriba de la mesa" — es el lugar natural y convierte el ataque n.º 8 en aire.
+
+**11. Riesgo operativo:** el §XI ("uno a uno, sin publicar… le deja espacio para cambiar de opinión sin perder cara") es, filtrado, la prueba documental de la estrategia. **Nunca enviar este .md ni ningún fragmento suyo. Solo el video.**
+
+---
+
+# D · Los dos huecos sin respuesta hoy
+
+- **El galgo que deja de ganar.** Cero líneas en v06. Es el centro emocional del ataque y la pregunta que hará cualquier periodista el lunes. Necesita una respuesta corta, tuya, verificable, antes de grabar.
+- **Qué pasa con el proyecto cuarto si gana la prohibición del tercero** — y si el cuarto tiene tramitación real o queda dormido. Si el adversario dice "aprobar el cuarto no sirve de nada", hoy no tienes con qué contestar. **[REQUIERE VERIFICACIÓN DE FUENTE: estado de tramitación del proyecto de regulación.]** Se suma al bloqueante que ya tienes anotado en §X sobre el orden de la tabla.

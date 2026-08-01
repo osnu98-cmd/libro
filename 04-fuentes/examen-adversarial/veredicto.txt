@@ -1,0 +1,112 @@
+/home/user/libro/03-borradores/mensaje-diputados-texto-hablado-v06.md — leído completo. Examen adversarial de la v07:
+
+**Dato duro que ordena todo lo demás:** v06 cuerpo hablado = **1.349 palabras**. v07 cuerpo hablado = **1.449 palabras**. La revisión dice de sí misma "~1.350 palabras" — esa es la cifra de la v06, no la suya. Es decir: eliminó el §III completo y trece bloques más, y terminó **100 palabras más larga**. Todo lo cortado se rellenó. La revisión no resolvió el problema de duración, solo dejó de mentir sobre él. Para un video de WhatsApp a un parlamentario a tres días de votar, con la petición al final, esto es la falla práctica más grave de la pieza, por encima de cualquier corrección individual.
+
+---
+
+## 1. Dónde perdió fuerza
+
+**a) La pérdida mayor: desapareció el falso dilema nombrado.** La v06 decía *"usted no tiene que elegir entre prohibir o no hacer nada"*. Esa frase es el corazón de la estrategia declarada (quitar el costo político): nombra el dilema que el diputado siente y lo disuelve. La v07 la borró y la reemplazó por la metáfora de la puerta. La metáfora afirma que hay alternativa, pero **nunca nombra la trampa que el diputado tiene en la cabeza**. La revisión clasifica esto en su ítem 28 como "abstracción reemplazada por imagen" — pero "prohibir o no hacer nada" no es una abstracción, es el marco mental del destinatario. Además el ítem 19 es una mala lectura: en la v06, "trampa" no atribuía mala fe a nadie, calificaba al dilema. Se cortó por un cargo que no aplicaba.
+
+**b) La apertura dejó de apuntar.** La v06 seleccionaba: *"Es para usted, si es de los que llegó hace poco a esa sala."* El encargo dice que el destinatario es el diputado **nuevo** o indeciso. La v07 lo dejó de nombrar: solo conserva el filtro negativo ("si ya tiene decidido su voto, apague esto"). Se perdió la autoidentificación, que en un envío uno a uno es el segundo más valioso del video. Esta supresión no figura en la lista de cambios: se fue sin que nadie la decidiera.
+
+**c) El precedente se disolvió con una justificación teórica.** Que el proyecto entró tres o cuatro veces y se rechazó todas es **el reductor de costo político más directo que tenía la pieza**: le dice al diputado que su voto no lo deja solo ni lo vuelve raro. La revisión lo descarta como "argumento de manada" y por el riesgo de free-rider ("si la mayoría ya está, mi voto no hace falta"). Eso es sobreanálisis: en votación de Sala nadie se abstiene por estar acompañado, y además la petición real es un voto **a favor** del segundo proyecto, donde el free-rider no opera. Bien cortada la tendencia ("cada vez por una votación más alta", no verificada y refutable en dos minutos); mal cortado el hecho del rechazo repetido. Lo que quedó — "usted cuenta las veces" — delega al destinatario el trabajo que el mensaje debía hacer.
+
+**d) Se perdió la única frase que convertía la historia en tesis:** *"se cae cuando alguien va a mirar"*. Se fue junto con el §III. Sin ella, el §III de la v07 narra que fueron a mirar y no encontraron nada, pero nunca dice qué consecuencia tuvo eso sobre votaciones anteriores.
+
+**e) Argentina perdió su mejor dato y nadie lo registró.** La v06 tenía: *"la denuncia la hicieron los productores rurales, porque los corredores clandestinos se les estaban metiendo en los campos."* Es el único elemento que aterriza Argentina en el mundo del autor, y el que vuelve concreto "le cambió el dueño": el prohibido no desaparece, se le mete al vecino en el potrero. Desapareció del texto **y de la lista de verificación** (el ítem 8 enumera cinco hechos argentinos y este no está). Si es verificable, es el hecho que más rinde de esa sección.
+
+**f)** *"Exactamente lo que le van a pedir a usted que apruebe"* → *"es la misma idea"*. Correcto bajar "hasta cuatro años"; innecesario bajar la relevancia. La frase que ataba Argentina a la votación del lunes quedó tibia.
+
+**g) "Chip" no era jerga.** El microchip es de conocimiento corriente en Chile y era la prueba concreta de trazabilidad que sostiene el cierre ("alguien a quien reclamarle, con nombre y con dirección"). Se cortó dentro de un lote con "handies" y "reglamento", que sí correspondía cortar. Recuperable en el cierre si se verifica.
+
+**h) Detalles baratos que se fueron:** *"No lo está. Y usted lo sabe."* La segunda mitad regalaba complicidad a costo cero.
+
+**i) §VII quedó inejecutable.** La v06 al menos daba posición en tabla (tercero / cuarto). La v07 la sustituyó por *"si el orden cambia, da lo mismo"* y sigue sin números de boletín. Resultado: la sección que la propia revisión declara "el destino de toda la pieza" **no contiene un solo identificador con el que el diputado pueda actuar**. Y el hedge preventivo delata que el autor no sabe qué hay en la tabla — justo en el párrafo donde su credencial es tener los papeles.
+
+---
+
+## 2. Afirmaciones nuevas, no verificables o no marcadas
+
+Ordenadas por riesgo:
+
+1. **"Si en Chile ya está escrito cómo hay que tener a un animal. Qué tiene que comer. Dónde tiene que dormir. Y quién responde si aparece herido."** Es nueva (la v06 decía "normas de bienestar animal" y "procedimientos") y **no está en la lista de verificación**. Es el caso puro del riesgo que introdujo la pasada de vividez: la abstracción era irrefutable; la imagen es chequeable y un asesor parlamentario la chequea en diez minutos. Va a la lista, o vuelve a formulación general.
+2. **"Y a nadie se le ha ocurrido pedir que se prohíba la hípica."** Negativo universal, exactamente del tipo que la revisión declara haber eliminado en sus ítems 14 y 15, y el más fácil de refutar de toda la pieza. Reemplazo sin costo: *"La hípica no se prohibió. Se reguló."*
+3. **"Acá todavía se llega con un veterinario"** (§VI) contra **"Hoy hay veterinario donde el club decidió ponerlo"** (§VII). La revisión resolvió una contradicción interna (ítem 21) y creó otra de la misma especie, a veinte líneas de distancia. Arreglo: *"Acá todavía se llega con un veterinario, aunque sea porque el club quiso."*
+4. **"Es lo que aparece cuando una carrera se queda sin veterinario, sin control y sin nadie a quien reclamarle."** Inferencia causal enunciada como hecho, y subrayada ("porque es la clave"). Es el punto de la sección, pero conviene decirlo como lectura propia, no como ley.
+5. **"Llevo siete años en esto, del lado de la gente de esta actividad. No se lo escondo."** El agregado es correcto y necesario, pero la fórmula mínima con "no se lo escondo" es peligrosa si hay algo más: una declaración parcial acompañada de una promesa de transparencia es **peor que el silencio** si después aparece asesoría, patrocinio o representación. Esto no es "por confirmar": es bloqueante al mismo nivel que la tabla.
+6. **"Yo lo ayudo a llegar."** Compromiso nuevo, y además concede implícitamente que el autor puede franquear el acceso a los recintos — lo que roza con la postura de "yo solo le traigo papeles que no escribí".
+7. **Tres entregas prometidas a cámara para el mismo día**: el artículo del Código Penal, las actas, y "los papeles... hoy mismo, sin que me los pida". La v06 prometía una y condicionada. Si una sola no llega el lunes por la mañana, cae la única credencial del video.
+8. **"Diecisiete años"**: la v07 borró el anclaje verificable (2009) y conservó la cifra derivada. Es al revés de lo que conviene. Y el propio texto ya contiene su reemplazo sin costo de verificación, en el §V: *"desde antes de que usted llegara a esa sala"*. Con esa fórmula, el argumento no pierde nada y el número desaparece de las tres apariciones. `[REQUIERE VERIFICACIÓN DE FUENTE]` sigue en pie mientras la cifra se diga.
+9. **"Reenvíelo a quien quiera, incluso a quien piensa distinto."** El primer movimiento es bueno (desactiva el titular del video secreto). El segundo invita activamente al adversario a recibir, tres días antes de la votación, una pieza con al menos cuatro datos sin verificar. Conservar *"Esto no es reservado. No hay nada acá que yo no diga en público."* y cortar la invitación explícita.
+
+---
+
+## 3. Las imágenes: cuáles se oyen y cuáles solo se leen
+
+**Se oyen bien, sin trabajo del oyente:** "le cambió el dueño" (venía de la v06); "acá todavía se llega con un veterinario, allá ya solo se llega con la policía"; **"en un potrero, de noche, no hay a quién preguntarle nada"** — la mejor de la pieza, y la única que además está en el registro propio del autor; "le pongan un candado"; "entró por una puerta y salió por otra"; "como a los ciclistas".
+
+**No se oye:** *"prohibir es cerrar la puerta y quedarse afuera. Regular es entrar y poner las reglas adentro."* De oído: ¿afuera de qué? ¿adentro de dónde? Exige desarmar dos relaciones espaciales invertidas en el segundo más importante del video, y desplazó una frase que no exigía nada. Es el caso exacto de metáfora que se lee ingeniosa y se oye vacía.
+
+**Saturación:** hay **cuatro puertas con cuatro significados distintos** (la denuncia entra y sale por una puerta; prohibir es cerrar la puerta; regular es entrar; nadie puede cerrarle la puerta al club que no cumple) más un candado. Dichas en ocho minutos se anulan entre sí. Que las puertas hagan un solo trabajo.
+
+**Riesgo nuevo, y es serio:** las imágenes del §VII son las mejor escritas y las peor grabadas. *"Sin hoyos donde un perro se quiebre una pata"*, *"que ningún cachorro pise una pista"*, *"el que dopó, para afuera"*. La pieza anuncia en el §VIII que el adversario va a circular un video de treinta segundos — y en el §VII le graba la banda sonora: seis segundos del propio autor nombrando perros con la pata quebrada, cachorros corriendo y dopaje. Al convertir el articulado abstracto en escenas, se convirtió material aburrido y seguro en material memorable y recortable en contra. Mitigación sin perder nada: atribuirlas al proyecto — *"el proyecto dice que la pista tiene que estar pareja"*, *"dice que ningún cachorro corre"* — de modo que las escenas sean del texto legal y no de la boca del autor.
+
+**Borderline:** *"¿hace aparecer al responsable de ese perro, o lo hace desaparecer?"* Construcción más escrita que hablada; sobrevive solo si se dice lento y separado.
+
+---
+
+## 4. ¿Mejoró la hilación o solo se agregaron conectores?
+
+**En lo macro mejoró de verdad, y es el mayor acierto de la revisión.** Que Argentina pase a contestar la objeción real ("¿y qué pierdo con prohibir igual?") en vez de ser alegato añadido es una unión lógica, no cosmética. Que la petición sea el último movimiento antes del cierre es correcto para un video donde la atención decae. Eso no se discute y no se debe revertir.
+
+**En lo fino, la unión se hizo con conjunción, no con lógica.** Oraciones que empiezan con "Y": **v06 = 10; v07 = 30**. Triplicadas. Dicho a cámara, todo suena a continuación y nada suena a punto nuevo: se aplana el énfasis justo en el texto que depende de tres silencios y de "Fueron. Miraron. Preguntaron."
+
+**Meta-narración:** seis anuncios de lo que va a hacer ("le digo de entrada", "empiezo por lo que no le vengo a pedir", "le digo altiro lo que eso prueba", "entonces me queda una sola pregunta", "le digo ahora, en concreto", "una última cosa"). La v06 tenía dos. Anunciar el movimiento no es hilar: es sustituir la transición por su descripción.
+
+**Dos contradicciones internas nuevas, audibles:**
+- §II: *"empiezo por lo que no le vengo a pedir, porque si no, usted va a estar todo el rato esperando el momento en que se lo pida"* — y tres líneas después: *"Al final le voy a decir otra, y es concreta."* Instala exactamente la espera que dice desactivar. O se dice la petición completa ahí ("al final le voy a pedir dos votos"), o se saca el aviso.
+- §VII: *"van dos proyectos, uno detrás del otro"* seguido de *"si el orden cambia, da lo mismo"*.
+
+**Y el ítem 4 de la revisión no se cumplió:** el descargo sigue dicho dos veces (§II y §V), solo que ahora con "Y le repito lo del principio". Repetirlo probablemente está bien; lo que está mal es que la lista de cambios afirme que se unificó.
+
+---
+
+## 5. ¿Sigue sonando a él?
+
+Mayormente sí, y en algunos puntos más que la v06: "ándese al final", "altiro", "potrero", "para afuera", "le pongan un candado", "Yo el primero", "cuente conmigo", "Yo las defiendo. Usted no tiene por qué." Eso es voz.
+
+**Dónde suena a asesor, en orden:**
+- **La apertura y el último párrafo**, por acumulación. Tres movimientos de higiene reputacional en fila —declaración de interés, "reenvíelo a quien quiera", taxonomía documento/testimonio— suenan a alguien que fue aconsejado sobre cómo protegerse. Cada uno por separado es correcto; los tres juntos cambian de quién parece el texto. Conservar la declaración de interés (imprescindible) y la distinción documento/testimonio en una frase; soltar el resto.
+- **El bloque de carga de la prueba** ("Le digo altiro lo que eso prueba y lo que no prueba... el que quiere prohibir una actividad entera es el que tiene que traer el caso. No al revés."). Es el argumento más sólido de toda la pieza y hay que conservarlo, pero es un escrito judicial dicho en voz alta. En dos frases en vez de cinco sigue siendo inatacable y deja de sonar a alegato.
+- **"Y se la hago en serio, no como frase para el video."** Se autodelata: le recuerda al oyente que está viendo un video con frases preparadas, justo cuando el texto quiere que se olvide de eso. Fuera.
+- **"Y como usted va a tener que explicar su voto..."** Ojo: la revisión sacó el bloque del 90% de no reelectos por ser presión electoral encubierta, y volvió a introducir, en miniatura, la misma familia (recordarle que rendirá cuentas). Es mucho más suave y probablemente tolerable, pero conviene saber que está ahí y no creer que el registro quedó limpio.
+
+---
+
+## 6. Veredicto: **mezclar**, con base v07
+
+La arquitectura de la v07 es superior y no se vuelve atrás: el orden pregunta → objeción → petición, las sobreafirmaciones corregidas (14, 15, 16, 17, 18), la salida de los artículos dichos de memoria, del fútbol, de la ironía sobre los diputados, de la frase-guion y del 90% de no reelectos. Todo eso se conserva.
+
+**Injertar desde la v06 (nueve piezas):**
+1. **"Usted no tiene que elegir entre prohibir o no hacer nada"**, restituida al inicio del §VII, *antes* de la puerta. Innegociable: es la frase que ejecuta la estrategia.
+2. **"Es para usted, si es de los que llegó hace poco a esa sala"** en la apertura, antes del "apague esto".
+3. **El rechazo repetido**, con el número si se verifica, dicho como compañía y no como estadística, en el §VII. Sin la tendencia de votación.
+4. **"Se cae cuando alguien va a mirar"**, como bisagra de entrada al §III.
+5. **El origen de la denuncia argentina** (productores rurales, corredores metiéndose en los campos), si se verifica — y agregarlo a la lista de verificación, donde falta.
+6. **"Exactamente lo que le van a pedir que apruebe el lunes"**, sin los cuatro años.
+7. **El chip**, en el cierre, junto a "un club con nombre".
+8. **"Y usted lo sabe"** después de "No lo está".
+9. **La posición en tabla**, cuando esté verificada, en vez del hedge — y con los dos números de boletín, dichos despacio y dos veces.
+
+**Corregir en la v07 (seis, ninguna opcional):**
+- "a nadie se le ha ocurrido prohibir la hípica" → "La hípica no se prohibió. Se reguló."
+- "acá todavía se llega con un veterinario" → "...aunque sea porque el club quiso."
+- "qué tiene que comer, dónde tiene que dormir" → a la lista de verificación, o a formulación general.
+- Las tres escenas del §VII, atribuidas al proyecto y no a la voz propia.
+- Fuera "incluso a quien piensa distinto" y fuera "no como frase para el video".
+- Resolver el §II: o la petición completa se adelanta ahí, o se saca "al final le voy a decir otra".
+
+**Y el recorte, que es condición de que algo de esto sirva.** Hay que bajar ~400 palabras. **No usar el orden de corte que propone la revisión**: sacrificar el §VI (Argentina) primero destruye la única respuesta a la única objeción real, que es lo que la propia revisión acaba de descubrir. Orden correcto, sin perder un solo argumento: (i) las seis frases de meta-narración y los anuncios de movimiento, ~80 palabras, costo cero; (ii) el §IV comprimido — el cambio de acusación se dice en cuatro frases, no en doce, ~120; (iii) el §V comprimido, porque repite el §III, ~90; (iv) la carga de la prueba a dos frases, ~50; (v) la apertura, ~40. Después de eso, y solo después, se toca Argentina. El §VII no se toca nunca.
+
+**Bloqueantes antes de grabar, ampliando la lista de la revisión:** los dos boletines; la tabla del lunes; y —agregar— la naturaleza exacta del vínculo del autor y la Fundación con la actividad, que en la v07 pasó de ausente a declarado a medias, que es la única de las tres posiciones sin retorno.

@@ -1,7 +1,7 @@
 ---
 pieza: Mensaje a los diputados — texto hablado
 versión: v06
-estado: VIGENTE (supera a v05)
+estado: SUPERADA POR v08
 fecha: 2026-08-01
 formato: texto corrido para decir a cámara
 duración: ≈ 5 min leído a ritmo de discurso

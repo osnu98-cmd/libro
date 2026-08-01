@@ -1,0 +1,219 @@
+**Nota de método:** todo lo que sigue es punto de vista de Claude sobre arquitectura, no hecho establecido. Cada frase puente está redactada para decirse tal cual, pero ninguna incorpora datos que no estén ya en tu texto, y donde hay dato pendiente va el marcador. Archivo analizado: `/home/user/libro/03-borradores/mensaje-diputados-texto-hablado-v06.md`
+
+---
+
+# 1 · EL ORDEN
+
+## Diagnóstico del orden actual
+
+El texto está armado como un **alegato**: antecedentes → prueba → refutación → conclusión → petición. Es el orden de un escrito judicial y es exactamente el orden equivocado para esta pieza, por cuatro razones estructurales:
+
+1. **La petición llega al 78% del recorrido** (§VII) y después el §VIII vuelve a abrir alegato. Hay dos cumbres y la petición queda entre ellas.
+2. **El §VII cierra con la conclusión de Argentina** («lo que se prohíbe no se regula, se va a donde nadie lo mira») **una sección antes de que el §VIII la pruebe.** La conclusión precede a su propia evidencia.
+3. **El §III ocupa el minuto de mayor atención con el material más débil** (dos datos sin verificar, uno de ellos impublicable).
+4. **El único argumento que no depende de creerle al emisor** —que la prohibición no define bien la conducta que prohíbe— aparece por primera y única vez dentro de la frase citable del §IX, en el minuto diez.
+
+Y hay un problema de función, no de calidad: el §III no es información, es **cobertura política** («no queda solo en una esquina»). La cobertura política sirve pegada a la petición del voto, no ocho minutos antes de ella. Colocada al principio, el oyente todavía no sabe qué voto le van a pedir, así que no tiene de qué sentirse cubierto.
+
+## Orden propuesto
+
+| # | Movimiento | Función | Origen | Palabras |
+|---|---|---|---|---|
+| **M1** | Quién soy, qué se vota, interés declarado, mapa | Credencial + permiso para seguir escuchando | §I + interés declarado nuevo | 85 |
+| **M2** | Lo que NO le pido | Bajar el escudo | §II + el descargo del §VI | 45 |
+| **M3** | El defecto del texto | Razón suficiente que no exige opinar de galgos | rescatado del §IX | 75 |
+| **M4** | Fueron a mirar | La evidencia | §IV | 100 |
+| **M5** | Cambiaron la acusación | La inferencia | §V | 80 |
+| **M6** | La pregunta | **Cumbre** | §VI sin el descargo | 60 |
+| **M7** | Argentina | Resuelve la objeción que la cumbre genera | §VIII | 70 |
+| **M8** | El lunes | **La petición** + cobertura política | §VII + la línea rescatada del §III | 130 |
+| **M9** | El perro herido y el cierre | Blindaje + frase citable | §IX | 80 |
+
+**Total ≈ 725 palabras ≈ 5:10 reales** con los silencios. Hoy son 1.381 (10-11 min). El presupuesto por movimiento es parte del diseño: si un movimiento se pasa, come del siguiente.
+
+## Justificación de cada cambio
+
+**§III se disuelve.** El bloque del noventa por ciento sale sin reemplazo. La votación creciente sale (no verificada, y «votación más alta» es ambiguo al oído). Sobrevive una sola línea —«esto ya se rechazó antes en esa misma sala»— reubicada dentro de M8, donde por fin hace su trabajo: baja el costo del voto que se acaba de pedir.
+
+**El defecto del texto sube al tercer lugar (M3).** Es el único argumento del mensaje que sobrevive a que el destinatario desconfíe del emisor: no le pide creer nada, le pide leer el artículo primero de un boletín que ya tiene. Puesto temprano y corto, funciona como *razón suficiente*: todo lo que viene después es acumulación, no requisito. Y resuelve el problema de que la frase citable del cierre remate en un argumento nunca desarrollado.
+
+**Argentina (§VIII) sube antes de la petición (§VII).** Cumbre → objeción → petición, sin nada en medio. Argentina deja de ser un alegato añadido y pasa a ser la respuesta a la única objeción real que la pregunta de M6 dispara en la cabeza del indeciso: *«¿y qué pierdo con prohibir igual, por si acaso?»*. Además la conclusión («le cambió el dueño») queda pegada a la petición que la aprovecha.
+
+**La petición pasa a ser el último movimiento argumental.** Es lo único que el diputado tiene que recordar el lunes a las once de la mañana. Lo último que se dice antes del cierre es lo que sobrevive.
+
+**El descargo del §VI se fusiona con M2.** Hoy se dice dos veces —§II y §VI— y la segunda vez llega después de cuatro minutos defendiendo la actividad, que es cuando ya no se cree. Dicho una sola vez, al principio, y en la forma «yo la defiendo y no se lo escondo», deja de ser un desmentido y pasa a ser una credencial.
+
+**El §VI termina en la pregunta.** Hoy sube a la pregunta y después se disculpa durante cuatro frases. La cumbre no admite epílogo: la pregunta, el silencio, y se corta.
+
+**Contingencia:** si al leer el articulado resulta que el proyecto sí tipifica la conducta con precisión, **M3 se cae entero** y el orden pasa a M1-M2-M4-M5-M6-M7-M8-M9, con M4 asumiendo 130 palabras. La frase citable del cierre debe cambiar en el mismo movimiento. `[REQUIERE VERIFICACIÓN DE FUENTE: articulado del boletín que prohíbe]`
+
+---
+
+# 2 · LAS FRASES PUENTE
+
+Cada una está redactada para decirse literal. La regla que siguen todas: **el puente nombra lo que acaba de pasar antes de anunciar lo que viene.** El oyente nunca tiene que sostener una pregunta abierta.
+
+### M1 → M2 · de la presentación a lo que no le pide
+
+> «Y antes que nada le digo lo que **no** le vengo a pedir, porque si no, usted va a estar los cinco minutos esperando el momento en que se lo pida.»
+
+Desactiva la escucha defensiva nombrándola. El indeciso está esperando la trampa; se le dice que sabemos que la espera.
+
+### M2 → M3 · del escudo bajo al argumento de legislador
+
+> «Y le voy a dar primero la razón que a usted le basta, la que no le exige tener ninguna opinión sobre los galgos. Es una razón de abogado y se la digo en treinta segundos.»
+
+Anuncia duración y anuncia que no le costará nada creerlo. «La razón que a usted le basta» es la promesa que hace que el resto del mensaje se escuche como regalo y no como carga.
+
+### M3 → M4 · del texto a los hechos
+
+> «Eso solo ya bastaría. Pero como usted va a tener que explicar su voto, le voy a contar además lo que pasó cada vez que alguien fue a mirar de verdad qué ocurre en estas carreras.»
+
+«Eso solo ya bastaría» cierra M3 y le pone techo: no vuelve a mencionarse. «Como usted va a tener que explicar su voto» justifica que siga hablando.
+
+### M4 → M5 · de la evidencia a la inferencia
+
+> «Y aquí, diputado, fíjese en lo que pasó después. Porque no siguieron insistiendo con el maltrato.»
+
+Corto. La sección V ya tiene su propio arranque fuerte; el puente solo tiene que entregar el foco.
+
+### M5 → M6 · de las apuestas a la pregunta
+
+> «Entonces, si le sumo todo lo que le he dicho, a mí me queda una sola pregunta. Y se la hago en serio, no como frase para el video.»
+
+«No como frase para el video» es la línea que compra el silencio de dos segundos que viene después. Sin ella, la pregunta suena a recurso retórico y el oyente la descarta.
+
+### M6 → M7 · de la pregunta a Argentina
+
+> «Y sé lo que me puede contestar, porque es lo razonable: *bueno, ¿y qué pierdo yo con prohibir igual, por si acaso?* Se lo contesto con lo que pasó al lado.»
+
+Este es el puente más importante de todo el rediseño. Convierte Argentina de digresión en respuesta, y le concede al diputado que su objeción es razonable, que es lo que lo mantiene escuchando.
+
+### M7 → M8 · de Argentina al lunes
+
+> «La prohibición no terminó con la actividad. Le cambió el dueño. Y eso es exactamente lo que está sobre la mesa el lunes. Así que le digo ahora, en concreto, lo que usted sí puede hacer ese día.»
+
+La frase mejor del texto queda en posición de bisagra, que es donde rinde el doble: cierra Argentina y abre la petición.
+
+### M8 → M9 · de la petición al blindaje
+
+> «Y le digo una última cosa, porque va a pasar y prefiero que se lo diga yo antes que lo agarre desprevenido.»
+
+Enmarca el perro herido como advertencia amistosa, no como instrucción de cómo votar.
+
+### Costura interna dentro de M8 (la línea rescatada del §III)
+
+> «Y para que sepa que no está haciendo algo raro: esto ya entró antes a esa Sala, y ya salió rechazado. Le mando las actas hoy y usted cuenta las veces.» `[REQUIERE VERIFICACIÓN DE FUENTE: actas de votaciones anteriores]`
+
+### Costura interna dentro de M9 (resuelve la contradicción VII/IX)
+
+En M8, al enumerar lo que la regulación exige:
+
+> «Nada de eso es obligatorio hoy. Nada de eso se lo puede exigir el Estado a nadie.»
+
+En M9, ochenta segundos después:
+
+> «Hoy esta actividad tiene chip, tiene veterinario y tiene reglamento, porque se los puso ella misma. Lo que no tiene es una ley que se los exija. Eso es lo que usted le puede dar el lunes.»
+
+Con la distinción **voluntario / exigible** dicha en voz alta las dos veces, las dos frases dejan de contradecirse y pasan a reforzarse. Es la única solución arquitectónica a ese problema: mientras el mismo hecho viva en dos secciones que no se hablan, va a seguir apareciendo con signo opuesto.
+
+---
+
+# 3 · QUÉ ELIMINAR
+
+### Por riesgo, sin reemplazo
+
+| Material | Por qué |
+|---|---|
+| §III completo: el 90% no reelecto | Su única función posible es la amenaza electoral. No admite versión suave, y los tres descargos («no le voy a decir por qué», «no me corresponde», «no lo puedo probar») hacen la insinuación más fuerte, no más débil. |
+| §III: la votación creciente | No verificada, verificable por el adversario en dos minutos, y ambigua al oído. |
+
+### Por competir con algo más fuerte
+
+| Material | Con qué compite | Por qué se va |
+|---|---|---|
+| El descargo del §VI («no me interesa defender la actividad») | Con el §II, que ya lo dijo mejor y antes | Duplicado, y llega en el momento en que menos se cree: después de cuatro minutos defendiéndola. |
+| El fútbol (§V) | Con la hípica, que está en la misma frase | La hípica es el ejemplo bueno: animal, apuesta, plata, y una ley propia con veterinario y fiscalización. El fútbol arrastra la refutación de una línea —el jugador eligió correr— y contamina a la hípica por vecindad. |
+| «Si usted no se lleva nada más de este mensaje» (§V) | Con la petición de M8 | El superlativo del texto está gastado en un punto de debate. Migra íntegro a M8, justo antes de «rechace el primero y apruebe el segundo». |
+| Dos de los tres silencios de dos segundos | Entre sí | Tres cumbres en noventa segundos es cero cumbres. Ver §4. |
+| «Lo único que le vengo a pedir» (§II) | Con M8 | Cierra la puerta que la petición necesita abierta. Debe ser «por ahora lo único», con anuncio de que al final viene una cosa más. |
+
+### Por redundancia
+
+- **«Diecisiete años», cinco menciones.** En §IV funciona como tambor; en §VI ya no agrega y le quita filo a la escalera. Queda **una** aparición, en M4.
+- **La mitad de §VIII.** Meses de encubiertos, cámaras, grupos de WhatsApp, catorce allanamientos, la lista de hallazgos, los productores rurales, «nueve años después»: son ocho hechos comprobables y ninguno está en la lista de verificación. Argentina en el nuevo orden es un **valle deliberado** entre cumbre y petición: si dura mucho, apaga la cumbre. Setenta palabras, dos hechos, ambos con papel.
+- **«Química veterinaria / armas de fuego» como lista suelta.** Arquitectónicamente el problema no es la palabra: es que el defensor de la actividad está construyendo, en tres frases secas, la asociación mental que el adversario necesita. Atribuido al parte policial y encadenado a la conclusión, sirve; suelto, trabaja para el otro lado.
+
+### Por falsedad interna
+
+- **«Le voy a hablar cuatro minutos».** Falso por factor 2,5 hoy, y dicho en la misma frase que invoca la exactitud documental. Diga el número real de la versión que grabe.
+- **«Handies».** Fuera del ambiente no se entiende, y dentro delata desde dónde se habla.
+
+### Fuera del video
+
+**§X y §XI no pueden viajar nunca en el mismo archivo que llegue a un diputado.** El §XI documenta por escrito la estrategia de envío privado y su racionalidad persuasiva. Y conviene desactivar el titular del «video secreto» **dentro del propio video**: «Este mensaje se lo mando a usted directamente, pero no es reservado: puede reenviarlo a quien quiera. No hay nada aquí que yo no diga en público.»
+
+---
+
+# 4 · EL PUNTO DE MÁXIMA TENSIÓN
+
+**Cuál es:** «¿Por qué hay que prohibirla?» (M6), seguido de silencio. Está **bien elegido**. Es el único momento en que el mensaje deja de afirmar y le entrega el trabajo al oyente, y es la posición donde un indeciso se oye a sí mismo no teniendo respuesta.
+
+**Está mal ubicado en dos sentidos.**
+
+**Primero, la distancia a la petición.** Hoy la cumbre está al 60% del recorrido y entre ella y la petición hay una sección entera de alegato más un descargo de cuatro frases. La energía de una cumbre se disipa en segundos; el oyente decide caliente y ejecuta frío. Con el orden nuevo, entre la cumbre y la petición queda un solo movimiento de setenta palabras que además está funcionalmente subordinado a ella (responde su objeción). La cadena queda: **tensión → objeción resuelta → salida**, sin aire.
+
+**Segundo, la competencia.** El §XI ordena tres silencios de dos segundos en un tramo de noventa segundos: «Ni una», «Nadie cambia de acusación», «¿Por qué hay que prohibirla?». Tres cumbres seguidas se anulan; el oyente aprende que cada veinte segundos viene otra pausa solemne y deja de leerlas como señal.
+
+**Reasignación de los tres silencios:**
+
+| Silencio | Dónde | Función |
+|---|---|---|
+| 1 | Después de «Ni una» (M4) | Cierra la escalera de evidencia |
+| 2 | **Después de «¿Por qué hay que prohibirla?» (M6)** | Cumbre. Tres segundos, no dos. |
+| 3 | **Después de «Rechace el primero y apruebe el segundo.» (M8)** | Nuevo. Es el único momento en que se le pide algo. |
+
+«Nadie cambia de acusación cuando la primera se sostiene» pierde su silencio pero gana su lugar: hoy está al medio del §V y la sección desciende después hacia los artículos del Código Penal, que es el momento más seco de la pieza. Debe ir **al final de M5**, después de los artículos, como remate: la secuencia → la hípica → la norma → y ahí el golpe.
+
+**Nota sobre el silencio 3.** Es el cambio de dicción más rentable del rediseño. Hoy la petición se dice a la misma velocidad que todo lo demás, en una sección que se llama «Y ahora lo práctico», que es la señal de que viene la parte aburrida. La petición es lo contrario de lo práctico: es el único momento en que se le pide a alguien que actúe.
+
+---
+
+# 5 · VERSIÓN DE 90 SEGUNDOS
+
+Esqueleto mínimo irrenunciable. Sobrevive sin un solo dato no verificado salvo los dos números de boletín, que son innegociables porque sin ellos el mensaje no se puede ejecutar. Cinco elementos y ninguno se puede sacar: **quién habla y con qué interés / qué se vota / la pregunta / la salida / el acta.**
+
+> Diputado, buenas tardes. Soy Oscar Núñez, abogado, de la Fundación Soy del Campo. Le hablo minuto y medio, y le digo de entrada de qué lado estoy, para que no se lo tenga que preguntar: `[relación exacta con la actividad, dicha con todas sus letras]`. Por eso mismo no le pido que me crea a mí.
+>
+> El lunes usted vota dos proyectos, uno detrás del otro. El boletín `[X]` prohíbe las carreras de galgos. El boletín `[Y]` las regula. Anótelos: `[X]` y `[Y]`.
+>
+> No le vengo a pedir que defienda las carreras. Le vengo a pedir que no las prohíba sin haberlas mirado.
+>
+> Y le dejo una sola pregunta. En Chile el maltrato animal ya es delito, ya se persigue y ya hay gente condenada. ¿Qué hace esta prohibición que esa ley no pueda hacer hoy?
+>
+> **(silencio, tres segundos)**
+>
+> Lo que sí hace es esto: a lo que está prohibido usted no le puede exigir nada. No hay a quién multar. No hay qué cerrar. No hay a quién pedirle el veterinario. La carrera se corre igual, de noche, y no queda nadie a quien reclamarle.
+>
+> Por eso le pido una cosa concreta, y con esto termino. Rechace el primero y apruebe el segundo.
+>
+> **(silencio, dos segundos)**
+>
+> Sale de esa sala habiendo votado a favor de veterinario obligatorio y de cerrarle la puerta al que incumpla. Y si alguien le pregunta qué votó ese día, la respuesta está en el acta. La firma usted.
+>
+> Le mando todo por escrito ahora mismo. Muchas gracias, y suerte el lunes.
+
+**≈205 palabras. 1:28 a ritmo de discurso con los dos silencios.**
+
+**Qué se sacrificó y por qué se puede sacrificar:** Argentina (es respaldo de una conclusión que aquí se afirma directamente y se entiende sola), la escalera de evidencia completa (requiere tres movimientos para rendir; en fragmento no rinde), el defecto del texto (depende de verificación y de que el oyente lea), el perro herido (es blindaje, y el blindaje solo sirve si primero hubo persuasión), la frase citable (se reemplaza por el acta, que es más fuerte porque no la escribió el emisor).
+
+**Qué no se puede sacrificar y por qué:** el interés declarado va primero porque si sale a destiempo, todo lo anterior se relee como ocultamiento. Los dos boletines van segundos porque son el único dato con el que la petición se ejecuta. La pregunta va al medio porque sin tensión no hay decisión. El acta va última porque responde la objeción que el diputado no va a decir en voz alta, que es cómo explica el voto.
+
+---
+
+## Bloqueantes antes de grabar cualquier versión
+
+1. **La tabla del lunes** — que ambos proyectos estén y que el de regulación esté en estado de votarse. Sin esto se cae M8, que en el orden nuevo es el destino de toda la pieza.
+2. **Los dos números de boletín** — hoy no aparecen en ninguna parte del texto. `[REQUIERE VERIFICACIÓN DE FUENTE]`
+3. **El articulado del proyecto que prohíbe** — determina si M3 existe o no.
+4. **La relación exacta de la Fundación con la actividad** — `[POR CONFIRMAR CONTIGO]`. Es el único hueco del rediseño que no puedo llenar yo, y es el que más pesa: callarlo es el único error del que no se vuelve.

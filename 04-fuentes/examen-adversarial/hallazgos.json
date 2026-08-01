@@ -1,0 +1,922 @@
+[
+ {
+  "seccion": "VII",
+  "cita": "Nada de eso existe hoy.",
+  "problema": "Se contradice a noventa segundos de distancia: en VII dice que veterinario, dopaje, pista y clausura no existen, y en IX dice «Hoy esta actividad tiene chip, tiene veterinario y tiene reglamento».",
+  "porque_importa": "Es el clip perfecto y no necesita fact-check: dos frases del mismo video en pantalla partida. El diputado concluye que el emisor dice lo que le conviene según el párrafo, y con eso se cae lo único que le estaba pidiendo: creer que la regulación aporta algo nuevo.",
+  "gravedad": "critico",
+  "arreglo": "En VII: «Hoy nada de eso es obligatorio por ley. Depende de que cada club lo haga por su cuenta, y el que no lo hace no tiene a nadie encima. El lunes usted puede convertir eso en obligación.» Y en IX: «Hoy esto funciona por la buena voluntad del que organiza. Si el lunes gana la prohibición, mañana no va a haber ni buena voluntad ni ley: no va a haber nadie.»"
+ },
+ {
+  "seccion": "III",
+  "cita": "De los diputados que impulsaron estas políticas, alrededor del noventa por ciento hoy no está en el Congreso. No fueron reelectos.",
+  "problema": "Es una amenaza electoral encubierta, y el propio autor la deja servida al decir «no le voy a decir por qué» y «no lo puedo probar». Insinuación con coartada.",
+  "porque_importa": "Este es el clip de veinte segundos: se corta desde «alrededor del noventa por ciento» hasta «no fueron reelectos», se pega el cierre «Y suerte el lunes», y el titular se escribe solo. La réplica fáctica además es fácil y humillante: que la renovación de esa Cámara fue igual de alta para todos, o que varios no pudieron repostular por el límite legal a la reelección [REQUIERE VERIFICACIÓN DE FUENTE]. Y el diputado indeciso se siente presionado por un particular: el reflejo de cualquier parlamentario presionado es votar al revés para demostrar que no lo compran.",
+  "gravedad": "critico",
+  "arreglo": "Sacar el dato completo: no se arregla suavizándolo, cualquier versión suena a advertencia. Reemplazar por sustancia: «Las veces anteriores este proyecto se cayó en la Sala. Y no se cayó por falta de sensibilidad. Se cayó cuando alguien se sentó a leer el texto. Eso es lo único que le pido: que lo lea antes de levantar la mano.»"
+ },
+ {
+  "seccion": "IX",
+  "cita": "Y si necesita una frase para decir en público, se la dejo hecha. Y es verdadera:",
+  "problema": "Un abogado externo le entrega a un parlamentario el guion literal de lo que debe declarar, por escrito, tres días antes de la votación.",
+  "porque_importa": "Es la captura de pantalla más peligrosa del documento. Si un diputado usa esa frase y después aparece el video, queda expuesto leyendo el libreto de un lobista. Un diputado con instinto lo detecta al primer visionado y borra el mensaje: nadie quiere prueba escrita de que le pasaron el argumento. Encima la frase incluye una afirmación jurídica que el video nunca sostuvo, «una prohibición que ni siquiera define lo que prohíbe», así que el que la repita queda desarmado si el texto del proyecto sí define.",
+  "gravedad": "critico",
+  "arreglo": "«Si alguien le pregunta qué votó ese día, la respuesta va a estar en el acta: usted votó a favor del proyecto que regula. No necesita que yo se lo explique ni que me crea a mí. El acta es pública y la firma usted.»"
+ },
+ {
+  "seccion": "IV",
+  "cita": "Porque aparte de los relatos, y de las historias fantásticas que se contaban, nunca encontraron nada irregular.",
+  "problema": "Negativo absoluto indefendible («nunca», «nada»), agravado por «historias fantásticas», que llama fabuladores a los denunciantes.",
+  "porque_importa": "Basta UNA foto, un parte, una multa municipal o un video de un influencer que sí publicó lo que vio, y el mensaje entero queda desmentido en un solo posteo. Como toda la autoridad se construyó sobre «los papeles arriba de la mesa», el desmentido no daña una frase: daña las cinco restantes. El diputado que vea el desmentido no vuelve a abrir un mensaje suyo.",
+  "gravedad": "critico",
+  "arreglo": "«De todas esas visitas no salió una sola infracción cursada. Ninguna. Y si alguien tiene una, que la muestre: yo la reviso el mismo día. Lo que sí le puedo mandar hoy son los oficios de las fiscalizaciones que sí se hicieron, con número y fecha.»"
+ },
+ {
+  "seccion": "IV",
+  "cita": "Y en diecisiete años no existe una sola condena contra un galguero por maltrato animal.",
+  "problema": "Presenta la ausencia de condenas como prueba de que no hay maltrato, y lo hace un abogado, que sabe que eso no se sigue. Además es un hecho negativo universal que él mismo reconoce no tener verificado.",
+  "porque_importa": "La contrarréplica es de un renglón: «tampoco hay condenas porque nadie fiscaliza ni denuncia; que no haya condena no prueba que no haya delito, y eso lo sabe cualquier abogado». Peor: si aparece una sola causa, aunque sea un sobreseimiento, el clip pasa a ser «dijo que no hay ninguna, aquí está el rol». El indeciso queda con la sensación de que le vendieron una certeza que no existía.",
+  "gravedad": "critico",
+  "arreglo": "«Yo he buscado condenas por maltrato animal contra galgueros y no las encontré. Se lo digo así: no las encontré. Si usted encuentra una, mándemela y la reviso. Lo que le pido es que si el argumento es el maltrato, alguien muestre el caso. Hasta hoy nadie me ha mostrado uno.»"
+ },
+ {
+  "seccion": "I",
+  "cita": "Y le voy a hablar cuatro minutos, con los papeles arriba de la mesa.",
+  "problema": "El marco es «yo traigo documentos», pero después dice «Es la tercera o la cuarta vez», «quiero contarle algo que no sale en ninguna parte» y «no lo puedo probar». Tres confesiones de que no hay papel.",
+  "porque_importa": "El montaje es trivial y demoledor: cuatro cortes, quince segundos, y queda como alguien que invoca documentos que no tiene. Para el diputado, «la tercera o la cuarta» es la señal más barata de que no revisó el dato más fácil del mundo: la historia legislativa de su propio proyecto, que está publicada en el sitio de la Cámara.",
+  "gravedad": "alto",
+  "arreglo": "Ir con el número exacto o no dar número: «Este proyecto ya entró antes a esa sala, y ya se cayó antes. Le voy a mandar las fechas y el resultado de cada votación, para que no me crea a mí: los saca usted mismo del sitio de la Cámara en dos minutos.» Y cambiar «algo que no sale en ninguna parte» por «algo que a usted no le van a contar, y que yo le puedo documentar»."
+ },
+ {
+  "seccion": "III",
+  "cita": "cada vez que se rechaza, se rechaza por una votación más alta.",
+  "problema": "Afirmación numérica verificable, dicha con énfasis, sobre datos publicados que el adversario tiene ordenados. El propio autor admite que no está verificada.",
+  "porque_importa": "Si en alguna de las veces la votación fue más estrecha, o el proyecto avanzó en comisión, la respuesta es una tabla con tres cifras y el video muere ahí. Y es la frase que el propio texto marca como «lo importante», así que arrastra el argumento de que votar en contra es lo seguro. Si esta vez la votación viene apretada, el diputado descubre el lunes en plena Sala que le vendieron una tranquilidad falsa.",
+  "gravedad": "alto",
+  "arreglo": "Solo con las actas encima. Si no alcanza: «Todas las veces que este proyecto se ha votado, se ha rechazado. Le mando las actas y usted mira las cifras. Yo no le voy a decir lo que dicen: mírelas.»"
+ },
+ {
+  "seccion": "VIII",
+  "cita": "¿Y qué encontraron adentro? Apuestas ilegales. Armas de fuego. Química veterinaria.",
+  "problema": "El defensor de la actividad enumera en voz alta, en tres frases secas, todo lo que el adversario necesita asociar a las carreras de galgos.",
+  "porque_importa": "Ese audio montado sobre imágenes de galgos es el mejor spot animalista de la campaña, y lo grabó el abogado de la contraparte. Nadie va a explicar en el clip que hablaba de Argentina ni de la clandestinidad. Un diputado que vea ese clip circulando no va a querer que su nombre aparezca cerca del tema.",
+  "gravedad": "alto",
+  "arreglo": "Nunca dejar «armas de fuego» como frase suelta al lado de «galgos». Atribuir y encadenar: «Según el parte policial, junto a esas carreras clandestinas había apuestas ilegales y armamento. Ese es el punto: la prohibición no hizo desaparecer la carrera. La entregó a gente con la que antes nadie tenía nada que ver.»"
+ },
+ {
+  "seccion": "IV",
+  "cita": "Y fueron diputados, que se las dieron de investigadores y se aparecieron ellos mismos en estos lugares.",
+  "problema": "Burla explícita a parlamentarios dentro de un mensaje dirigido a parlamentarios. Sumado a «las historias fantásticas», rompe la propia regla de no ironizar ni una vez.",
+  "porque_importa": "El indeciso se identifica con el colega del que se están burlando, no con quien se burla. Basta reenviarle el clip al diputado aludido para convertir a un neutral en adversario activo y para que el mensaje deje de circular como argumento y circule como agravio. En un video cuyo único activo es el tono bajo, dos frases de desprecio se llevan los cinco minutos.",
+  "gravedad": "alto",
+  "arreglo": "«Fueron influencers. Fue gente sin avisar. Y fueron parlamentarios en persona, a ver con sus propios ojos, cosa que a mí me parece bien y que ojalá se hiciera más seguido. Miraron, preguntaron, y no salió una infracción.» Donde dice «historias fantásticas», poner «denuncias que después nadie pudo situar en un lugar y una fecha»."
+ },
+ {
+  "seccion": "IX",
+  "cita": "Le van a mostrar un perro herido, o un perro botado. Y le van a decir que si usted no vota que sí, usted está a favor de eso. No lo está. Y usted lo sabe.",
+  "problema": "Enseña al diputado a descartar de antemano la evidencia gráfica, sin decir en ningún momento que ese perro herido importa.",
+  "porque_importa": "Editado a diez segundos parece que le pide al diputado que mire para el lado. Funciona porque el video nunca reconoce que exista un solo perro dañado: el espectador queda con la impresión de que al emisor los perros le dan igual, que es exactamente lo que el adversario quiere instalar. El diputado sensible, que es justo el indeciso que se quiere ganar, se cierra ahí.",
+  "gravedad": "alto",
+  "arreglo": "«Es probable que le muestren un perro herido. Y si ese perro existe, existe: yo no le voy a decir que no. El que lo dañó tiene que responder, y hoy hay ley para hacerlo responder. Lo que le pido es que se haga una sola pregunta: prohibir, ¿hace aparecer al responsable de ese perro, o lo hace desaparecer?»"
+ },
+ {
+  "seccion": "I",
+  "cita": "Este mensaje no es para todos. Es para usted, si es de los que llegó hace poco a esa sala.",
+  "problema": "El video declara en el primer minuto que está dirigido a los diputados nuevos, y la sección III lo remata con «si usted es nuevo, no se lo van a contar».",
+  "porque_importa": "Filtrado, el titular es «el lobby galguero fabricó un video para los diputados novatos»: la pieza misma es la prueba de la segmentación. Y sobre el destinatario opera al revés de lo buscado: a un diputado recién llegado nada le molesta más que le recuerden que es nuevo y que por eso no sabe. Lo pone a la defensiva justo cuando se le pide revisar sus certezas.",
+  "gravedad": "alto",
+  "arreglo": "Borrar toda referencia a antigüedad: «Este mensaje es para el que todavía no tiene decidido su voto del lunes. Si usted ya lo decidió, apague esto: no le quito tiempo.» Y cambiar la entrada de III por «Hay una parte de la historia de este proyecto que no está en el informe de comisión, y se la puedo documentar»."
+ },
+ {
+  "seccion": "I",
+  "cita": "Soy Oscar Núñez, de la Fundación Soy del Campo.",
+  "problema": "En cinco minutos nunca declara qué relación tiene su fundación con la actividad que defiende, ni quién la financia, ni si asesora a los organizadores.",
+  "porque_importa": "Es el ataque más barato que existe y no requiere ningún dato nuevo: «no dijo a quién representa». Si después aparece cualquier vínculo, la omisión deja de ser omisión y pasa a ser ocultamiento, y el diputado queda salpicado por haber escuchado. Declararlo, en cambio, blinda: el que declara su interés al segundo veinte ya no puede ser desenmascarado.",
+  "gravedad": "alto",
+  "arreglo": "«Soy Oscar Núñez, abogado, de la Fundación Soy del Campo. Le digo de entrada de qué lado estoy, para que no se lo tenga que preguntar: [relación real, dicha con todas sus letras]. Por eso mismo no le pido que me crea a mí. Le pido que revise los documentos que le voy a mandar, que no son míos.» [POR CONFIRMAR CONTIGO: la relación exacta que corresponde declarar.]"
+ },
+ {
+  "seccion": "V",
+  "cita": "En el fútbol se apuesta. En la hípica se apuesta.",
+  "problema": "Analogía que se rompe sola: en el fútbol el que corre eligió correr y cobra por hacerlo. Y la hípica es precisamente una actividad con ley propia y fiscalización estatal, o sea el contraejemplo del argumento.",
+  "porque_importa": "La respuesta cabe en un tuit, «el futbolista firmó un contrato, el galgo no», y es la clase de frase que se repite sola en la Sala el lunes. El diputado que use la comparación queda ridiculizado en el debate, así que no la va a usar; y el que la ve en el video baja la guardia frente al resto del argumento, que era el bueno.",
+  "gravedad": "alto",
+  "arreglo": "Sacar el fútbol y quedarse con el punto jurídico, que no tiene flanco: «La apuesta ilegal ya es delito y se persigue como delito, con la actividad prohibida o sin ella. Si el problema son las apuestas, legislemos sobre apuestas y yo lo apoyo. Lo que no resuelve nada es prohibir la carrera y dejar la apuesta exactamente donde está.»"
+ },
+ {
+  "seccion": "IV",
+  "cita": "La ley de maltrato animal se aplica en Chile desde el año 2009. Van diecisiete años.",
+  "problema": "Dato legal impreciso dicho por un abogado, y a la vez pilar del argumento «la ley ya existe y funciona». La cita a «los artículos 277 a 279 del Código Penal» corre el mismo riesgo y ni siquiera aparece en la lista de verificación del final.",
+  "porque_importa": "Si la fecha o los artículos no calzan con el texto vigente, el clip es «el abogado que viene a explicarle la ley a los diputados no sabe qué ley está citando», y no hay recuperación posible: un error jurídico destruye la única credencial que trae. Y los números son lo primero que chequea el asesor legislativo, que es quien realmente ve el video.",
+  "gravedad": "alto",
+  "arreglo": "Verificar contra texto vigente antes de grabar. Si no alcanza: «En Chile el maltrato animal es delito, se persigue y hay gente condenada por eso. No estamos en un vacío legal: hay ley y se aplica.» Sin años, sin números de artículo, sin conteos. Ningún número que no vaya con el papel a la vista. [REQUIERE VERIFICACIÓN DE FUENTE]"
+ },
+ {
+  "seccion": "global",
+  "cita": "uno a uno, por WhatsApp, sin publicar. Un video público lo obliga a posicionarse; uno privado le deja espacio para cambiar de opinión sin perder cara. Eso es lo que decide votos.",
+  "problema": "El propio archivo documenta la estrategia de envío privado y su racionalidad persuasiva, y el video ofrece hacer llegar documentos a cada diputado el mismo día.",
+  "porque_importa": "Con envío uno a uno a decenas de destinatarios, la filtración es cuestión de horas, y ese párrafo es el titular: gestión de intereses dirigida a parlamentarios, diseñada expresamente para no quedar registrada. Ahí el debate deja de ser sobre galgos y pasa a ser sobre presión al Congreso, con nombres. Para el diputado, recibir un video que sabe que no fue publicado lo convierte en depositario de un secreto ajeno: prefiere no responder.",
+  "gravedad": "alto",
+  "arreglo": "Dos cosas. Que las secciones X y XI jamás viajen en el mismo archivo que se le pueda enviar a un diputado. Y quitarle el carácter de secreto al video, dentro del video: «Este mensaje se lo mando a usted directamente, pero no es reservado: puede reenviarlo a quien quiera, incluso a quien piensa distinto. No hay nada aquí que yo no diga en público.» Eso desactiva de raíz el titular del video secreto y además tranquiliza al destinatario."
+ },
+ {
+  "seccion": "VI",
+  "cita": "A mí no me interesa ponerme a defender la actividad.",
+  "problema": "Lo dice después de cuatro minutos defendiéndola: que no hay condenas, que cumple, que tiene chip y veterinario, que en Argentina la prohibición fracasó.",
+  "porque_importa": "Montado contra cualquier pasaje de IV o VIII queda como una negación desmentida por el propio video, y confirma la sospecha de fondo: es un interesado que no lo dice. Un indeciso perdona al que defiende algo abiertamente; no perdona al que finge neutralidad y se le nota.",
+  "gravedad": "medio",
+  "arreglo": "Asumirlo, que además es más fuerte: «Yo defiendo esta actividad y no se lo voy a esconder. Lo que no le estoy pidiendo es que usted la defienda. Le estoy pidiendo otra cosa, mucho más chica: que no la prohíba sin haberla mirado.»"
+ },
+ {
+  "seccion": "VIII",
+  "cita": "La prohibición no terminó con la actividad. Le cambió el dueño.",
+  "problema": "Formulado así de general, el argumento es «prohibir no sirve», y esa es una puerta abierta. Además socava lo que él mismo pide: si la prohibición no se puede fiscalizar, tampoco se fiscalizará la regulación.",
+  "porque_importa": "La réplica es automática y luce muy bien en Sala: «con ese criterio deroguemos el Código Penal, porque el robo también sigue existiendo». Y la segunda réplica es peor para el objetivo del video: «si el Estado no puede fiscalizar una prohibición, ¿con qué va a fiscalizar el veterinario obligatorio que usted propone?». El diputado se queda sin razón para preferir la regulación, que era todo el punto.",
+  "gravedad": "medio",
+  "arreglo": "Bajar al caso concreto y anticipar la objeción: «Yo no le digo que prohibir nunca sirva. Le digo que esta prohibición no trae con qué hacerse cumplir: no crea fiscalizador, no crea registro, no crea sanción administrativa. El proyecto que va después sí: pone un responsable con nombre en cada carrera y clausura al recinto que incumpla. Fiscalizar un lugar con dueño conocido se puede. Fiscalizar un potrero de noche, no.»"
+ },
+ {
+  "seccion": "VII",
+  "cita": "Esa es una trampa y no es verdad.",
+  "problema": "Sobrevive una atribución de mala fe al adversario, justo lo que el autor decidió sacar del texto. «Trampa» supone alguien que la tiende.",
+  "porque_importa": "Le da al otro lado el clip para decir «nos trata de tramposos» y quiebra la única ventaja tonal del video, que es no acusar a nadie. Al diputado le suena a que se le pide tomar partido en una pelea, que es exactamente lo que la sección II le prometió que no le iban a pedir.",
+  "gravedad": "medio",
+  "arreglo": "«Usted no está obligado a elegir entre prohibir o no hacer nada. Ese día, en esa misma tabla, hay una tercera opción.»"
+ },
+ {
+  "seccion": "VII",
+  "cita": "En el tercer lugar va la prohibición. Y en el cuarto lugar va el proyecto que regula.",
+  "problema": "Toda la sección VII, que es el corazón de la propuesta, cuelga de un ordinal de tabla que puede cambiar por acuerdo de Comités el mismo lunes.",
+  "porque_importa": "Si el lunes el orden no es ese, el diputado lo comprueba en la Sala, en el momento exacto de decidir, y lo único que recuerda del video es que el dato no era cierto. No pierde una frase: pierde al emisor. Y el riesgo no desaparece verificando hoy, porque la tabla se puede alterar después de grabado el video.",
+  "gravedad": "medio",
+  "arreglo": "Quitar los ordinales y anclar en el hecho: «Ese mismo día, en esa misma sesión, se ven los dos proyectos: el que prohíbe y el que regula. Uno detrás del otro. Si el orden cambia, da lo mismo: los dos están en la tabla y usted vota los dos.» Confirmar igual la tabla antes de grabar."
+ },
+ {
+  "seccion": "VI",
+  "cita": "Entonces yo le dejo a usted la pregunta que a mí nadie me ha podido responder en siete años.",
+  "problema": "La pregunta que sigue sí tiene respuesta, y el adversario la tiene ensayada: porque el daño está en la carrera misma, no en un incumplimiento. Presentarla como incontestable invita a contestarla.",
+  "porque_importa": "El clip se responde en cinco segundos —«se lo respondo: porque hacer correr a un animal hasta la lesión para que otros ganen plata es el maltrato, no una falla del maltrato»— y el emisor queda como alguien que en siete años no escuchó el argumento contrario. Ver una pregunta retórica derribada al instante le confirma al diputado que el video no lo preparó para el debate real del lunes.",
+  "gravedad": "medio",
+  "arreglo": "Hacer la pregunta de instrumento, que sí es difícil de responder: «Yo le dejo una sola pregunta, y es la que me interesa: ¿qué hace esta prohibición que la ley que ya existe no pueda hacer hoy? Si alguien se la responde con algo concreto, dígamelo, porque yo llevo años preguntándolo.»"
+ },
+ {
+  "seccion": "IX",
+  "cita": "mañana va a tener handies y no va a tener a nadie",
+  "problema": "Jerga del ambiente que parte de los destinatarios no va a entender, y que al resto le indica que el emisor conoce ese mundo desde adentro.",
+  "porque_importa": "Un diputado que no entiende una palabra en la frase de cierre pierde el remate justo donde se juega la decisión. Y para el que sí la entiende, «handies» es una pista involuntaria de familiaridad con lo clandestino que se está describiendo.",
+  "gravedad": "bajo",
+  "arreglo": "«mañana va a haber carreras igual, de noche, en un potrero, sin veterinario, sin registro y sin nadie a quien reclamarle»"
+ },
+ {
+  "seccion": "I",
+  "cita": "Y le voy a hablar cuatro minutos",
+  "problema": "El propio encabezado del archivo fija la duración en cinco minutos.",
+  "porque_importa": "Es menor, pero el emisor se juega todo a la precisión y el destinatario mira el reloj del video mientras escucha. Prometer cuatro y ocupar cinco es la primera afirmación comprobable del mensaje, y falla.",
+  "gravedad": "bajo",
+  "arreglo": "«Le voy a robar cinco minutos, ni uno más.»"
+ },
+ {
+  "seccion": "global",
+  "cita": "Y le voy a hablar cuatro minutos, con los papeles arriba de la mesa.",
+  "problema": "El cuerpo §I-§IX tiene 1.381 palabras: 9,5 min a ritmo de discurso y 10-11 min con los silencios y pausas que el propio §XI ordena. La promesa de \"cuatro minutos\" es falsa por un factor de dos y medio.",
+  "porque_importa": "WhatsApp me muestra la duración ANTES de reproducir. Un video no solicitado de 10:47, de un número que no tengo agendado, un sábado, no lo abro: no es un problema de persuasión, es que nunca empieza. Y si lo abro, la primera afirmación verificable del mensaje —cuánto va a durar— la desmiento en el segundo 30 mirando la barra. Un mensaje cuya única ventaja es \"yo tengo los papeles y ellos tienen los adjetivos\" no puede fallar en el primer dato comprobable. A partir de ahí todo lo demás lo escucho descontado.",
+  "gravedad": "critico",
+  "arreglo": "Grabar una versión de 3:00-3:30 (450-500 palabras) y decir la duración real. Qué se corta entero: el §II (se pliega en tres líneas de la apertura), el §III completo (los dos datos son los no verificados y el segundo hay que sacarlo igual), el preámbulo de los \"siete años\" del §VI, y la mitad del §VIII. Qué se conserva intacto: el menú de la regulación del §VII, \"Nadie cambia de acusación cuando la primera se sostiene\", \"La prohibición no terminó con la actividad. Le cambió el dueño\", y la frase de cierre. El texto largo no se pierde: se manda como una hoja escrita, que es lo que mi equipo sí lee."
+ },
+ {
+  "seccion": "III",
+  "cita": "De los diputados que impulsaron estas políticas, alrededor del noventa por ciento hoy no está en el Congreso. No fueron reelectos. No le voy a decir por qué. No me corresponde a mí, y no lo puedo probar. Solo le digo que lo mire.",
+  "problema": "Es una amenaza velada disfrazada de neutralidad. Decir \"no le voy a decir por qué\" es decirlo. El mensaje es: los que votaron esto perdieron el escaño, usted verá.",
+  "porque_importa": "Este es el punto exacto en que dejo de ser un indeciso y paso a ser un no. Soy de primer periodo: mi miedo a no ser reelecto es la cosa más íntima que tengo, y un desconocido me lo acaba de tocar por WhatsApp para que vote como él quiere. Además me trata de tonto dos veces: primero porque la inferencia que \"no me corresponde\" hacer es obvia, y segundo porque la rotación de la Cámara es altísima por mil razones y él lo sabe; atribuirla a un voto sobre galgos es insultar mi criterio. Es también, textualmente, la atribución de intenciones y el registro de batalla cultural que el autor dice haber sacado: aquí volvió, y volvió apuntándome a mí. Y contamina hacia atrás y hacia adelante: después de esto, \"Y suerte el lunes\" no suena cordial, suena a que alguien está tomando nota.",
+  "gravedad": "critico",
+  "arreglo": "Eliminar el pasaje completo, desde \"Y hay un segundo dato\" hasta \"está a un clic\". No hay versión suave; el dato no admite versión suave porque su único uso posible es el que aquí se le da. No reemplazar por nada: el §III queda mejor sin él."
+ },
+ {
+  "seccion": "I",
+  "cita": "Este mensaje no es para todos. Es para usted, si es de los que llegó hace poco a esa sala.",
+  "problema": "Cuarenta segundos de apertura sin decir de qué se trata, sin decir que es abogado, y sin decir qué relación tiene con la actividad. La palabra \"galgo\" aparece recién a los ~0:45.",
+  "porque_importa": "A los 0:20 no sé si esto es sobre pensiones, galgos o una estafa, y subo el pulgar. Si aguanto, lo que sí capté es que me está diciendo que soy nuevo y que hay cosas que no me cuentan —lo repite en el §III con \"si usted es nuevo, no se lo van a contar\"—, que es halago de insider y lo reconozco como técnica. Y la pregunta que mi jefe de gabinete me va a hacer a los cinco segundos de que le reenvíe esto es: quién es y quién le paga. \"Fundación Soy del Campo\", nombre rural, siete años en el tema, ofrece documentos y me pide votar contra una prohibición. Si él no contesta esa pregunta, la contesta el que está enfrente, y la contesta peor.",
+  "gravedad": "critico",
+  "arreglo": "Reescribir la apertura completa así: «Diputado, buenas tardes. Soy Oscar Núñez, abogado, de la Fundación Soy del Campo. Le hablo tres minutos por el proyecto que prohíbe las carreras de galgos, que usted vota el lunes. Le voy a ser franco de entrada: yo conozco a la gente de esta actividad, llevo siete años en esto, y por eso tengo los papeles que le voy a mostrar. No le vengo a pedir que defienda las carreras. Le vengo a pedir que sepa que el mismo lunes, en la misma tabla, hay un segundo proyecto que las regula, y que usted puede rechazar el primero y aprobar el segundo.» Ahí están, en 40 segundos: quién es, qué es, cuánto dura, cuál es el interés declarado y cuál es la salida. Si además cobra del sector, decirlo con esas palabras: callarlo es el único error irreparable."
+ },
+ {
+  "seccion": "VII",
+  "cita": "Nada de eso existe hoy.",
+  "problema": "Contradice de frente al §IX: «Hoy esta actividad tiene chip, tiene veterinario y tiene reglamento». En el minuto 8 no hay veterinario y en el minuto 10 sí lo hay.",
+  "porque_importa": "Es la clase de cosa que, una vez que la noto, me hace descontar todo el resto del video, incluida la parte que sí me servía. Y la noto, porque el §VII es justamente el trozo que iba a reenviar. Peor: se la voy a repetir a alguien el lunes y me la van a devolver en la cara con su propio video de testigo. Un mensaje construido sobre \"ellos no verifican, yo sí\" no puede contradecirse a sí mismo en dos minutos.",
+  "gravedad": "critico",
+  "arreglo": "§VII: «Nada de eso lo exige hoy la ley. Hoy hay veterinario donde el club decidió ponerlo, y no hay nadie que pueda clausurar al que no lo pone.» §IX: «Hoy esta actividad tiene microchip, veterinario y reglamento, puestos por ella misma, sin ley que los exija. Si el lunes gana la prohibición, mañana no va a tener ni eso, y no va a tener a nadie a quien exigirle.» Con esa distinción —lo voluntario contra lo exigible— las dos frases dicen lo mismo y el argumento se refuerza en vez de romperse."
+ },
+ {
+  "seccion": "VII",
+  "cita": "En el tercer lugar va la prohibición. Y en el cuarto lugar va el proyecto que regula.",
+  "problema": "No da el número de boletín de ninguno de los dos proyectos. Todo el mensaje pide una acción concreta y no entrega el único dato con el que esa acción se ejecuta.",
+  "porque_importa": "Yo no voto lugares de tabla, voto boletines. Si quedo convencido a las 22:00 del sábado, lo que hago es reenviarle esto a mi jefe de gabinete, y él me va a preguntar cuál es el boletín para pedir el comparado y ver el informe de comisión. Si la respuesta es \"el tercero de la tabla\", el asunto muere ahí por fricción, no por desacuerdo. Es el punto donde el mensaje pierde más votos por omisión pura, y es el más barato de arreglar.",
+  "gravedad": "alto",
+  "arreglo": "«El lunes, en la misma tabla, van dos proyectos: el boletín [número], que prohíbe, y el boletín [número], que regula. Anótelos: [número] y [número]. Se lo mando ahora por escrito para que su equipo los revise sin tener que ver este video.» Y decir los números despacio, dos veces, porque el que está al otro lado los está anotando. [REQUIERE VERIFICACIÓN DE FUENTE: ambos boletines contra el sitio de la Cámara.]"
+ },
+ {
+  "seccion": "V",
+  "cita": "Lo que se hace es perseguir la apuesta ilegal, que ya es delito, y está en los artículos 277 a 279 del Código Penal.",
+  "problema": "Es la única cita legal dura de todo el mensaje y el §X no la incluye entre las frases que hay que verificar antes de grabar. También afirma sin matiz que la apuesta ilegal \"ya es delito\".",
+  "porque_importa": "Es exactamente lo que un asesor comprueba en treinta segundos, porque es lo único chequeable sin salir de Google. Si el rango de artículos está corrido, o si la conducta está tipificada como falta o repartida entre el Código Penal y la ley de casinos, el video deja de ser \"el abogado que trajo los papeles\" y pasa a ser \"el que citó mal el Código Penal\" — y eso es lo que circula, no el resto. Un abogado que se equivoca en su propio terreno pierde el único activo que traía.",
+  "gravedad": "alto",
+  "arreglo": "Verificar el rango exacto contra el texto oficial y sumarlo al §X como cuarta línea de la tabla. Si no alcanza a verificarlo antes de grabar, decir sin números: «Lo que se hace es perseguir la apuesta ilegal, que ya está sancionada, y para eso no hace falta prohibir nada nuevo.» Nunca decir un artículo sin el texto abierto delante."
+ },
+ {
+  "seccion": "VIII",
+  "cita": "El año 2025 la policía de Buenos Aires tuvo que trabajar meses con agentes encubiertos, analizando cámaras, siguiendo grupos de WhatsApp, para llegar a catorce allanamientos simultáneos.",
+  "problema": "El §VIII es la sección más densa en datos duros de todo el mensaje —año de la ley, pena máxima, año del operativo, número de allanamientos, qué se encontró, quién denunció— y el §X no marca ni uno solo para verificación. El propio autor dice que hay \"tres frases\" de riesgo: hay ocho.",
+  "porque_importa": "Es hecho extranjero y operativo: mi asesor lo va a buscar y lo va a encontrar o no en dos minutos. Si un solo número no calza —si fueron doce allanamientos, si fue otro año, si la denuncia no la hicieron los productores rurales— el video se convierte en munición contra él, y contra mí si lo repetí. Además la cifra le juega en contra sin que él lo cierre: catorce allanamientos y meses de encubiertos también se leen como \"la prohibición se está aplicando\", que es justo lo que el otro lado va a decir.",
+  "gravedad": "alto",
+  "arreglo": "Sumar el §VIII completo al §X con la fuente al lado de cada dato, y cerrar la lectura ambigua en el mismo párrafo: «Fíjese en el costo. Para llegar a catorce casas hicieron falta meses de agentes encubiertos, cámaras y grupos de WhatsApp infiltrados. Hoy, en Chile, a una carrera entra un fiscalizador por la puerta. Eso es lo que se pierde el lunes.» Si algún dato no se verifica a tiempo, se cae el dato, no se redondea."
+ },
+ {
+  "seccion": "VIII",
+  "cita": "Tiene los mismos galgos corriendo, pero con armas al lado.",
+  "problema": "\"Los mismos\" es una cantidad que nadie puede saber, afirmada como hecho, sobre una actividad clandestina en otro país.",
+  "porque_importa": "Acaba de dedicar dos secciones a acusar al otro lado de afirmar sin pruebas, y a los dos minutos afirma sin pruebas. Lo pillo, y lo pillo justo en la sección que más ganas tenía de creerle. Una sola cifra inventable arrastra la credibilidad de las cifras verdaderas que están al lado.",
+  "gravedad": "alto",
+  "arreglo": "«Nueve años después de la prohibición, en Argentina siguen corriendo galgos. Lo que cambió no fue la cantidad: fue quién los corre y quién los mira.» Dice lo mismo, no afirma nada que no pueda sostener, y entrega mejor la frase siguiente, que es la buena."
+ },
+ {
+  "seccion": "VI",
+  "cita": "A mí no me interesa ponerme a defender la actividad.",
+  "problema": "Es un desmentido que nadie le pidió, después de cinco minutos defendiendo la actividad. Y llega justo después de \"la pregunta que a mí nadie me ha podido responder en siete años\", que revela que esto es su causa o su trabajo.",
+  "porque_importa": "Es la frase menos creíble del video y es la que dispara el olor a \"este tipo defiende un negocio\". Nadie dedica siete años a algo que no le interesa. Al escucharla dejo de evaluar el argumento y me pongo a calcular a quién representa —y como en ningún momento me lo dijo, lo calculo mal y en su contra. La negación hace exactamente el daño que quería evitar.",
+  "gravedad": "alto",
+  "arreglo": "Reconocerlo y darlo vuelta: «Yo conozco a esta gente, la conozco hace siete años, y por eso tengo los papeles. No le estoy pidiendo que defienda la actividad, que es lo que yo haría. Le estoy pidiendo que la regule, que es lo que le corresponde a usted.» El interés declarado se vuelve credencial; el interés escondido se vuelve sospecha."
+ },
+ {
+  "seccion": "III",
+  "cita": "Es la tercera o la cuarta vez que este mismo proyecto entra a esa sala.",
+  "problema": "Duda sobre un dato que está en el sitio de la Cámara, en un mensaje cuya premisa declarada es \"con los papeles arriba de la mesa\".",
+  "porque_importa": "Si tiene los papeles, sabe si son tres o cuatro. Que titubee aquí me dice que en realidad está hablando de memoria, y me hace releer hacia atrás todo lo demás preguntándome qué otra cosa está aproximando. Es una herida autoinfligida y gratuita: el argumento no necesita el número.",
+  "gravedad": "alto",
+  "arreglo": "O el número exacto verificado —«Es la cuarta vez que este proyecto entra a esa Sala»— o ningún número: «Este proyecto ya ha entrado antes a esa Sala. Y todas las veces se ha rechazado.» Nunca la vacilación."
+ },
+ {
+  "seccion": "IV",
+  "cita": "Y fueron diputados, que se las dieron de investigadores y se aparecieron ellos mismos en estos lugares.",
+  "problema": "Ironía y burla hacia diputados, contra la instrucción explícita del propio §XI punto 6. Lo mismo con \"las historias fantásticas que se contaban\" y con el «bueno… pero ahí se apuesta» del §V.",
+  "porque_importa": "Son mis colegas y algunos son de mi bancada. Un abogado externo que se ríe de diputados por WhatsApp me pone automáticamente del otro lado, aunque yo no comparta nada con ellos: hoy se ríe de ellos, el lunes se ríe de mí. Y es autodestructivo: si diputados fueron en persona y no encontraron nada, eso es su mejor evidencia, y la está debilitando con el tono. La evidencia vale más cuando la fuente es respetada.",
+  "gravedad": "alto",
+  "arreglo": "«Y fueron también diputados, en persona, a verlo con sus propios ojos. Fueron. Miraron. Preguntaron. Y no encontraron hechos que denunciar.» En el §IV: «Porque aparte de los relatos, no encontraron hechos.» En el §V, la cita del contrario sin el suspiro burlón: «terminaban todos diciendo lo mismo: que ahí se apuesta.»"
+ },
+ {
+  "seccion": "IV",
+  "cita": "Y en diecisiete años no existe una sola condena contra un galguero por maltrato animal.",
+  "problema": "Deja sin respuesta la refutación más obvia, que es de una línea: no hay condenas porque nadie fiscaliza, nadie denuncia, o es difícil de probar. Ausencia de prueba presentada como prueba de ausencia.",
+  "porque_importa": "Es literalmente lo primero que me van a decir el lunes en la mañana, y me van a dejar sin nada. Peor: es el argumento que el otro lado usa a favor de la prohibición —\"la ley actual no sirve, por eso hay que prohibir\"—, o sea que él me entrega desarmado el arma con la que me van a pegar. Si me da la respuesta, salgo con cobertura; si no me la da, prefiero no meterme.",
+  "gravedad": "alto",
+  "arreglo": "Agregar inmediatamente después de «Ni una»: «Y le adelanto lo que le van a contestar: que es porque nadie mira. No es así, y por eso le ofrezco los papeles. Hubo denuncias, hubo fiscalizaciones y hubo causas abiertas. Lo que no hubo fue hechos que probar. Eso no es que la ley no se aplique: es que se aplicó y no encontró nada.» [REQUIERE VERIFICACIÓN DE FUENTE: que efectivamente existan denuncias, fiscalizaciones y causas archivadas o sobreseídas. Si no consta, no decir esta frase; sin ella, el \"ni una condena\" conviene sacarlo del video y dejarlo solo en la hoja escrita.]"
+ },
+ {
+  "seccion": "IX",
+  "cita": "una prohibición que ni siquiera define lo que prohíbe",
+  "problema": "El mejor argumento del mensaje aparece por primera y única vez dentro de una cita para repetir, en el minuto diez, sin haber sido desarrollado en ninguna parte del cuerpo.",
+  "porque_importa": "Este es el argumento que me habría cambiado el voto, y me lo pasa por debajo de la puerta al final. Es el único que me da cobertura técnica sin costo político: yo no voto contra los perros, voto contra un texto mal redactado. Un centrista urbano puede decir eso en cualquier micrófono y nadie lo acusa de nada. Pero tal como está, si repito la frase en público y alguien me pregunta qué es lo que no define, no tengo nada que contestar, y quedo peor que si no hubiera abierto la boca. Me entrega una frase que no puedo defender.",
+  "gravedad": "medio",
+  "arreglo": "Convertirlo en sección propia, temprano, después de la apertura: «Y hay algo que a usted, como legislador, le va a importar más que todo lo que le he dicho. Léase el artículo primero del proyecto. Fíjese qué queda prohibido exactamente: ¿la carrera con apuesta? ¿la carrera sin apuesta? ¿el entrenamiento? ¿soltar un galgo en un campo? Ese texto no lo dice. Usted va a votar una prohibición con sanción penal que no define con precisión la conducta que prohíbe. Eso solo ya basta para rechazarla, y no le exige a usted tener ninguna opinión sobre los galgos.» [REQUIERE VERIFICACIÓN DE FUENTE: leer el articulado vigente del proyecto y ajustar los ejemplos a lo que el texto realmente deja indeterminado. Si el texto sí define bien la conducta, esta sección se cae completa y la frase debe salir también del cierre.]"
+ },
+ {
+  "seccion": "IX",
+  "cita": "Y si necesita una frase para decir en público, se la dejo hecha.",
+  "problema": "\"Si necesita\" me pinta como alguien que no sabe explicar su propio voto y necesita el guion de un tercero.",
+  "porque_importa": "Es la frase más paternalista del video y está pegada a la cosa más útil que me entrega. La rechazo por cómo me la ofrece, no por lo que dice. Y hay una diferencia enorme entre \"le dejo hecho el guion\" y \"así se explica solo\": lo primero es un lobista dictándome, lo segundo es un servicio.",
+  "gravedad": "medio",
+  "arreglo": "«Y si le sirve, así se explica este voto en una línea:» y la frase igual. Cuatro palabras menos, y deja de ser un favor que me hace por incapaz."
+ },
+ {
+  "seccion": "III",
+  "cita": "Lo deja donde ya está la mayoría de esa Cámara.",
+  "problema": "Se contradice con el propósito del mensaje: si la mayoría ya está ahí y el proyecto se ha rechazado siempre, mi voto no hace falta y puedo ahorrarme el problema. Además es presión de manada en un mensaje que dice apoyarse en evidencia.",
+  "porque_importa": "Me da permiso para desentenderme: si igual va a perder, no me expongo. Y el argumento de \"vote donde está la mayoría\" es exactamente el tipo de razón que yo desconfío, sobre todo viniendo de alguien que acaba de decirme que él trae hechos y el otro lado trae adjetivos.",
+  "gravedad": "medio",
+  "arreglo": "«No le voy a decir que la mayoría está con usted; eso lo va a ver el lunes. Le digo otra cosa: esta no es una posición marginal. Ya se rechazó antes, y no lo rechazó gente que odie a los perros.»"
+ },
+ {
+  "seccion": "IV",
+  "cita": "quiero contarle algo que no sale en ninguna parte",
+  "problema": "Anuncia como no verificable lo que viene, y luego me pide que apoye mi voto en eso.",
+  "porque_importa": "Me está diciendo, con sus palabras, que este trozo no lo puedo chequear. Después de eso, no puedo usar nada de lo que sigue con nadie. Y choca con la instrucción del §XI de levantar el documento justo en esta sección: no existe documento que pruebe que alguien fue y no encontró nada.",
+  "gravedad": "medio",
+  "arreglo": "«Esto no está en el expediente. Es lo que me consta a mí, y se lo puedo situar en tiempo, lugar y con nombres si usted me lo pide en privado.» Convierte la debilidad en oferta verificable, que es lo único que un indeciso puede aceptar."
+ },
+ {
+  "seccion": "XI",
+  "cita": "Muestra el papel. En el §IV y en el §VIII, levanta el documento.",
+  "problema": "En el §IV el argumento central es que alguien fue y no encontró nada: eso no tiene documento. Levantar un papel cualquiera ahí es utilería.",
+  "porque_importa": "En video yo pauso y hago zoom, o mi asesor lo hace. Si levanta un papel y no dice qué es, o dice algo distinto de lo que está afirmando, la lectura no es \"trajo pruebas\", es \"me está actuando\". Un papel sin nombre es peor que ningún papel en un mensaje que apuesta todo a la sobriedad.",
+  "gravedad": "medio",
+  "arreglo": "Levantar papel solo donde hay papel, y nombrarlo en voz alta: «Este es el oficio [número], de [organismo], de [fecha]. Se lo mando apenas termine este video.» En el §IV, si no hay documento que respalde la fiscalización sin hallazgos, no levantar nada."
+ },
+ {
+  "seccion": "VII",
+  "cita": "Esa es una trampa y no es verdad.",
+  "problema": "\"Trampa\" implica que alguien me está tendiendo una, o sea intención oculta del adversario — lo mismo que el autor dice haber sacado del texto.",
+  "porque_importa": "Es una palabra chica que reintroduce todo el registro que se quiso eliminar, y me obliga a decidir quién me está engañando en vez de mirar las dos opciones. En un mensaje de tono bajo, esa palabra desafina.",
+  "gravedad": "medio",
+  "arreglo": "«Esa es una falsa alternativa. Usted no tiene que elegir entre prohibir y no hacer nada.»"
+ },
+ {
+  "seccion": "V",
+  "cita": "En el fútbol se apuesta. En la hípica se apuesta.",
+  "problema": "La analogía con el fútbol invita la refutación inmediata —en el fútbol el que corre eligió correr— y arrastra a la hípica, que era la buena.",
+  "porque_importa": "Yo pienso la objeción antes de que él termine la frase, y una vez que la pienso desconfío de la sección entera. La hípica sola es imbatible para lo que él quiere, porque no es solo un lugar donde se apuesta: es una actividad con animales que Chile decidió regular en vez de prohibir. Ese es literalmente su pedido, con precedente nacional.",
+  "gravedad": "medio",
+  "arreglo": "«En la hípica se apuesta, y hace más de cien años. Y a nadie se le ha ocurrido nunca venir a este Congreso a pedir que se prohíba la hípica. Lo que se hizo fue regularla: con veterinario, con control de dopaje y con una autoridad que puede cerrar. Eso, exactamente eso, es lo que le estoy pidiendo el lunes.» Sacar el fútbol."
+ },
+ {
+  "seccion": "IX",
+  "cita": "mañana va a tener handies y no va a tener a nadie",
+  "problema": "\"Handies\" no lo uso ni lo entiendo a la primera. Pasa lo mismo con \"galguero\", que se usa desde el §IV sin explicar, y con \"chip\".",
+  "porque_importa": "Soy urbano y no sé nada de galgos: cada palabra que tengo que descifrar es medio segundo en que dejo de escuchar el argumento. Y en la frase de cierre, que es donde tiene que quedar todo claro, se me va justo la imagen que él quiere que me lleve.",
+  "gravedad": "medio",
+  "arreglo": "«mañana va a correr en un potrero, de noche, con radios, y no va a haber nadie a quien reclamarle.» En el §IV, primera mención: «los criadores y corredores de galgos, los galgueros.» Y en el §IX: «hoy cada perro va con microchip registrado»."
+ },
+ {
+  "seccion": "VII",
+  "cita": "Usted puede rechazar el tercero y aprobar el cuarto.",
+  "problema": "No dice qué pasa si la regulación no alcanza a votarse, se cae, o vuelve a comisión. La estrategia entera —quitarme el costo político— depende de que la segunda votación efectivamente ocurra.",
+  "porque_importa": "Es el riesgo que yo calculo solo, en silencio, y que decide mi voto: si rechazo la prohibición y después la regulación no se vota, quedé grabado votando contra los perros a cambio de nada, y con eso me hacen la franja. Él me pide que corra ese riesgo sin nombrarlo, lo que me hace pensar que no lo previó o que prefiere que yo no lo piense. Cualquiera de las dos me deja peor.",
+  "gravedad": "medio",
+  "arreglo": "«Y le digo también lo que puede salir mal, porque usted lo va a pensar igual: puede que el lunes no se alcance a votar el cuarto. Si eso pasa, el proyecto de regulación sigue vivo y se sigue tramitando, y su voto de rechazo no queda solo: queda junto a un proyecto en curso que usted puede empujar. Lo que no se recupera es una actividad prohibida, porque esa no vuelve a la mesa: se va al potrero.»"
+ },
+ {
+  "seccion": "IX",
+  "cita": "Quedo a disposición para hacerle llegar todos los documentos, hoy mismo si usted me los pide.",
+  "problema": "La oferta de documentos llega a los diez minutos, es condicional a que yo la pida, y el formato elegido —video— es el que menos circula dentro de un equipo parlamentario.",
+  "porque_importa": "Un video no lo puedo reenviar sin que se lea como que lo suscribo; una hoja escrita se la paso a mi asesor sin comprometerme con nada, y eso es justo lo que necesito el sábado en la noche. Además \"si usted me los pide\" me obliga a dar el primer paso, que es exactamente lo que un indeciso no hace: pedir algo ya es tomar posición. Y no hay ningún número ni forma de contacto en todo el mensaje.",
+  "gravedad": "medio",
+  "arreglo": "Mandar sin pedir permiso, y anunciarlo temprano, no al final: «Junto a este video le mando una hoja: los dos boletines, un cuadro con lo que dice cada proyecto, y los oficios. Una sola hoja, para que su equipo la revise sin tener que ver esto. Todos los documentos son públicos, ninguno es mío. Si necesita cualquier otra cosa, este mismo número es el mío.»"
+ },
+ {
+  "seccion": "V",
+  "cita": "Si el problema son las apuestas, legislen sobre apuestas. Yo los apoyo.",
+  "problema": "\"Yo los apoyo\" invierte los papeles: el particular concediendo respaldo al Congreso.",
+  "porque_importa": "Es chico, pero en un mensaje que insiste en el trato de usted y en la deferencia formal, esa frase suena a que se puso a mi altura o encima. Bien usado, el mismo contenido me suma en vez de restarme.",
+  "gravedad": "bajo",
+  "arreglo": "«Si el problema son las apuestas, legislen sobre apuestas. Y para eso cuente conmigo, con todo lo que tengo.»"
+ },
+ {
+  "seccion": "VII y VIII (orden global)",
+  "cita": "Y nada de eso va a existir si el lunes gana la prohibición. Porque lo que se prohíbe no se regula. Se va a donde nadie lo mira.",
+  "problema": "La conclusión de Argentina se dice en el §VII, una sección antes de que el §VIII la pruebe: el §VII cierra el trato (la petición concreta) y después el §VIII vuelve a abrir el alegato. La curva tiene dos cumbres y la petición queda enterrada al medio.",
+  "porque_importa": "El diputado recibe la salida política —rechazar el tercero, aprobar el cuarto— y acto seguido lo devuelven a un caso argentino de nueve minutos atrás. Lo último que oye antes del cierre no es lo que tiene que hacer el lunes, sino allanamientos en Buenos Aires. Además, si la tabla no se confirma (el bloqueante del §X), con el orden actual se cae la penúltima sección y el texto queda descabezado; con el orden invertido se cae la última pieza y el resto aguanta.",
+  "gravedad": "critico",
+  "arreglo": "Invertir: … VI (la pregunta) → VIII (Argentina) → VII (el lunes) → IX. Tres costuras redactadas. (1) Entrar a Argentina desde la pregunta: «Y usted me puede decir: bueno, ¿y qué pierdo con prohibir igual, por si acaso? Se lo contesto con lo que pasó al lado.» (2) Salir de Argentina hacia el lunes: «La prohibición no terminó con la actividad. Le cambió el dueño. Y eso es exactamente lo que está sobre la mesa el lunes. Por eso quiero decirle ahora lo que usted sí puede hacer ese día.» (3) Dentro del §VII, cambiar la frase citada por: «Y nada de eso va a existir si el lunes gana la prohibición. Porque lo que le acabo de contar de Argentina no fue un accidente: lo que se prohíbe no se regula. Se va a donde nadie lo mira.»"
+ },
+ {
+  "seccion": "VII y IX",
+  "cita": "Nada de eso existe hoy. […] Hoy esta actividad tiene chip, tiene veterinario y tiene reglamento.",
+  "problema": "Contradicción frontal a dos minutos de distancia. En el §VII el veterinario y el estándar no existen; en el §IX ya existen. El texto se desmiente a sí mismo sobre el único punto fáctico que el diputado puede repetir en su comité.",
+  "porque_importa": "De oído es imposible no oírlo, y es exactamente el tipo de fisura que un asesor le pasa después: «este señor dijo las dos cosas». Un mensaje cuya autoridad entera es «yo tengo los papeles» no puede tener dos versiones del mismo hecho.",
+  "gravedad": "critico",
+  "arreglo": "Distinguir hecho voluntario de exigencia legal, en voz alta. En el §VII: «Nada de eso es obligatorio hoy. Nada de eso se lo puede exigir el Estado a nadie.» En el §IX: «Hoy esta actividad tiene chip, tiene veterinario y tiene reglamento, porque se los puso ella misma. Lo que no tiene es una ley que se los exija. Eso es lo que usted le puede dar el lunes.»"
+ },
+ {
+  "seccion": "VI",
+  "cita": "Y quiero ser bien claro en una cosa, porque no quiero que me malinterprete. A mí no me interesa ponerme a defender la actividad.",
+  "problema": "El punto más alto del texto —«¿Por qué hay que prohibirla?», al que las notas de dicción le asignan dos segundos de silencio— queda seguido de un descargo que ya se hizo entero en el §II. La sección sube y después se disculpa.",
+  "porque_importa": "El silencio de dos segundos se lo come la propia frase siguiente: en vez de dejar la pregunta trabajando en la cabeza del diputado, el hablante se apura a aclarar algo que ya aclaró al minuto uno. Se pierde el único momento del video en que el otro se queda pensando solo.",
+  "gravedad": "alto",
+  "arreglo": "Poner el descargo y el remate jurídico ANTES de la escalera, y cerrar la sección con la pregunta. Queda así: «Y le repito lo del principio: no le estoy pidiendo que defienda la actividad. Si mañana aparece un caso probado, hay que perseguirlo y hay que castigarlo, y para eso no hace falta esta ley: la ley que castiga ya existe. Entonces le dejo la pregunta que a mí nadie me ha podido responder en siete años. Si en Chile ya existen normas de bienestar animal. Si existen procedimientos. Si existe una ley que castiga el maltrato… ¿Por qué hay que prohibirla?» Y ahí, silencio."
+ },
+ {
+  "seccion": "II",
+  "cita": "Lo único que le vengo a pedir es que antes de levantar la mano, sepa lo que está levantando.",
+  "problema": "«Lo único» es una promesa que el §VII incumple: ahí se le pide algo bastante mayor —rechazar el tercero y aprobar el cuarto—. Y no hay ninguna señal de que eso viene, así que el §II cierra la puerta que el §VII necesita abrir.",
+  "porque_importa": "Son casi tres minutos de diagnóstico —§III, §IV, §V, §VI— sin nada que hacer. En un video que llega por WhatsApp, ahí es donde el diputado apaga. Una sola frase que prometa que al final hay algo concreto lo sostiene hasta la petición; y de paso evita que el §VII suene a que le cambiaron el trato.",
+  "gravedad": "alto",
+  "arreglo": "«Por ahora lo único que le pido es que antes de levantar la mano, sepa lo que está levantando. Y al final le voy a decir una cosa más, una sola, y es concreta: algo que usted puede hacer el mismo lunes sin pelearse con nadie.»"
+ },
+ {
+  "seccion": "III",
+  "cita": "Piense en lo que eso significa. Significa que votar en contra de esto no lo deja a usted solo en una esquina. Lo deja donde ya está la mayoría de esa Cámara. Y donde cada año hay más gente.",
+  "problema": "Todo este bloque cuelga del dato no verificado de la votación creciente, pero el §X solo ofrece reemplazo para la frase anterior. Si el autor usa el reemplazo («Todas las veces se ha rechazado. Y nada más»), estas tres frases quedan huérfanas: sin premisa, y con un «cada año hay más gente» que ya no se sostiene.",
+  "porque_importa": "Es la trampa clásica del guion parchado en vivo: se cambia una frase y las tres siguientes siguen saliendo por costumbre. El §X advirtió esto para el §VII («todo el §VII se cae») pero no para el §III, que es donde más probable es que ocurra.",
+  "gravedad": "alto",
+  "arreglo": "Escribir la versión de repuesto completa del bloque en el §X, no solo la frase: «Todas las veces se ha rechazado. Y se ha rechazado por mayoría. Piense en lo que eso significa: votar en contra de esto no lo deja a usted solo en una esquina. Lo deja donde ya ha estado la mayoría de esa Cámara, todas las veces que se ha votado.»"
+ },
+ {
+  "seccion": "III",
+  "cita": "No le voy a decir por qué. No me corresponde a mí, y no lo puedo probar. Solo le digo que lo mire, porque es público y está a un clic.",
+  "problema": "El bloque del noventa por ciento no reelecto rompe la cadena causal de la sección. El §III va hacia «este proyecto se cae siempre» y el §IV explica «se cae porque alguien va a mirar»; en medio se cuela un dato de suerte electoral, que es otro eje. Y el triple descargo —no le voy a decir por qué, no me corresponde, no lo puedo probar— hace más fuerte la insinuación, no más débil.",
+  "porque_importa": "Es el único momento del texto que se puede oír como advertencia personal, en una pieza construida sobre no atribuirle intenciones a nadie. Basta que un diputado lo lea así para que todo lo demás —los diecisiete años, los oficios públicos— quede leído desde ahí. Y es, además, el dato peor verificado de los tres.",
+  "gravedad": "alto",
+  "arreglo": "Sacarlo. La costura se cierra sola: el §III termina en «Y donde cada año hay más gente.» y el §IV entra con «Ahora, ¿por qué se cae siempre este proyecto?». Si el autor lo quiere conservar, que vaya sin ningún descargo y como dato seco: «Y le agrego un dato que es público: buena parte de los diputados que impulsaron las versiones anteriores ya no está en el Congreso. Lo dejo ahí.» Un solo «lo dejo ahí» pesa menos que tres negaciones."
+ },
+ {
+  "seccion": "V",
+  "cita": "Diputado, si usted no se lleva nada más de este mensaje, llévese esto:",
+  "problema": "El superlativo del texto —«si no se lleva nada más»— está puesto sobre un punto de debate (cambiaron la acusación), no sobre la petición. El material compite consigo mismo: el §VII y el §IX vuelven a reclamar ese mismo lugar sin la fórmula que lo marca.",
+  "porque_importa": "El oyente solo puede guardar una cosa de un video de cinco minutos, y el texto le está señalando la equivocada. Lo que tiene que quedarle grabado no es un argumento sobre la coherencia del adversario: es que puede rechazar el tercero y aprobar el cuarto.",
+  "gravedad": "alto",
+  "arreglo": "Bajarlo en el §V: «Diputado, fíjese en la secuencia, nada más:». Y trasladar la fórmula al §VII, justo antes de la petición: «Si usted no se lleva nada más de este mensaje, llévese esto: el lunes usted puede rechazar el tercero y aprobar el cuarto.»"
+ },
+ {
+  "seccion": "V",
+  "cita": "Lo que se hace es perseguir la apuesta ilegal, que ya es delito, y está en los artículos 277 a 279 del Código Penal.",
+  "problema": "Inversión de la curva dentro de la sección. El remate más fuerte —«Nadie cambia de acusación cuando la primera se sostiene»— está al medio, y después la sección desciende a la única cita de articulado del texto, que es el momento más seco de los cinco minutos.",
+  "porque_importa": "De oído, un número de artículo apaga la atención por unos segundos; ponerlo después del golpe desperdicia el golpe y el silencio de dos segundos que las notas de dicción mandan ahí. Una sección tiene que terminar más arriba de donde empezó.",
+  "gravedad": "medio",
+  "arreglo": "Correr el remate al final. Orden: «Cambiaron la acusación» → la secuencia (partieron acusando maltrato, fueron, no encontraron, terminaron hablando de apuestas) → fútbol e hípica → artículos 277 a 279 → «Lo que no se puede hacer es prohibir una actividad entera porque alguien apuesta al lado.» → y ahí el golpe: «Y fíjese por qué le insisto tanto en esto, diputado. Nadie cambia de acusación cuando la primera se sostiene.» Silencio."
+ },
+ {
+  "seccion": "VI",
+  "cita": "Entonces yo le dejo a usted la pregunta que a mí nadie me ha podido responder en siete años.",
+  "problema": "Los siete años aparecen por primera vez en el minuto tres, sin haber sido plantados. Es una credencial —la más fuerte que tiene el hablante— que llega como dato suelto en vez de como devolución.",
+  "porque_importa": "Plantada en el §I, esa misma frase deja de ser un dato y pasa a ser un cierre de arco: el oyente reconoce algo que ya oyó y la pregunta pesa el doble. Sin plantar, el diputado tiene que procesar una información nueva justo en el momento en que debería estar pensando la pregunta.",
+  "gravedad": "medio",
+  "arreglo": "En el §I: «Soy Oscar Núñez, de la Fundación Soy del Campo. Llevo siete años metido en este asunto. Y le voy a hablar cinco minutos, con los papeles arriba de la mesa.» En el §VI se queda igual, y ahí ya suena a callback."
+ },
+ {
+  "seccion": "II a III",
+  "cita": "Porque hay algo que si usted es nuevo, no se lo van a contar. […] Esto que le van a poner en tabla el lunes no es nuevo.",
+  "problema": "«Nuevo» aparece dos veces seguidas con dos sentidos distintos —el diputado es nuevo, el proyecto no es nuevo— y es justo la costura de entrada a la sección. La palabra choca consigo misma en la bisagra.",
+  "porque_importa": "En lectura se resuelve solo; de oído produce medio segundo de confusión exactamente donde el texto quiere que el otro se sienta identificado. Es el peor lugar posible para tropezar.",
+  "gravedad": "medio",
+  "arreglo": "«Porque hay algo que si usted llegó hace poco, nadie se lo va a contar. Y es esto: lo que le van a poner en tabla el lunes ya estuvo ahí antes.»"
+ },
+ {
+  "seccion": "IX",
+  "cita": "Quedo a disposición para hacerle llegar todos los documentos, hoy mismo si usted me los pide. Ninguno es mío: son oficios públicos.",
+  "problema": "El cierre tiene tres finales apilados —la frase sobre a quién exigirle, la frase citable, y el ofrecimiento de documentos— y el administrativo quedó entre los dos buenos. La frase citable, que es el regalo del mensaje, muere debajo de un trámite.",
+  "porque_importa": "Lo último que se oye es lo que se recuerda. Hoy lo último es «son oficios públicos, muchas gracias». La frase citable es lo único que el diputado va a repetir textual si vota como se le pide; tiene que quedar pegada al final.",
+  "gravedad": "medio",
+  "arreglo": "Invertir los dos últimos bloques: «…y no va a tener a nadie. Todos los documentos que respaldan lo que le acabo de decir se los hago llegar hoy mismo, si me los pide. Ninguno es mío: son oficios públicos. Y si necesita una frase para decir en público, se la dejo hecha. Y es verdadera: “Yo no voté contra los perros. Voté por veterinario obligatorio, por control de dopaje y por clausura al que incumpla, en vez de una prohibición que ni siquiera define lo que prohíbe.” Muchas gracias. Y suerte el lunes.»"
+ },
+ {
+  "seccion": "I",
+  "cita": "Y le voy a hablar cuatro minutos, con los papeles arriba de la mesa.",
+  "problema": "El propio encabezado fija la pieza en cinco minutos. La promesa se incumple en la misma frase en que se invoca la exactitud documental.",
+  "porque_importa": "El diputado ve la duración del video en WhatsApp antes de darle play. Es la primera cifra verificable del mensaje y está mal, en un texto cuya tesis entera es que el otro lado tiene adjetivos y este lado tiene datos.",
+  "gravedad": "medio",
+  "arreglo": "«Y le voy a hablar cinco minutos, con los papeles arriba de la mesa.» O, más seguro: «Y no le voy a robar más de cinco minutos, con los papeles arriba de la mesa.»"
+ },
+ {
+  "seccion": "III",
+  "cita": "Es la tercera o la cuarta vez que este mismo proyecto entra a esa sala.",
+  "problema": "Duda declarada en el dato que abre la sección, a doce segundos de haber prometido papeles sobre la mesa.",
+  "porque_importa": "«Tercera o cuarta» dice, de oído, que el hablante no lo tiene contado. Es una grieta pequeña abierta justo antes del tramo que exige más confianza —la votación creciente, los diecisiete años—, y le da al escéptico permiso para dudar de lo que sigue.",
+  "gravedad": "medio",
+  "arreglo": "Si está verificado, el número exacto. Si no: «Es por lo menos la tercera vez que este mismo proyecto entra a esa sala.» «Por lo menos» es un piso, no una vacilación."
+ },
+ {
+  "seccion": "V",
+  "cita": "Si el problema son las apuestas, legislen sobre apuestas. Yo los apoyo.",
+  "problema": "Único punto donde el texto deja de hablarle a una persona y le habla a la Cámara en plural. La arquitectura del mensaje es uno a uno —«este mensaje no es para todos, es para usted»— y aquí se rompe.",
+  "porque_importa": "El video se manda de a uno precisamente para que el diputado no se sienta parte de un bloque. En el plural vuelve a ser uno más de la sala, y con él vuelve el reflejo de defender al conjunto, que es lo que el mensaje entero está tratando de evitar.",
+  "gravedad": "medio",
+  "arreglo": "«Si el problema son las apuestas, legisle usted sobre apuestas. Y yo lo apoyo, y se lo digo por escrito.»"
+ },
+ {
+  "seccion": "IV",
+  "cita": "Y aquí, diputado, quiero contarle algo que no sale en ninguna parte.",
+  "problema": "El anuncio choca con la postura del texto —todo es público, está a un clic, son oficios— justo antes del pasaje que el §X reconoce como testimonio no documentado.",
+  "porque_importa": "Le entrega al oyente la objeción hecha: si no sale en ninguna parte, no lo puedo comprobar. Y se la entrega en el tramo más frágil, donde el hablante menos necesita invitar la pregunta.",
+  "gravedad": "bajo",
+  "arreglo": "«Y aquí, diputado, quiero contarle algo que usted no va a encontrar en el informe de comisión, porque no lo pusieron ahí.»"
+ },
+ {
+  "seccion": "VI",
+  "cita": "Si existe una ley que castiga el maltrato y que se aplica hace diecisiete años.",
+  "problema": "Quinta mención de «diecisiete años» en menos de dos minutos. En el §IV la repetición funciona como tambor; acá ya no agrega y le quita filo a la escalera.",
+  "porque_importa": "La escalera del §VI vive de que cada peldaño aporte algo nuevo. Un peldaño que solo repite baja la velocidad justo antes de la pregunta, que es donde el texto necesita más impulso.",
+  "gravedad": "bajo",
+  "arreglo": "«Si existe una ley que castiga el maltrato y que lleva aplicándose desde antes de que usted llegara a esa sala.»"
+ },
+ {
+  "seccion": "XI",
+  "cita": "Los cuatro «Diputada, diputado» son las bisagras.",
+  "problema": "En el cuerpo hay cinco apelaciones directas —§I, §IV, §V, §VII, §IX—, no cuatro. La nota de dicción no calza con el texto que manda ejecutar.",
+  "porque_importa": "El autor va a grabar con esa nota al lado. Si busca cuatro bisagras y hay cinco, o baja el ritmo donde no toca o se salta una de las verdaderas. La del §VII es la que menos puede perderse, porque es la que introduce la petición.",
+  "gravedad": "bajo",
+  "arreglo": "«Las cinco veces que dices “diputada” o “diputado” son las bisagras: apertura, cuando cuentas que fueron a mirar, cuando les cambiaron la acusación, cuando le dices lo que puede hacer el lunes, y el cierre. La del lunes es la más importante de todas: ahí mira fijo y baja el ritmo dos puntos.»"
+ },
+ {
+  "seccion": "global",
+  "cita": "Y le voy a hablar cuatro minutos, con los papeles arriba de la mesa. (§I) / duración: ≈ 5 min (encabezado)",
+  "problema": "El cuerpo hablado tiene 1.384 palabras. A ritmo de discurso lento —el que el §XI ordena, con tres silencios de dos segundos— son entre diez y once minutos. La promesa de la primera frase es falsa por más del doble.",
+  "porque_importa": "El diputado va a mirar la barra del video de WhatsApp antes de darle play. Si dice 10:47 después de que usted prometió cuatro minutos, la primera cosa comprobable que dijo ya no le calzó, y todo lo que viene después arrastra esa duda. Y si le da play, en el minuto siete se da cuenta solo. En un mensaje cuyo único capital es «yo tengo los papeles y ellos tienen los adjetivos», que le fallen los cuatro minutos es caro.",
+  "gravedad": "critico",
+  "arreglo": "Cortar a ~600 palabras, que es lo que cabe en cuatro minutos con los silencios. Se sostiene con: §II completo, el bloque «partieron acusando maltrato, fueron a verificarlo, no lo encontraron, terminaron hablando de apuestas» del §V, el §VII entero y el §IX. El §III baja a tres frases, el §IV a cuatro, el §VIII a dos («Argentina prohibió el 2016. Nueve años después la policía hizo catorce allanamientos y encontró armas»). El §VI se saca completo: repite el §IV con palabras más abstractas. Si decide no cortar, cambie la primera frase por una verdadera y con mapa: «Le voy a hablar diez minutos. Si solo tiene dos, ándese al minuto siete: ahí está lo único que necesita para el lunes.»"
+ },
+ {
+  "seccion": "VII",
+  "cita": "A favor de un estándar de pista.",
+  "problema": "«Estándar de pista» no es una imagen, es una casilla de formulario. El que escucha no ve nada.",
+  "porque_importa": "Este es el corazón de toda la estrategia: usted le está ofreciendo al diputado algo que pueda decir que votó A FAVOR. Si lo que votó a favor no se puede ver, no lo puede repetir, y si no lo puede repetir no le sirve para nada el lunes en la tarde cuando le pregunten. Una lista de cinco cosas donde tres son humo es una lista que no se recuerda.",
+  "gravedad": "critico",
+  "arreglo": "«A favor de que la pista tenga que estar pareja. Sin piedras y sin hoyos donde un perro se quiebre una pata.»"
+ },
+ {
+  "seccion": "VII",
+  "cita": "Y a favor de la clausura del recinto que no cumpla.",
+  "problema": "«Clausura del recinto que no cumpla» son tres nominalizaciones seguidas. Es la frase más de abogado del texto, y va justo en el cierre de la lista, que es la posición que más se recuerda.",
+  "porque_importa": "El diputado necesita irse con un gesto en la cabeza, no con un concepto. «Clausura» no se ve; un candado se ve. Y es precisamente la que le da el argumento de dureza que necesita para defenderse de quien lo acuse de blando.",
+  "gravedad": "critico",
+  "arreglo": "«Y a favor de que a la cancha que no cumpla le pongan un candado. Y se acabó.»"
+ },
+ {
+  "seccion": "VI",
+  "cita": "Si existen procedimientos.",
+  "problema": "La abstracción más pura del texto. «Procedimientos» no significa nada dicho en voz alta: no tiene sujeto, no tiene objeto, no tiene imagen.",
+  "porque_importa": "Va dentro de la escalera de cuatro «si» que construye la pregunta central del mensaje. Una escalera de cuatro peldaños donde el segundo está vacío no aguanta el peso de la pregunta que viene arriba. El diputado llega a «¿por qué hay que prohibirla?» sin haber visto nada.",
+  "gravedad": "alto",
+  "arreglo": "«Si ya hay a quién llamar cuando alguien ve algo raro. Y ya hay quien vaya a mirar al día siguiente.» [Antes de grabar, confirme qué servicio corresponde nombrar, para poder decirlo: «usted llama, y va tal servicio». Un nombre propio vale por diez peldaños.]"
+ },
+ {
+  "seccion": "VI",
+  "cita": "Si en Chile ya existen normas de bienestar animal.",
+  "problema": "«Normas de bienestar animal» es la etiqueta del tema, no el contenido. Nadie se imagina una norma.",
+  "porque_importa": "Es el primer peldaño de la escalera hacia la pregunta central. Si el primero no se ve, el diputado ya entró en modo «esto es lenguaje de gremio» y deja de mirar la cámara. Además es exactamente el tipo de frase que el adversario también usa, así que no lo distingue de nadie.",
+  "gravedad": "alto",
+  "arreglo": "«Si en Chile ya está escrito cómo hay que tener a un animal. Qué tiene que comer. Dónde tiene que dormir. Y quién responde si aparece herido.»"
+ },
+ {
+  "seccion": "III",
+  "cita": "cada vez que se rechaza, se rechaza por una votación más alta. No más baja. Más alta.",
+  "problema": "«Votación más alta» es ambiguo al oído: más alta ¿a favor o en contra? Y el texto insiste tres veces sobre la ambigüedad en vez de resolverla. Además una «votación» no se ve.",
+  "porque_importa": "Es el único dato del mensaje que le dice al diputado «votar en contra es lo seguro», que es justamente lo que vino a comprar. Si lo entiende al revés —y la mitad lo va a entender al revés, porque «alta» suena a apoyo— usted le acaba de decir que la prohibición está ganando fuerza. Es el peor malentendido posible en este texto.",
+  "gravedad": "alto",
+  "arreglo": "«Y fíjese en esto: cada vez que se vota, se levantan más manos en contra. La última vez fueron más que la anterior.» Manos que se levantan se ven; «votación» no. [Si el dato no está verificado, no diga ninguna de las dos y quédese en «todas las veces se ha rechazado».]"
+ },
+ {
+  "seccion": "IX",
+  "cita": "«...en vez de una prohibición que ni siquiera define lo que prohíbe.»",
+  "problema": "Es la frase que usted le regala para decir en público, y termina en un argumento que en todo el mensaje nunca apareció: que la prohibición está mal redactada. Además «define lo que prohíbe» es lenguaje de comisión.",
+  "porque_importa": "Es la única frase del video que el diputado va a repetir textual. Tiene que cerrarse con la imagen más fuerte que usted construyó, no con una crítica técnica que él no podría defender si le repreguntan («¿y qué es lo que no define?»). Usted se pasó el §VIII construyendo la imagen de los perros corriendo igual, de noche y con armas al lado: úsela aquí.",
+  "gravedad": "alto",
+  "arreglo": "«Yo no voté contra los perros. Voté por veterinario obligatorio, por control de dopaje y por cerrarle la puerta al que incumpla, en vez de una prohibición que deja a esos mismos perros corriendo donde nadie los mira.»"
+ },
+ {
+  "seccion": "IX",
+  "cita": "Hoy esta actividad tiene chip, tiene veterinario y tiene reglamento. Si el lunes gana la prohibición, mañana va a tener handies y no va a tener a nadie.",
+  "problema": "El contraste es bueno pero está cifrado. «Chip» y «reglamento» son etiquetas sin cuerpo, y «handies» obliga a decodificar: el que escucha tiene que deducir solo que handies = clandestino = alguien avisando que viene la policía. Manejando, no lo hace.",
+  "porque_importa": "Es el remate del mensaje, la frase que decide si el diputado se queda con una imagen o con una idea vaga. Un contraste que hay que descifrar no es un remate, es una adivinanza.",
+  "gravedad": "alto",
+  "arreglo": "«Hoy cada perro anda con un chip en el cuello, con su número. Hay un veterinario parado ahí. Y hay un reglamento escrito que alguien firmó. Si el lunes gana la prohibición, esa misma carrera se va a correr de noche, con un tipo en la esquina con radio avisando que viene la policía. Y no va a haber a quién reclamarle.»"
+ },
+ {
+  "seccion": "IV",
+  "cita": "nunca encontraron nada irregular",
+  "problema": "«Irregular» es palabra de sumario. Es también la más floja posible para el hallazgo más fuerte del mensaje.",
+  "porque_importa": "Toda la sección se construye hacia este momento: fueron, miraron, y no había nada. El diputado necesita ver el vacío, no oír la categoría. «Nada irregular» suena a informe; «ni un perro herido» suena a lo que efectivamente no había.",
+  "gravedad": "alto",
+  "arreglo": "«Y no encontraron nada. Ni un perro herido. Ni una jeringa. Ni un animal que hubiera que sacar de ahí.»"
+ },
+ {
+  "seccion": "VII",
+  "cita": "A favor de control de dopaje.",
+  "problema": "Media abstracción: se entiende, pero no se ve. «Control» es una nominalización que esconde quién hace qué.",
+  "porque_importa": "Va en la lista que el diputado tiene que poder repetir. Con una imagen prestada de algo que él ya vio en televisión se le queda pegada sin esfuerzo.",
+  "gravedad": "alto",
+  "arreglo": "«A favor de que a los perros les tomen la muestra, igual que a los ciclistas. Y el que dopó, para afuera.»"
+ },
+ {
+  "seccion": "VII",
+  "cita": "A favor de una edad mínima para que un perro pueda correr.",
+  "problema": "«Edad mínima» es una categoría reglamentaria. Un perro con edad mínima no es una imagen; un cachorro sí.",
+  "porque_importa": "Es el punto más fácil de la lista para producir compasión a su favor —cachorros— y está desperdiciado en lenguaje de reglamento.",
+  "gravedad": "alto",
+  "arreglo": "«A favor de que ningún cachorro pise una pista. Que corra el perro hecho, no el que todavía es guagua.»"
+ },
+ {
+  "seccion": "VI",
+  "cita": "Lo que me interesa es explicarle que en Chile existe una legislación seria, que castiga y que condena el maltrato animal. Y que esa legislación funciona.",
+  "problema": "Tres abstracciones encadenadas: «legislación seria», «castiga y condena», «funciona». Ninguna se ve, y «funciona» es exactamente el tipo de palabra que el adversario también usa, en sentido contrario.",
+  "porque_importa": "Usted acaba de decir «quiero ser bien claro en una cosa» y lo que sigue es lo menos claro del texto. La promesa de claridad y el párrafo que la incumple están pegados, y eso se nota al oído.",
+  "gravedad": "alto",
+  "arreglo": "«Lo que me interesa es que usted sepa una cosa: en Chile, el que maltrata a un animal ya tiene con qué ir preso. Ya está escrito. Y ya se está usando.»"
+ },
+ {
+  "seccion": "IV",
+  "cita": "una ley que funciona, que se aplica todos los días, y que ha condenado a mucha gente en este país",
+  "problema": "«Mucha gente» es una cifra que no se puede ver, dicha justo antes de la cifra que sí importa: cero condenas contra galgueros.",
+  "porque_importa": "El contraste que usted busca es entre una ley que sí muerde y un cero. Si el primer término es «mucha gente», el cero pierde la mitad de su fuerza porque no hay contra qué medirlo.",
+  "gravedad": "medio",
+  "arreglo": "«Una ley que se usa todos los días. Con esa ley, en Chile hay gente que ha ido presa por pegarle a un perro.» [Confirme antes de grabar que hay condena de cárcel y no solo multa. Si son multas, diga: «hay gente que quedó con antecedentes por pegarle a un perro».]"
+ },
+ {
+  "seccion": "V",
+  "cita": "Lo que se hace es perseguir la apuesta ilegal, que ya es delito, y está en los artículos 277 a 279 del Código Penal.",
+  "problema": "Tres números de artículo dichos en voz alta son cuatro segundos de silencio mental. Nadie los retiene, nadie los verifica escuchando, y el que sí sabe de penal se va a chequearlos en vez de seguir escuchándolo.",
+  "porque_importa": "Usted está pidiendo atención por cuatro minutos y gasta un tramo en algo que el oído no puede usar. El número pertenece al texto que acompaña el video, donde se lee y se pincha. En la boca solo estorba.",
+  "gravedad": "medio",
+  "arreglo": "«Apostar fuera de la ley ya es delito en Chile. Está en el Código Penal, y le mando el artículo por escrito junto con este video.» El número, en el mensaje de WhatsApp."
+ },
+ {
+  "seccion": "V",
+  "cita": "Lo que no se puede hacer es prohibir una actividad entera porque alguien apuesta al lado.",
+  "problema": "«Una actividad entera» es abstracto justo cuando la frase anterior le dio una imagen perfecta ya montada: el fútbol.",
+  "porque_importa": "Usted construyó el estadio dos frases antes y después lo abandona para volver a la categoría. El cierre del argumento se queda sin la imagen que él mismo se ganó.",
+  "gravedad": "medio",
+  "arreglo": "«Lo que no se hace es cerrar el estadio porque en la galería hay alguien apostando.»"
+ },
+ {
+  "seccion": "V",
+  "cita": "Si el problema son las apuestas, legislen sobre apuestas. Yo los apoyo.",
+  "problema": "Se le salió el plural. Todo el mensaje es de usted, a una persona, uno a uno, y en la frase de la oferta se dirige de golpe a la sala completa.",
+  "porque_importa": "Es el único momento en que usted le ofrece algo directamente y justo ahí deja de hablarle a él. El indeciso se sale del «esto es para mí» que usted armó en el §I, y el ofrecimiento pierde el destinatario.",
+  "gravedad": "medio",
+  "arreglo": "«Si el problema son las apuestas, legisle usted sobre apuestas. Yo lo apoyo.»"
+ },
+ {
+  "seccion": "VII",
+  "cita": "Diputado: usted no tiene que elegir entre prohibir o no hacer nada. Esa es una trampa y no es verdad.",
+  "problema": "«Trampa» supone que alguien la puso, que es justo lo que el texto decidió no hacer. Y la alternativa —el punto entero del mensaje— se enuncia en negativo, sin imagen.",
+  "porque_importa": "El indeciso está midiendo si usted es alguien que acusa o alguien que ofrece. «Trampa» lo empuja al primer casillero en la sección donde más necesita que confíe. Y lo que tiene que ver —que hay una salida y está una línea más abajo en el mismo papel que va a tener en la mano el lunes— se queda sin dibujar.",
+  "gravedad": "medio",
+  "arreglo": "«Diputado: usted no tiene que elegir entre prohibir o no hacer nada. El lunes hay una tercera puerta, y está en la misma tabla, una línea más abajo.»"
+ },
+ {
+  "seccion": "VII",
+  "cita": "Porque lo que se prohíbe no se regula. Se va a donde nadie lo mira.",
+  "problema": "La primera frase es un aforismo en pasiva sin sujeto: no se ve quién prohíbe, quién regula, ni a qué. La segunda sí funciona, pero llega tarde.",
+  "porque_importa": "Es la bisagra lógica de toda su oferta —por qué regular vence a prohibir— y está dicha en el registro más abstracto de la página. Si el diputado no la entiende aquí, el §VIII completo le llega como anécdota argentina y no como consecuencia.",
+  "gravedad": "medio",
+  "arreglo": "«Porque a lo que está prohibido usted no le puede exigir nada. No hay a quién multar. No hay qué cerrar. No hay a quién pedirle el veterinario. Se corre igual, pero de noche.»"
+ },
+ {
+  "seccion": "III",
+  "cita": "De los diputados que impulsaron estas políticas, alrededor del noventa por ciento hoy no está en el Congreso.",
+  "problema": "Dos abstracciones juntas: «estas políticas» —¿cuáles?, ¿desde cuándo?— y un porcentaje, que es el tipo de cifra que menos se ve. Nadie se imagina un noventa por ciento.",
+  "porque_importa": "Es el dato más delicado del mensaje y el que más precisión exige, porque usted mismo dice que no lo va a interpretar. Si el sujeto es vago, el diputado no sabe si lo incluye a él. Y un porcentaje no se puede repetir esa noche en su casa: nueve de cada diez sí, y además se ve —son diez asientos y nueve vacíos.",
+  "gravedad": "medio",
+  "arreglo": "«De los que firmaron las versiones anteriores de este mismo proyecto: de cada diez, hoy queda uno sentado en esa sala. Los otros nueve no fueron reelectos.» [Sujeto a la verificación que ya está anotada en el §X.]"
+ },
+ {
+  "seccion": "VIII",
+  "cita": "¿Y qué encontraron adentro? Apuestas ilegales. Armas de fuego. Química veterinaria.",
+  "problema": "«Química veterinaria» es un eufemismo técnico. Las dos primeras se ven —plata, pistolas— y la tercera, que es la más grave para su argumento, no se ve nada.",
+  "porque_importa": "El remate de una enumeración de tres es la posición más fuerte, y usted la gastó en la palabra más borrosa. El orden además va de más a menos visible, cuando debería ir al revés.",
+  "gravedad": "medio",
+  "arreglo": "«Apuestas ilegales. Remedios veterinarios para doparlos. Y armas de fuego.» [Use la palabra exacta del parte policial o de la nota, y muéstrelo, que es lo que el §XI le pide para esta parte.]"
+ },
+ {
+  "seccion": "VI",
+  "cita": "Y si la actividad, cada vez que alguien fue a mirarla, demostró que cumple.",
+  "problema": "«Cumple» sin complemento: ¿cumple qué? Es la palabra de un informe de fiscalización, no de alguien contando lo que pasó.",
+  "porque_importa": "Es el último peldaño antes de la pregunta central, la que usted quiere que quede sonando. Que el peldaño más cercano a la pregunta sea el más vacío le quita empuje justo en el momento del salto.",
+  "gravedad": "medio",
+  "arreglo": "«Y si cada vez que alguien fue a mirar, se tuvo que ir sin nada que denunciar.»"
+ },
+ {
+  "seccion": "IV",
+  "cita": "Van diecisiete años. Diecisiete años de una ley que funciona...",
+  "problema": "Diecisiete años es un número, y los números no se ven. Se repite tres veces en la sección sin que en ninguna se le ponga algo al lado que permita medirlo.",
+  "porque_importa": "El cero de condenas solo impresiona si el diputado siente cuánto tiempo son diecisiete años. Repetir la cifra no la hace más grande; ponerle una imagen al lado sí.",
+  "gravedad": "medio",
+  "arreglo": "«Diecisiete años. En diecisiete años una guagua nace, crece y sale manejando con licencia. Todo eso ha pasado. Y no hay una sola condena contra un galguero.»"
+ },
+ {
+  "seccion": "IV",
+  "cita": "Y fueron diputados, que se las dieron de investigadores y se aparecieron ellos mismos en estos lugares.",
+  "problema": "«Se las dieron de investigadores» es una pulla, chica pero pulla, y el §XI ordena no ironizar ni una vez. Además el hecho —que fueron ellos mismos, sin avisar— queda tapado por el comentario.",
+  "porque_importa": "El que escucha es colega de esos diputados. En el segundo en que usted se pone por encima de ellos, deja de escuchar y empieza a defenderse, que es exactamente lo que su propio §XI advierte. Y el hecho desnudo es más fuerte: si fueron ellos mismos y no encontraron nada, eso vale más precisamente si usted los trata con respeto.",
+  "gravedad": "medio",
+  "arreglo": "«Y fueron diputados. Ellos mismos, sin avisar, se aparecieron en las carreras.»"
+ },
+ {
+  "seccion": "VIII",
+  "cita": "la hicieron los productores rurales. Porque los corredores clandestinos se les estaban metiendo en los campos.",
+  "problema": "«Productores rurales» y «corredores clandestinos» son categorías de informe. Ninguna de las dos tiene cara.",
+  "porque_importa": "Este es el giro más útil del §VIII —los que denunciaron no eran animalistas, eran gente del campo— y necesita que se vea gente, no rubros. Además usted es de la Fundación Soy del Campo: es su terreno, y lo está contando en el idioma del que no lo conoce.",
+  "gravedad": "medio",
+  "arreglo": "«Y fíjese quién puso la denuncia: los dueños de los campos. Porque las carreras clandestinas se les estaban metiendo adentro del potrero, de noche.»"
+ },
+ {
+  "seccion": "VI",
+  "cita": "Si mañana aparece un caso probado, hay que perseguirlo y hay que castigarlo.",
+  "problema": "«Caso probado» es jerga, y en pasiva: no se ve quién prueba qué, ni cómo aparecería.",
+  "porque_importa": "Es su gesto de buena fe, el momento en que usted concede. Una concesión en lenguaje de tribunal no se lee como concesión, se lee como reserva de abogado. Tiene que sonar a que a usted efectivamente le importaría.",
+  "gravedad": "medio",
+  "arreglo": "«Si mañana alguien graba a un galguero pegándole a un perro, que lo persigan y que lo condenen. Yo el primero. Y para eso no hace falta esta ley: la ley que lo condena ya está escrita.»"
+ },
+ {
+  "seccion": "IX",
+  "cita": "Ninguno es mío: son oficios públicos.",
+  "problema": "«Oficios públicos» es palabra de gremio. Fuera de la sala nadie sabe qué es un oficio, y adentro suena a trámite.",
+  "porque_importa": "Es la última frase de contenido del mensaje y su prueba de credibilidad. Tiene que verse como un montón de papel con timbre encima de una mesa —que es exactamente lo que el §XI le manda mostrar a cámara.",
+  "gravedad": "medio",
+  "arreglo": "«Ninguno lo escribí yo. Son papeles del Estado, con timbre y con número. Se los mando hoy mismo si me los pide.»"
+ },
+ {
+  "seccion": "III",
+  "cita": "Pero fíjese bien en lo que le voy a decir ahora, porque es lo importante / Piense en lo que eso significa. Significa que...",
+  "problema": "Dos anuncios seguidos de que viene algo importante, y después el trabajo se lo hace usted igual. Es relleno puro, y tapa la única imagen buena del párrafo, la de quedar solo en una esquina.",
+  "porque_importa": "Anunciar que viene lo importante gasta el segundo en que lo importante podría estar entrando. Manejando, esas frases se oyen como ruido y el oído se relaja justo antes del dato.",
+  "gravedad": "bajo",
+  "arreglo": "Borrar los dos anuncios y dejar la imagen sola: «Votar en contra de esto no lo deja a usted solo en una esquina. Lo deja donde ya está la mayoría de esa sala.»"
+ },
+ {
+  "seccion": "IV",
+  "cita": "Porque aparte de los relatos, y de las historias fantásticas que se contaban, nunca encontraron nada irregular.",
+  "problema": "«Relatos» e «historias fantásticas»: la primera es palabra de columna de opinión, la segunda tiene un dejo de burla. Y la frase entera es larga y con inciso, cuando alrededor todo va corto.",
+  "porque_importa": "Está pegada a «volvieron siempre con las manos vacías», que es de lo mejor del texto. La imagen buena queda seguida de una explicación abstracta que la desinfla, y el ritmo corto que usted venía armando se rompe justo ahí.",
+  "gravedad": "bajo",
+  "arreglo": "Borrarla y dejar que la imagen anterior cierre sola: «Fueron. Miraron. Preguntaron. Y volvieron siempre con las manos vacías.» Ahí el silencio, y después los diecisiete años."
+ },
+ {
+  "seccion": "IV y VI",
+  "cita": "Y en diecisiete años no existe una sola condena contra un galguero por maltrato animal. Ni una. […] Y si la actividad, cada vez que alguien fue a mirarla, demostró que cumple.",
+  "problema": "Salto lógico central del texto: de «no hay condenas» se concluye «la actividad cumple». Ausencia de prueba se convierte en prueba de ausencia, y además en prueba positiva de cumplimiento.",
+  "porque_importa": "Una condena requiere denuncia + investigación + prueba + sentencia. Cero condenas se explica igual de bien por «no hay maltrato» que por «nadie fiscalizó el sector» — y el propio texto alimenta la segunda lectura, porque dice que los que fueron a mirar eran influencers y diputados, no fiscalizadores. Cualquier asesor de comisión formula esa objeción en diez segundos y el diputado siente que le vendieron un silogismo. Peor: «no existe una sola condena» es un negativo universal sobre 17 años y todo el país, imposible de probar (los fallos de juzgados de garantía no son íntegramente rastreables y nadie clasifica a un condenado por oficio de «galguero»). Es una afirmación estructuralmente inverificable, lo que es peor que una no verificada.",
+  "gravedad": "critico",
+  "arreglo": "En §IV: «Y en diecisiete años, con esa ley funcionando, yo no he encontrado una sola condena contra un galguero por maltrato animal. Y la he buscado. Le digo altiro lo que eso prueba y lo que no prueba. No prueba que nunca haya pasado nada. Prueba que el sistema tuvo diecisiete años, tuvo la ley y tuvo los tribunales, y nadie ha llevado un caso hasta el final. Y le pido que se fije en quién tiene que probar qué: el que quiere prohibir una actividad entera es el que tiene que traer el caso. No al revés.» En §VI, reemplazar «demostró que cumple» por: «Y si en todos estos años nadie ha traído un caso probado.» El argumento pasa de empírico (frágil) a carga de la prueba (inatacable) y queda más fuerte, no más débil."
+ },
+ {
+  "seccion": "VII y IX",
+  "cita": "Nada de eso existe hoy.",
+  "problema": "Contradicción interna directa con el §IX: «Hoy esta actividad tiene chip, tiene veterinario y tiene reglamento.» Si nada de eso existe, no hay veterinario; si hay veterinario, algo de eso existe.",
+  "porque_importa": "Son dos minutos de distancia en el mismo video. Un diputado atento la caza, y no la caza como descuido: la caza como que le están inflando el argumento en las dos direcciones según convenga. Y golpea justo en el activo que el texto declara suyo — «yo tengo los papeles y ellos tienen los adjetivos». Es la contradicción más barata de arreglar y la más cara de dejar.",
+  "gravedad": "critico",
+  "arreglo": "En §VII: «Hoy nada de eso es obligatorio. Hay chip, hay veterinario y hay reglamento, pero porque la propia actividad se lo puso. Es voluntario. No hay ley que lo exija, no hay sanción al que no cumpla, y no hay nadie a quien usted le pueda reclamar. Eso es exactamente lo que el cuarto proyecto viene a cambiar.» En §IX: «Hoy esto se sostiene en reglas que se puso la propia gente de la actividad. Si el lunes gana la prohibición, mañana no va a haber ni eso.»"
+ },
+ {
+  "seccion": "IX",
+  "cita": "«Yo no voté contra los perros. Voté por veterinario obligatorio, por control de dopaje y por clausura al que incumpla, en vez de una prohibición que ni siquiera define lo que prohíbe.»",
+  "problema": "Es la única frase del documento destinada a decirse EN PÚBLICO, y contiene dos afirmaciones no verificadas: que el proyecto de prohibición «ni siquiera define lo que prohíbe», y el «en vez de», que presenta dos votaciones separadas como si fueran una alternativa única.",
+  "porque_importa": "Aquí el que paga el costo no es el autor, es el diputado. Si el boletín sí define la conducta prohibida —y los proyectos de prohibición normalmente definen algo—, el diputado queda desmentido en público, con una frase que le pasó un tercero. Ese diputado no vuelve a contestar un mensaje de la Fundación nunca más, y lo comenta. Y esta frase no está en la lista de verificación del §X, siendo la de mayor exposición del documento entero.",
+  "gravedad": "critico",
+  "arreglo": "«Yo no voté contra los perros. Voté por veterinario obligatorio, por control de dopaje y por clausura al que incumpla. Eso estaba en la tabla el mismo día y yo lo aprobé.» Sin «en vez de» y sin juicio sobre el texto del boletín. Si se verifica que el proyecto efectivamente no tipifica con precisión, se puede reponer la coletilla — pero verificada, y con el boletín en la mano."
+ },
+ {
+  "seccion": "III",
+  "cita": "De los diputados que impulsaron estas políticas, alrededor del noventa por ciento hoy no está en el Congreso. No fueron reelectos. […] No le voy a decir por qué. No me corresponde a mí, y no lo puedo probar.",
+  "problema": "Insinuación causal declarada como no probable y dicha igual (paralipsis). Además confunde dos hechos distintos —«no está en el Congreso» y «no fue reelecto»— y ofrece un porcentaje sin la línea base contra la cual significa algo.",
+  "porque_importa": "Tres problemas encima. Primero: sin saber qué porcentaje del total de diputados no fue reelecto en el mismo período, el 90% no dice nada; la rotación parlamentaria chilena es alta y el dato podría ser puro ruido. Segundo: «no está en el Congreso» incluye a los que pasaron al Senado, no repostularon, renunciaron o fueron a un ministerio — no es lo mismo que perder. Tercero y decisivo: decir «no lo puedo probar» y decirlo igual es exactamente el pecado que el §V le reprocha al adversario (acusar sin poder sostenerlo). Y en un video privado por WhatsApp, a un diputado nuevo, «los que impulsaron esto ya no están» se lee como amenaza electoral, aunque no se quiera. Ese video es reenviable.",
+  "gravedad": "critico",
+  "arreglo": "Sacarlo completo. No hay versión suave: toda la fuerza de esa frase está en la insinuación, y por eso no se puede salvar la fuerza sin salvar el riesgo. Para llenar el mismo lugar: «Y le digo una cosa más, y esta sí se la puedo probar: este proyecto ya se ha rechazado antes, en esa misma sala. Rechazarlo no es una excentricidad. Es lo que ha hecho esa Cámara cada vez que lo ha mirado. Le mando las actas hoy mismo.»"
+ },
+ {
+  "seccion": "III",
+  "cita": "Cada vez que alguien se sienta a estudiarlo en serio, este proyecto pierde más votos que la vez anterior.",
+  "problema": "Correlación presentada como causa. De una votación de rechazo creciente se infiere que la causa es el estudio serio del proyecto.",
+  "porque_importa": "Hay al menos cuatro explicaciones alternativas igual de disponibles: cambio de composición de la Cámara, disciplina de partido, ciclo electoral, y posición del proyecto en la tabla. El texto elige la única que le conviene y la presenta como lectura evidente. Es el mismo movimiento que el §III se abstiene de hacer explícitamente dos párrafos más abajo («yo no le voy a interpretar»), lo que deja la incoherencia a la vista: interpreta el dato que le sirve y se declara neutral en el otro.",
+  "gravedad": "alto",
+  "arreglo": "«Y no se rechazó por poco, ni se rechazó cada vez más apretado. Cada vez que ha vuelto, ha vuelto a perder. Yo no le voy a decir por qué pasa eso, porque no lo sé. Le digo que las actas están y se las mando hoy.»"
+ },
+ {
+  "seccion": "V",
+  "cita": "Nadie cambia de acusación cuando la primera se sostiene.",
+  "problema": "Negativo universal falso como regla general, y hombre de paja sobre la posición adversaria. Alguien puede sostener a la vez que hay maltrato y que hay apuestas ilegales; mencionar lo segundo no implica haber abandonado lo primero.",
+  "porque_importa": "Es la frase que el §XI marca como uno de los tres silencios, o sea el clímax argumental del video — y es la más fácil de desarmar. Basta abrir los fundamentos de la moción: si las apuestas figuran ahí desde el primer día, no hubo cambio de acusación, hubo dos fundamentos simultáneos desde el origen, y toda la §V se cae en el acto. Además, un lector hostil puede devolverle la frase: el propio mensaje se mueve de «no hay maltrato» a «no hay condena» a «a mí no me interesa defender la actividad».",
+  "gravedad": "alto",
+  "arreglo": "«Y hoy, cuando se discute esto, el argumento que más se escucha ya no es el maltrato. Es que ahí se apuesta. Le pido que se fije en ese desplazamiento, porque una acusación de maltrato y una acusación de apuestas son cosas distintas y se responden distinto. Y si el problema son las apuestas, hay una manera de resolverlo que no es prohibir la actividad.» Antes de grabar: revisar los fundamentos del boletín. Si ahí aparecen las apuestas desde el inicio, esta sección hay que rehacerla entera."
+ },
+ {
+  "seccion": "IV",
+  "cita": "Y volvieron siempre con las manos vacías. Porque aparte de los relatos, y de las historias fantásticas que se contaban, nunca encontraron nada irregular.",
+  "problema": "Dos absolutos («siempre», «nunca») sobre un universo que el autor no puede conocer completo, más un sesgo de selección: solo se cuentan las visitas cuyo resultado él conoce.",
+  "porque_importa": "Basta un solo caso contrario —un influencer que publicó algo, un diputado que hizo una denuncia— para que «siempre» y «nunca» queden falsos, y con ellos toda la sección. Y el que va a buscar ese caso es el asesor del diputado, no el diputado. Además, visitas anunciadas a un evento público no son fiscalización: no encontrar nada en una visita anunciada es evidencia débil, y presentarla como concluyente sobreafirma respecto de lo que sostiene.",
+  "gravedad": "alto",
+  "arreglo": "«Y de todos los que fueron, yo no conozco a uno solo que haya salido de ahí con una denuncia. Ni uno. Si usted conoce alguno, dígamelo, porque me interesa de verdad saberlo.» Invierte la carga, no puede refutarse con un contraejemplo y suena más honesto, que es justamente lo que se busca."
+ },
+ {
+  "seccion": "VII",
+  "cita": "Porque lo que se prohíbe no se regula. Se va a donde nadie lo mira.",
+  "problema": "Universal que prueba demasiado. Como regla general, «prohibir no sirve, solo desplaza» es falsa y además argumentaría contra toda prohibición.",
+  "porque_importa": "La contra es inmediata y devastadora: las peleas de perros están prohibidas en Chile. Si prohibir solo traslada la actividad al lugar donde nadie mira, el diputado puede responder «entonces usted me está pidiendo que derogue también esa prohibición». En ese momento el autor queda defendiendo una tesis libertaria general que no quiere defender, y pierde el terreno del caso concreto, que es donde iba ganando.",
+  "gravedad": "alto",
+  "arreglo": "«Yo no le voy a decir que prohibir nunca sirva, porque no es cierto. Le voy a decir qué pasa cuando se prohíbe una actividad que está viva y no se pone quién la fiscalice: no desaparece, se corre para donde nadie la ve. Y eso no es una teoría mía. Es lo que pasó al lado, en Argentina, y se lo voy a contar.»"
+ },
+ {
+  "seccion": "VIII",
+  "cita": "Nueve años después de la prohibición, Argentina no tiene menos galgos corriendo. Tiene los mismos galgos corriendo, pero con armas al lado.",
+  "problema": "Afirmación cuantitativa sin ningún respaldo, inferida de un solo operativo policial. De catorce allanamientos no se sigue nada sobre el volumen total de la actividad.",
+  "porque_importa": "Es el mismo pecado que el texto le reprocha al adversario: sacar una conclusión general de un caso puntual. Y es autodestructiva por dos lados. Primero, nadie puede saber cuántos galgos corren en la clandestinidad — esa es precisamente la naturaleza de lo clandestino. Segundo, el ejemplo se voltea solo: que la policía haya podido montar un operativo con encubiertos y llegar a catorce allanamientos demuestra que la prohibición sí le dio una herramienta a la autoridad, herramienta que —según el propio §IV— en Chile no se ha usado ni una vez en diecisiete años. El adversario usa el ejemplo argentino en contra sin esfuerzo.",
+  "gravedad": "alto",
+  "arreglo": "«Yo no le voy a decir cuántos galgos corren hoy en Argentina, porque nadie lo sabe, y no saberlo es justamente lo que pasa cuando una actividad se vuelve clandestina. Le digo lo que consta en esa causa: nueve años después de la prohibición, la actividad seguía ahí, y para llegar a ella hubo que meter agentes encubiertos y trabajar meses. La prohibición no la terminó. La sacó de la vista.»"
+ },
+ {
+  "seccion": "VIII",
+  "cita": "¿Y qué encontraron adentro? Apuestas ilegales. Armas de fuego. Química veterinaria.",
+  "problema": "El dato entra sin marco y trabaja contra el argumento propio. En un mensaje cuya tesis central es «no hay nada irregular en esta actividad», el autor introduce evidencia de dopaje en carreras de galgos.",
+  "porque_importa": "Un diputado se queda con la imagen, no con la geografía. Al día siguiente puede decir, con toda razón: «usted mismo me contó que en las carreras de galgos aparece química veterinaria». La sección diseñada para probar que la prohibición fracasa termina entregándole al adversario su mejor imagen. El dato no hay que sacarlo — hay que ponerle el marco que hoy no tiene, y entonces trabaja a favor.",
+  "gravedad": "alto",
+  "arreglo": "«¿Y qué encontraron adentro? Apuestas ilegales. Armas de fuego. Química veterinaria. Fíjese bien en esa última, diputado, porque es la clave: eso es lo que aparece cuando la actividad queda sin veterinario, sin control de dopaje y sin nadie a quien reclamarle. Eso no es lo que la prohibición combatió. Es lo que la prohibición produjo.»"
+ },
+ {
+  "seccion": "V",
+  "cita": "Lo que se hace es perseguir la apuesta ilegal, que ya es delito, y está en los artículos 277 a 279 del Código Penal.",
+  "problema": "Única cita legal dura del video, recitada de memoria a cámara, y no figura en la lista de verificación del §X.",
+  "porque_importa": "Es lo primero que un asesor chequea, y demora treinta segundos. Si el rango de artículos está corrido, o si esas normas no cubren exactamente la apuesta clandestina en el sentido que el texto necesita, muere la postura completa de «yo traigo los papeles». Decir números de artículo en voz alta es riesgo puro sin ganancia: nadie se convence por escuchar un número, y todos se desconectan si el número está malo. Además la Regla Cero del proyecto prohíbe expresamente citar de memoria.",
+  "gravedad": "alto",
+  "arreglo": "«Lo que se hace es perseguir la apuesta ilegal, que en Chile ya es delito y ya está tipificada en el Código Penal. La norma exacta se la mando por escrito hoy mismo, con el artículo.» El número va en el documento adjunto, verificado contra el texto oficial. Nunca a cámara."
+ },
+ {
+  "seccion": "VII",
+  "cita": "A favor de veterinario obligatorio en cada carrera. A favor de control de dopaje. A favor de un estándar de pista. A favor de una edad mínima para que un perro pueda correr. Y a favor de la clausura del recinto que no cumpla.",
+  "problema": "Cinco afirmaciones sobre el contenido literal de un boletín, ninguna incluida en la lista de verificación del §X.",
+  "porque_importa": "Es el párrafo operativo del mensaje: es lo que se le pide votar. Y es el más fácil de comprobar de todo el video — el diputado abre el boletín y lee. Si uno solo de los cinco puntos no está en el texto, o está con otro alcance, el diputado concluye que le describieron un proyecto que no existe, justo en el punto donde se le pedía una acción concreta. El §X marca como bloqueante el orden de la tabla y deja pasar el contenido del proyecto, que es igual de bloqueante.",
+  "gravedad": "alto",
+  "arreglo": "Verificar los cinco puntos contra el texto del boletín antes de grabar y decir solo los que estén literalmente. Si no alcanza a verificarse: «El proyecto que va después no prohíbe. Pone condiciones, y pone sanción al que no las cumpla. Le mando el texto hoy mismo y usted lo lee en cinco minutos: no son cinco minutos perdidos, es el proyecto que va a votar.»"
+ },
+ {
+  "seccion": "III",
+  "cita": "Es la tercera o la cuarta vez que este mismo proyecto entra a esa sala. Y todas las veces se ha rechazado.",
+  "problema": "Vaguedad seguida de un universal. No se sabe si son tres o cuatro, pero se afirma con certeza qué pasó en todas. Además, «el mismo proyecto» rechazado y reingresado tiene un problema propio.",
+  "porque_importa": "Dos golpes. Uno: es la primera afirmación fáctica después de anunciar «con los papeles arriba de la mesa», y ya no se sabe si son tres o cuatro. La postura de rigor se cae en la frase inicial. Dos: si de verdad fue el mismo proyecto rechazado en Sala, hay un problema de reingreso que un diputado con oficio conoce; lo más probable es que sean boletines distintos con contenido parecido, o que alguno no llegara a votarse nunca —y «archivado» o «no votado» no es «rechazado». El fallback del §X («Todas las veces se ha rechazado. Y nada más.») tampoco es seguro, porque arrastra el mismo universal sin verificar.",
+  "gravedad": "alto",
+  "arreglo": "«Esto que le van a poner en tabla el lunes no es nuevo. Ya ha entrado antes a esa sala, más de una vez. Y cada vez que se ha votado, ha salido rechazado. Le mando las actas hoy mismo y usted cuenta las veces.» Y corregir el §X: el fallback debe ser este, no «todas las veces»."
+ },
+ {
+  "seccion": "V",
+  "cita": "Y a nadie, nunca, se le ha ocurrido venir a este Congreso a pedir que se prohíba el fútbol porque hay gente apostando.",
+  "problema": "Analogía falsa, más doble absoluto («a nadie, nunca»). En el fútbol los participantes son humanos que consienten; el galgo no consiente. La desanalogía es evidente y es exactamente el punto del adversario.",
+  "porque_importa": "El diputado la ve al instante y siente que lo trataron de tonto, que es lo peor que puede pasar en un mensaje construido sobre respeto y tono bajo. Y hay un hombre de paja encima: el adversario no dice «prohíbase porque hay apuestas», dice «hay maltrato, y las apuestas son el incentivo del maltrato». Refutar la versión simple no toca la versión real. La hípica, en cambio, sirve perfecto — hay animales, hay plata, hay apuestas, y la respuesta del legislador fue regular, no prohibir.",
+  "gravedad": "alto",
+  "arreglo": "Sacar el fútbol y quedarse con la hípica: «En la hípica se apuesta. Y en la hípica hay animales corriendo, hay premios y hay plata de por medio. Y a nadie se le ha ocurrido pedir que se prohíba la hípica. Lo que se hizo fue regularla, ponerle veterinario y ponerle fiscalización. Eso es exactamente lo que le estoy pidiendo acá.»"
+ },
+ {
+  "seccion": "VI",
+  "cita": "A mí no me interesa ponerme a defender la actividad.",
+  "problema": "Es falso en el contexto del propio mensaje, y además el texto nunca declara el interés del que habla.",
+  "porque_importa": "El video completo defiende la actividad: explica que cumple, que no hay condenas, que la prohibición fracasa y que hay que aprobar su regulación. Decir «no me interesa defenderla» mientras se la defiende cinco minutos es la clase de frase que un diputado registra como cálculo. Y el riesgo mayor es el otro: el mensaje nunca dice de dónde viene el autor. Si el diputado lo averigua después —y lo va a averiguar— la sensación no es «me informaron», es «me trabajaron sin decírmelo». Declarar el interés de frente sube la credibilidad, no la baja; es la jugada más barata disponible en todo el texto.",
+  "gravedad": "alto",
+  "arreglo": "«Y le digo de frente de dónde vengo, para que no se lo cuente otro: yo trabajo con gente de esta actividad. No se lo escondo. Por eso mismo no le vengo a pedir que me crea a mí. Le vengo a dejar documentos, y usted los revisa sin creerme nada.»"
+ },
+ {
+  "seccion": "III",
+  "cita": "Lo deja donde ya está la mayoría de esa Cámara. Y donde cada año hay más gente.",
+  "problema": "Argumento de mayoría: vote así porque así vota la mayoría. Es la estructura que el propio mensaje rechazaría si viniera del otro lado («la ciudadanía lo pide»). Y «cada año» convierte tres o cuatro episodios en una serie anual.",
+  "porque_importa": "El texto se sostiene sobre «mire los papeles, no las presiones», y aquí ofrece la presión de estar del lado ganador. Es incoherente con su propia tesis. Además es frágil: si esas votaciones ocurrieron en Cámaras de composición distinta, la mayoría invocada puede ya no existir — y el destinatario es precisamente un diputado nuevo, o sea alguien que no estaba en esas votaciones.",
+  "gravedad": "medio",
+  "arreglo": "«Votar en contra de esto no lo deja a usted solo en una esquina. Ya se ha votado en contra antes, en esa misma sala, y no fue un grupito. Eso es todo lo que le digo: que no está haciendo algo raro.» Sin «la mayoría» y sin «cada año hay más gente»."
+ },
+ {
+  "seccion": "VI",
+  "cita": "Entonces yo le dejo a usted la pregunta que a mí nadie me ha podido responder en siete años.",
+  "problema": "Argumento por ignorancia: de que nadie le haya respondido no se sigue que no haya respuesta. Y es inverificable en las dos direcciones.",
+  "porque_importa": "Invita justo la reacción que no se busca: el diputado piensa «yo se la puedo responder» y se pone a discutir, o piensa «no le responden porque no le preguntan a usted», que es humillante y cierra la puerta. En un mensaje cuyo objetivo es dejar espacio para cambiar de opinión, una frase que suena a desafío es un costo neto.",
+  "gravedad": "medio",
+  "arreglo": "«Entonces le dejo la pregunta, y se la hago en serio, no como frase: si ya existe la ley que castiga el maltrato, y ya existen los procedimientos, ¿qué agrega prohibir la actividad entera? Si usted tiene la respuesta, quiero oírla. Yo llevo siete años dándole vueltas.»"
+ },
+ {
+  "seccion": "VIII",
+  "cita": "Exactamente lo que le van a pedir a usted que apruebe.",
+  "problema": "«Exactamente» afirma identidad entre la ley argentina de 2016 y el proyecto chileno, y contradice el §IX, que dice del proyecto chileno que «ni siquiera define lo que prohíbe».",
+  "porque_importa": "No pueden ser las dos cosas: idéntico a una ley extranjera con tipo y pena definidos, e indefinido. Y «exactamente» es comprobable poniendo los dos textos al lado — cualquier diferencia de alcance o de pena convierte una comparación útil en una exageración detectada, justo en la sección que se apoya en un caso extranjero que el diputado no conoce y donde por eso mismo se necesita máxima precisión.",
+  "gravedad": "medio",
+  "arreglo": "«Argentina prohibió las carreras de perros el año 2016, con cárcel. Es la misma idea que le van a poner sobre la mesa el lunes.» Y verificar antes de grabar el año, la pena y los datos del operativo de 2025: nada del §VIII está en la lista del §X, siendo la sección con más hechos comprobables del video."
+ },
+ {
+  "seccion": "IX",
+  "cita": "Yo sé que a usted le van a mostrar un video de treinta segundos. Le van a mostrar un perro herido, o un perro botado. Y le van a decir que si usted no vota que sí, usted está a favor de eso.",
+  "problema": "Anticipa como certeza la conducta futura del adversario. El autor no puede saber qué le van a mostrar a ese diputado.",
+  "porque_importa": "Si al diputado efectivamente le mostraron ese video, la frase es la más potente del mensaje. Si no se lo han mostrado, el autor queda hablando de una campaña que el diputado no ha visto, y el registro se desliza hacia el que el propio autor decidió sacar del texto. El condicional conserva todo el efecto y no pierde nada: si ya se lo mostraron, se lo mostraron igual.",
+  "gravedad": "medio",
+  "arreglo": "«Y si en estos días le muestran un video de treinta segundos, con un perro herido o un perro botado, y le dicen que votar que no es estar a favor de eso: no lo está. Y usted lo sabe.»"
+ },
+ {
+  "seccion": "IV y IX",
+  "cita": "Ninguno es mío: son oficios públicos.",
+  "problema": "Contradice el §IV («quiero contarle algo que no sale en ninguna parte») y el propio §X, que reconoce que los detalles del §IV son testimonio del autor, no documento. Y «ninguno es mío» sobreafirma: el material argentino no es un oficio público chileno.",
+  "porque_importa": "El cierre promete respaldo documental para todo, cuando el corazón del §IV es memoria personal. Si el diputado pide los papeles y descubre que la parte que más lo movió no tiene papel detrás, la sensación es de haber sido llevado. Distinguir las dos cosas en voz alta cuesta una frase y compra exactamente la credibilidad que el resto del video está tratando de construir.",
+  "gravedad": "medio",
+  "arreglo": "«Quedo a disposición para hacerle llegar los documentos, hoy mismo si me los pide. Y le aclaro una cosa para que no haya malentendidos: la mayoría son oficios y textos públicos, que usted puede revisar sin creerme a mí. Lo que le conté de la gente que fue a mirar es mi testimonio. Se lo digo para que sepa cuál es cuál.»"
+ },
+ {
+  "seccion": "IV",
+  "cita": "La ley de maltrato animal se aplica en Chile desde el año 2009. Van diecisiete años. Diecisiete años de una ley que funciona, que se aplica todos los días, y que ha condenado a mucha gente en este país.",
+  "problema": "La fecha de inicio es discutible y sostiene toda la aritmética del «diecisiete años», que es el número más repetido del video. Además, «se aplica todos los días» es hipérbole que trabaja contra el propio argumento.",
+  "porque_importa": "El maltrato animal está sancionado en Chile desde bastante antes de 2009, y el régimen vigente proviene de una reforma posterior. Según cuál norma se tome, la ventana podría no ser de diecisiete años sino considerablemente menor, y el dato de las «cero condenas» pierde la mitad de su peso. Es un desmentido de un minuto de trabajo para un asesor. Y por el otro lado: si la ley se aplica todos los días y condena a mucha gente, pero en el sector galguero no ha producido ni una condena, la lectura alternativa —a ese sector no se lo ha fiscalizado— queda servida por el propio texto.",
+  "gravedad": "medio",
+  "arreglo": "«En Chile hay una ley que castiga el maltrato animal, que lleva años aplicándose y que ha condenado a mucha gente. No es una ley de papel. Y en todos esos años, con esa ley funcionando, yo no he encontrado una sola condena contra un galguero.» Y agregar al §X: verificar contra fuente primaria cuál es la norma y desde cuándo rige, antes de decir cualquier cifra de años a cámara."
+ },
+ {
+  "seccion": "VII",
+  "cita": "Usted puede rechazar el tercero y aprobar el cuarto.",
+  "problema": "Presenta las dos votaciones como independientes y garantizadas. No se aborda qué pasa si la prohibición se aprueba primero, ni si el cuarto proyecto está en estado de votarse, ni que la tabla puede alterarse el mismo día.",
+  "porque_importa": "Es la acción concreta que se le pide al diputado y la promesa central del mensaje: «sale votando a favor de algo». Si el lunes el cuarto punto no se vota, se posterga, o queda sin sentido porque el tercero pasó, el diputado hizo lo que se le pidió y no obtuvo la cobertura política que se le prometió. Ese es el escenario que destruye la relación de forma definitiva, porque el costo lo pagó él solo.",
+  "gravedad": "medio",
+  "arreglo": "«Los dos están en la tabla del lunes, uno detrás del otro. Si se votan los dos, usted puede rechazar la prohibición y aprobar la regulación el mismo día. Usted no tiene que elegir entre prohibir y no hacer nada: esa es una trampa, y no es verdad.» Y confirmar antes de grabar no solo el orden, sino que el proyecto de regulación esté en condiciones de votarse."
+ },
+ {
+  "seccion": "global",
+  "cita": "todas las veces / siempre con las manos vacías / nunca encontraron nada / Ni una / Nadie cambia de acusación / a nadie, nunca / nadie me ha podido responder / no sale en ninguna parte / Nada de eso existe hoy / lo que se prohíbe no se regula / no va a tener a nadie / Ninguno es mío",
+  "problema": "Trece cuantificadores universales en cinco minutos. Cada uno es una asa: se refuta con un solo contraejemplo, y el que cae arrastra la credibilidad de los otros doce.",
+  "porque_importa": "Es el problema estructural del texto, más grave que cualquiera de sus frases por separado. El mensaje se presenta como el lado que tiene documentos frente al lado que tiene adjetivos — y está escrito con la gramática del que tiene adjetivos. Un asesor que quiera desarmarlo no necesita refutar la tesis: le basta encontrar un solo caso contra uno solo de los absolutos, y en la reunión siguiente dice «de todo lo que le mandó, esto es falso». No importa cuál sea. Bajar los universales no debilita el mensaje: lo vuelve inatacable, que es la única ventaja competitiva real que este texto tiene.",
+  "gravedad": "alto",
+  "arreglo": "Pasada final antes de grabar, convirtiendo cada absoluto en un enunciado sobre lo que al autor le consta: «nunca encontraron nada» → «yo no conozco a uno que haya salido con una denuncia»; «no existe una sola condena» → «yo no he encontrado ninguna, y la he buscado»; «nadie me ha podido responder» → «a mí nadie me la ha respondido»; «lo que se prohíbe no se regula» → «una prohibición sin fiscalización no termina la actividad, la traslada». Se conservan tres absolutos, no más, y solo donde sean literalmente verificables: son los que quedan sonando fuerte precisamente porque el resto del texto no grita."
+ },
+ {
+  "seccion": "X",
+  "cita": "| «En diecisiete años no existe una sola condena contra un galguero» (§IV) | «No conozco ninguna condena contra un galguero por maltrato animal, y lo he buscado.» |",
+  "problema": "El sistema de reemplazos del §X es incompleto: cambia la premisa pero no la conclusión que se apoya en ella.",
+  "porque_importa": "Si el autor usa la versión débil en el §IV («no conozco ninguna»), el §VI sigue diciendo «la actividad demostró que cumple» — una conclusión fuerte sobre una premisa que él acaba de reconocer como limitada a su propio conocimiento. El video quedaría con la contradicción a la vista y en el peor lugar posible: el punto donde el autor está siendo honesto. Lo mismo con el fallback de la votación, que conserva «todas las veces» sin verificar. El §X está pensado frase por frase y debía estar pensado por cadena argumental.",
+  "gravedad": "alto",
+  "arreglo": "Agregar al §X una columna de arrastre: cada reemplazo debe indicar qué otras frases hay que cambiar junto con él. Para el caso de la condena: si se usa la versión débil en el §IV, el §VI dice «y si en todos estos años nadie ha traído un caso probado», no «demostró que cumple». Para la votación: el fallback es «ya ha entrado antes, y cada vez que se ha votado ha salido rechazado», no «todas las veces». Y sumar a la lista de verificación los cinco contenidos del proyecto de regulación (§VII), los artículos del Código Penal (§V), los datos de Argentina (§VIII) y la frase pública del cierre (§IX), que hoy no están y son todos comprobables por el destinatario."
+ },
+ {
+  "seccion": "I",
+  "cita": "Y le voy a hablar cuatro minutos, con los papeles arriba de la mesa.",
+  "problema": "El encabezado del archivo declara ≈5 minutos.",
+  "porque_importa": "Menor, pero cae en la misma frase donde se promete rigor documental. Si el diputado ve la barra del video en 5:40 después de que le prometieron cuatro minutos, es un dato pequeño en la dirección exacta contraria a la que el mensaje entero está trabajando.",
+  "gravedad": "bajo",
+  "arreglo": "«Y le voy a hablar cinco minutos, con los papeles arriba de la mesa.» O medir el video terminado y decir el número real, redondeado hacia arriba."
+ }
+]
