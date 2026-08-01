@@ -69,6 +69,10 @@ Detalle completo en `04-fuentes/argentina-prohibicion-2016-dossier.md`.
 | 37 | Quiénes impulsaron cada versión del proyecto y **cuáles de ellos siguen hoy en el Congreso**. El dictado dice «todos están fuera»; el video 2 nombra a Félix González entre los impulsores actuales. Basta un nombre en ejercicio para que «todos» sea falso | v03 §4, tramo 1:18 | **CRÍTICO** | Firmantes de los boletines 12.420-12, 12.786-12 y 15388-12 + composición actual de la Cámara |
 | 38 | «Animales sufriendo condiciones documentadas por imposición de las políticas animalistas» — ¿a qué condiciones concretas se refiere el autor? | cavilaciones C-001 | PENDIENTE | Precisar con el autor y luego buscar fuente |
 
+| 39 | **«Innumerables fiscalizaciones demostraron el cumplimiento de las normas de bienestar animal».** Distinguir de «no hay denuncias»: son afirmaciones distintas. ¿Existen actas o informes de fiscalización, de qué servicio y con qué fecha? | v04 §1.1 — **el dato más fuerte y el más peligroso** | **CRÍTICO** | Actas/informes de SAG, municipios, Carabineros o PDI en poder del autor |
+| 40 | **El 90% de los diputados que promovieron estas políticas no fue reelecto.** Lista nominativa con período y resultado electoral | v04 §2, tramo 1:00 | **CRÍTICO** | Resultados electorales (Servel) + firmantes de los boletines |
+| 41 | Que desde 2009 (Ley 20.380 y art. 291 bis) no exista **ninguna condena** contra galgueros por maltrato animal. Nota: de 2009 a 2026 son 17 años, no 20 | v04 §2, tramo 1:38 | PENDIENTE | Poder Judicial / Fiscalía |
+
 ---
 
 ## Nota sobre el uso de estos datos
