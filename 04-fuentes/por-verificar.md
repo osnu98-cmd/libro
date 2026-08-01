@@ -73,6 +73,10 @@ Detalle completo en `04-fuentes/argentina-prohibicion-2016-dossier.md`.
 | 40 | **El 90% de los diputados que promovieron estas políticas no fue reelecto.** Lista nominativa con período y resultado electoral | v04 §2, tramo 1:00 | **CRÍTICO** | Resultados electorales (Servel) + firmantes de los boletines |
 | 41 | Que desde 2009 (Ley 20.380 y art. 291 bis) no exista **ninguna condena** contra galgueros por maltrato animal. Nota: de 2009 a 2026 son 17 años, no 20 | v04 §2, tramo 1:38 | PENDIENTE | Poder Judicial / Fiscalía |
 
+| 42 | **Visitas de verificación de la contraparte a los canódromos:** influencers, asistentes de incógnito y diputados que fueron a mirar y no encontraron irregularidades. Situar en tiempo y lugar sin nombrar personas | v05 §3, tramo 2:00 | PENDIENTE | Testimonio del autor — precisar fechas, recintos y, si existe, registro público de esas visitas |
+| 43 | Que el reproche de la contraparte migró del maltrato a las apuestas | v05 §3, tramo 2:36 | PENDIENTE | Actas y audios de la Comisión: contrastar los fundamentos iniciales con las intervenciones posteriores |
+| 44 | Artículos 277 a 279 del Código Penal sobre apuestas ilegales, para la comparación con el fútbol | v05 §3, tramo 3:14 | PENDIENTE | Texto vigente del Código Penal |
+
 ---
 
 ## Nota sobre el uso de estos datos

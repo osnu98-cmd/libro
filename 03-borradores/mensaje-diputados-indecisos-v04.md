@@ -1,7 +1,7 @@
 ---
 pieza: Mensaje a diputados nuevos e indecisos — votación del lunes 3-08-2026
 versión: v04
-estado: VIGENTE (supera a v03)
+estado: SUPERADA POR v05
 fecha: 2026-08-01
 dictado de origen: bloques 1 a 4 del 01-08-2026 + instrucción de reestructura
 formato: guion para grabar en video
