@@ -1,7 +1,7 @@
 ---
 pieza: Mensaje directo a diputados indecisos — votación del lunes 3-08-2026
 versión: v01
-estado: VIGENTE
+estado: SUPERADA POR v02
 fecha: 2026-08-01
 formato: guion para grabar en video (2 a 3½ min) + hoja de una página
 autor: Oscar Antonio Núñez Llanca · Fundación Soy del Campo Chile
