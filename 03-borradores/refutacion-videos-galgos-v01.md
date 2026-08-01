@@ -3,17 +3,23 @@ pieza: Refutación de videos animalistas sobre el proyecto de galgos
 versión: v01
 estado: VIGENTE
 fecha: 2026-08-01
-videos analizados: 1 de 2
-pendientes: reel de Instagram DbbVQjHBED0 — inaccesible, ver §0
+videos analizados: 2 de 2
+votación: lunes 3 de agosto de 2026 — ver aviso al inicio
 ---
 
 # Refutación punto por punto
 
-> **§0 — Falta el segundo video.** El reel de Instagram
-> (`instagram.com/reel/DbbVQjHBED0/`) devuelve 403: Instagram no permite
-> lectura sin sesión iniciada. **Para refutarlo necesito que lo descargues
-> y lo subas igual que el primero** (o que me pegues el texto). En cuanto
-> lo tenga, se agrega como §3 de este documento.
+> ## ⚠️ URGENTE — LA VOTACIÓN ES EL LUNES 3 DE AGOSTO DE 2026
+>
+> Los dos videos coinciden en la fecha. El segundo la dice con todas sus
+> letras: *«este 3 de agosto del 2026»*. El primero dice que ese lunes la
+> **prohibición va tercera en la tabla y la regulación cuarta**.
+>
+> Hoy es sábado 1 de agosto. Quedan dos días. Eso reordena todo:
+> la prioridad ya no es el discurso largo, sino **(a)** confirmar la tabla,
+> **(b)** cerrar los cinco datos críticos de la cola de verificación, y
+> **(c)** llegar a los diputados indecisos con la versión de 90 segundos y
+> la hoja de una página. `[VERIFICAR la tabla de la Sala del 03-08-2026]`
 
 ---
 
@@ -170,7 +176,199 @@ decirlo despacio:
 
 ---
 
-## 3. Y lo que pasó donde ya lo hicieron
+## 3. Video 2 — Felipe Saldías (Panorama Político Chile)
+
+**Archivo:** `¿A quién se le ocurrió que las carreras de galgos tenían que
+llegar al Parlamento?…mp4` · 95 segundos · pieza a cámara, grabada en el
+Parque Japonés de La Serena. Rótulo en pantalla: **«Felipe Saldías ·
+Periodista y Director Panorama Político Chile»**.
+
+Transcripción obtenida del audio con reconocimiento automático de voz
+(whisper-small). Es fiel en lo sustantivo; los nombres propios pueden
+tener errores de reconocimiento y van marcados.
+
+> «¿A quién chucha se le puede ocurrir que las carreras de perros galgos
+> tenían que pasar por el Parlamento? **Este 3 de agosto podría decidir
+> entre prohibir las carreras de perros galgos o avanzar hacia su
+> regulación y reconocimiento legal.** ¿Y qué significa regularlas en lugar
+> de prohibirlas? Significa que esta actividad, **que hay estúpidos que la
+> apoyan**, podría **dejar de operar en la ilegalidad y pasar a contar con
+> un marco legal**, transformándose en una actividad reconocida y regulada.
+> Y ojo que esto no es un tema menor: estamos hablando de una actividad que
+> utiliza animales para el entretenimiento y el lucro, y es obvio y
+> tremendamente cuestionable por el sufrimiento y la explotación a la que
+> pueden ser sometidos los perritos galgos.
+>
+> Entre quienes han impulsado la prohibición —no es un tema de izquierda o
+> derecha— hay parlamentarios de distintas corrientes políticas como Jaime
+> Araya, Camila Musante, Clara Sagardía, Marisela Santibáñez, Félix
+> González y Daniel Melo, entre otros.
+> `[VERIFICAR los seis nombres: el reconocimiento de voz puede haberlos
+> deformado]`
+>
+> Por eso hago un llamado a toda la ciudadanía: que este 3 de agosto del
+> 2026 estemos atentos y alcemos la voz, porque la pregunta de fondo es muy
+> simple: **¿queremos una sociedad que normalice el uso de animales para el
+> entretenimiento y el lucro, o una sociedad que avance hacia una mayor
+> protección y respeto por ellos?** Me imagino que por lo segundo,
+> ¿verdad? Esto no debería tener discusión, pero estamos ante un hecho
+> cumplido. **Así como se debate el rodeo**, las carreras de galgos también
+> merecen una discusión seria sobre los límites del maltrato, la crueldad y
+> la utilización de animales como espectáculo.
+>
+> A los diputados y diputadas de cada distrito de nuestro Chile: escuchen a
+> la ciudadanía y actúen con criterio y sobre todo con responsabilidad, y
+> **voten a favor de la prohibición de esta soberana tontería** de las
+> carreras de perros galgos, porque el respeto y la protección de los
+> animales no pueden depender de cuánto entretienen a los que los observan.
+> Porque los animales no pueden defenderse solos; nosotros sí podemos
+> hacerlo por ellos. Seamos la voz de quienes no tienen voz.
+>
+> Soy Felipe Saldías, periodista y director de Panorama Político Chile.»
+
+---
+
+### Afirmación 7 — «regular significa que dejaría de operar en la ilegalidad y pasaría a contar con un marco legal»
+
+**Qué es.** La frase más importante de los dos videos, y **la dijo él**.
+
+**La respuesta.** No hay que refutarla. Hay que devolvérsela entera:
+
+> **«Escuchen otra vez su propio argumento en contra de regular: que
+> regular sacaría a esta actividad de la ilegalidad y le daría un marco
+> legal. Eso no es una objeción. Es la descripción de lo que hace una
+> ley.**
+>
+> **Él está diciendo, con todas sus letras, que prefiere que esto siga
+> operando sin marco antes que verlo con reglas. Prefiere el problema
+> antes que la solución, porque la solución no la escribió él.»**
+
+Es el mismo hallazgo del video 1 —querer que la prohibición se vote antes
+para que la regulación no se vote nunca—, ahora confesado desde el otro
+lado: no es que la regulación no sirva, es que **sirve**.
+
+---
+
+### Afirmación 8 — «¿a quién se le ocurrió que esto tenía que pasar por el Parlamento?»
+
+**Qué es.** La apertura del video, y se refuta con el registro de la
+Cámara.
+
+**La respuesta.**
+
+> **«Se le ocurrió a los diputados que presentaron el proyecto de
+> prohibición. El Boletín 15388-12, y antes el 12.420-12, son mociones
+> parlamentarias impulsadas por su propio sector. Ningún galguero le pidió
+> jamás al Congreso que legislara sobre esto.**
+>
+> **Ellos llevaron el asunto al Parlamento y ahora se quejan de que el
+> Parlamento lo discuta. Lo que les molesta no es que el tema haya
+> llegado: es que exista una alternativa a la suya.»**
+
+---
+
+### Afirmación 9 — «hay estúpidos que la apoyan» / «esta soberana tontería»
+
+**Qué es.** El nivel argumental de una pieza que le pide al Congreso crear
+un delito con pena de presidio.
+
+**La respuesta.** Sin indignarse, en dos frases:
+
+> **«En noventa y cinco segundos dirigidos a los diputados no hay un
+> estudio, ni una cifra, ni un caso, ni una denuncia. Hay dos insultos:
+> "estúpidos" y "soberana tontería".**
+>
+> **Y en la misma pieza les pide a los diputados que "escuchen a la
+> ciudadanía". A una parte de esa ciudadanía acaba de llamarla estúpida.»**
+
+---
+
+### Afirmación 10 — «merecen una discusión seria sobre los límites del maltrato y la crueldad»
+
+**Qué es.** Pide límites y vota por la única opción que no fija ninguno.
+
+**La respuesta.** Esta es la que hay que dejar caer al final:
+
+> **«Está pidiendo una discusión seria sobre los límites. Estoy de acuerdo.
+> Pero fíjense en lo que vota: la prohibición no fija ningún límite. Fija
+> una frontera y manda todo al otro lado, donde ya no hay límite que
+> aplicar.**
+>
+> **Los límites están en el otro proyecto: edad mínima y máxima,
+> veterinario obligatorio, control de dopaje, estándar de pista, clausura.
+> Eso son límites. Lo otro es apagar la luz y decir que se acabó el
+> problema.»**
+
+---
+
+### Afirmación 11 — «así como se debate el rodeo»
+
+**Qué es.** La **segunda** confirmación independiente, en la misma semana
+y de otra voz, de que galgos y rodeo son la misma agenda.
+
+**La respuesta.** Ninguna. Se cita y se calla.
+
+> **«Dos comunicadores distintos, dos videos distintos, la misma semana,
+> los dos trajeron el rodeo sin que nadie se lo preguntara. Uno dijo que el
+> problema era que el galgo quedara "como el rodeo". El otro dice "así como
+> se debate el rodeo". No hace falta que yo advierta nada: lo están
+> anunciando ellos.»**
+
+**Valor estratégico:** con esto, el Riesgo 4 del discurso deja de ser una
+inferencia. Son dos fuentes independientes. **Guarda los dos videos con
+fecha y captura.**
+
+---
+
+### Afirmación 12 — «¿queremos una sociedad que normalice el uso de animales para el entretenimiento y el lucro?»
+
+**Qué es.** El falso dilema, y el punto donde más terreno cede sin darse
+cuenta.
+
+**La respuesta.** No discutas el dilema: **mídelo**.
+
+> **«Piensen en la extensión de esa frase, porque no es una frase sobre
+> galgos. "Uso de animales para el entretenimiento y el lucro" es la
+> hípica. Es el rodeo. Es la equitación. Es la pesca deportiva. Son los
+> zoológicos. Es buena parte de la ganadería, si contamos el lucro.**
+>
+> **No están proponiendo una política sobre galgos: están proponiendo un
+> principio. Y ese principio tiene un alcance enorme que no declaran, pero
+> que van a cobrar después, proyecto por proyecto.»**
+
+---
+
+### Afirmación 13 — «la protección de los animales no puede depender de cuánto entretienen a los que los observan»
+
+**Qué es.** Su mejor línea. No la ataques: **tómala.**
+
+**La respuesta.**
+
+> **«Estoy de acuerdo, y por eso mismo voto distinto que él. La protección
+> del animal tampoco puede depender de cuánto incomoda a los que no lo
+> miran. Tiene que depender de la condición del animal, que es
+> medible: edad, estado físico, control veterinario, dopaje, pista, chip.**
+>
+> **Todo eso está escrito en el proyecto de regulación y no está en el de
+> prohibición. Su propia frase es el mejor argumento para votar en contra
+> de lo que él pide.»**
+
+---
+
+### Lo que NO hay que responderle a este video
+
+- **«Seamos la voz de quienes no tienen voz.»** Déjala pasar. Es
+  emocionalmente fuerte y discutirla te pone del lado equivocado de una
+  frase que no tiene contenido refutable.
+- **El garabato de la apertura.** No lo cites ni lo comentes: usarlo te
+  hace ver mezquino y a él lo hace ver espontáneo.
+- **Los seis nombres de diputados.** No los ataques. Úsalos como lo que
+  son: la lista de quiénes ya están comprometidos, para saber a quién **no**
+  dedicarle el tiempo que queda. `[VERIFICAR los nombres antes de usarlos]`
+
+---
+
+## 4. Y lo que pasó donde ya lo hicieron
 
 Cierre obligatorio de cualquier refutación, con el dossier de Argentina
 (`04-fuentes/argentina-prohibicion-2016-dossier.md`):
@@ -194,7 +392,7 @@ Cierre obligatorio de cualquier refutación, con el dossier de Argentina
 
 ---
 
-## 4. Guion para responder en el mismo formato (60 segundos)
+## 5. Guion para responder en el mismo formato (60 segundos)
 
 Reel contra reel. Mismo largo, mismo encuadre, sin música y sin gritar.
 
@@ -228,7 +426,42 @@ gana la prohibición, mañana tiene handies. Ustedes eligen.
 
 ---
 
-## 5. Reglas de tono (esto vale más que los argumentos)
+### Guion B — respuesta al video 2 (60 segundos, para el domingo 2)
+
+Este es el que hay que sacar, porque es el que llega antes de la votación.
+
+---
+
+**[0-10s]** Un periodista preguntó ayer quién fue el que llevó las carreras
+de galgos al Parlamento. Se lo respondo: fueron los diputados que
+presentaron el proyecto de prohibición. Boletín 15388-12. Ningún galguero
+le pidió nunca al Congreso que legislara esto.
+
+**[10-26s]** Después dice algo más interesante. Dice que el problema de
+regular es que la actividad **dejaría de operar en la ilegalidad y pasaría
+a tener un marco legal**. Eso no es una objeción: eso es lo que hace una
+ley. Está diciendo que prefiere que esto siga sin reglas antes que verlo
+con reglas que él no escribió.
+
+**[26-40s]** Pide una discusión seria sobre los límites al maltrato. De
+acuerdo. Pero la prohibición no fija ni un límite: fija una frontera y
+manda todo al otro lado. Los límites están en el otro proyecto —edad,
+veterinario, dopaje, pista, clausura— y es el que él quiere que no alcance
+a votarse.
+
+**[40-52s]** Y pregunta si queremos una sociedad que use animales para el
+entretenimiento y el lucro. Piensen en el tamaño de esa frase: eso es la
+hípica, el rodeo, la equitación, la pesca deportiva. No es una política
+sobre galgos. Es un principio, y lo van a cobrar después.
+
+**[52-60s]** Dice que la protección del animal no puede depender de cuánto
+entretiene al que lo mira. Estoy de acuerdo. Tampoco de cuánto incomoda al
+que no lo mira. Tiene que depender de la condición del animal. Y eso solo
+se mide si hay reglas.
+
+---
+
+## 6. Reglas de tono (esto vale más que los argumentos)
 
 1. **Nunca lo trates de mentiroso.** Di «es falso» del dato, no «miente»
    de la persona. En cuanto lo personalizas, el video pasa a ser una pelea
@@ -246,7 +479,7 @@ gana la prohibición, mañana tiene handies. Ustedes eligen.
 6. **Nunca digas «los animalistas».** Di «este video». Generalizar te
    convierte en el que pelea contra un grupo, y ahí pierdes al indeciso.
 
-## 6. Lo que NO hay que responder
+## 7. Lo que NO hay que responder (video 1)
 
 - **No entres en «el sábado voy a estar más tranquilo», la mudanza ni la
   chía.** Es relleno; burlarse de eso te hace ver pequeño.

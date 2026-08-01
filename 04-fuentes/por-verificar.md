@@ -59,7 +59,11 @@ Detalle completo en `04-fuentes/argentina-prohibicion-2016-dossier.md`.
 | 28 | Artículo «Ley 27330 de prohibición de carreras de galgos: una ley penal innecesaria», revista Aequitas Virtual (USAL): autor, año, volumen y argumento | dossier | PENDIENTE | p3.usal.edu.ar (bloquea acceso automatizado; abrir a mano) |
 | 29 | **Video del 30-07-2026**: autoría, fecha de publicación y cuenta. Conservar copia del archivo | §6 del discurso, refutación completa | PENDIENTE | El archivo está en poder del autor |
 | 30 | **Cuál es exactamente el proyecto de regulación que va en cuarto lugar de la tabla**: ¿es el Boletín 12.786-12 u otro posterior? Y confirmar que no contiene ninguna norma de financiamiento estatal | refutación, afirmación 2 — **el punto más caro de equivocar** | PENDIENTE | Tabla de la Sala + texto del boletín en BCN |
-| 31 | Si el rodeo recibe o no aportes estatales | **NO AFIRMAR** — ver refutación §6 | PENDIENTE | Solo si alguna vez se va a afirmar |
+| 31 | Si el rodeo recibe o no aportes estatales | **NO AFIRMAR** — ver refutación §7 | PENDIENTE | Solo si alguna vez se va a afirmar |
+| 32 | **FECHA DE VOTACIÓN: lunes 3 de agosto de 2026.** Ambos videos coinciden. Confirmar tabla de la Sala, qué se vota exactamente y en qué orden van la prohibición y la regulación | TODO — reordena las prioridades | **CRÍTICO** | Tabla de la Sala en camara.cl |
+| 33 | Identidad y publicación del video 2: **Felipe Saldías**, periodista y director de *Panorama Político Chile*; grabado en el Parque Japonés de La Serena. Fecha de publicación y cuenta | refutación §3 | PENDIENTE | Guardar captura y archivo |
+| 34 | Los seis parlamentarios que el video 2 nombra como impulsores de la prohibición: Jaime Araya, Camila Musante, Clara Sagardía, Marisela Santibáñez, Félix González, Daniel Melo. **Los nombres vienen de reconocimiento automático de voz y pueden estar deformados** | refutación §3 | PENDIENTE | Contrastar con los firmantes reales del boletín en BCN antes de usarlos |
+| 35 | Que el Boletín 15388-12 y el 12.420-12 son **mociones parlamentarias** (no de origen galguero), para sostener la respuesta a la afirmación 8 | refutación §3 | PENDIENTE | Ficha de tramitación de ambos boletines |
 
 ---
 
