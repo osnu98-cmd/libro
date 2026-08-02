@@ -14,12 +14,13 @@ BLOQUES=[
             "Pon atención y ojo a este video,"),
  (g(16,19), "porque si tú no tienes un canal de televisión que te respalde días antes de la elección, "
             "entonces tienes que escuchar esto. Con gran elocuencia y teatralidad te van a contar cómo"),
- (g(20,29), "cada vez que se corre una carrera de perros, el perro que pierde o lo matan, o le quiebran "
+ (g(20,26), "cada vez que se corre una carrera de perros, el perro que pierde o lo matan, o le quiebran "
             "las patas en represalia; que cuando llegan a cierta edad son abandonados en las calles, "
             "o que los inyectan en las pistas delante de los niños con todo tipo de sustancias ilícitas "
-            "y prohibidas. Sin embargo, en varios años de tramitación, innumerable cantidad de informes "
+            "y prohibidas."),
+ (g(27,30), "Sin embargo, en varios años de tramitación, innumerable cantidad de informes "
             "de las policías, de tribunales"),
- (g(30,39), "y de los organismos competentes han demostrado que todo esto es falso, pero igualmente se "
+ (g(31,39), "y de los organismos competentes han demostrado que todo esto es falso, pero igualmente se "
             "sigue transmitiendo como si fuese un mantra religioso por todo tipo de actores, actrices, "
             "influencers y políticos firmemente comprometidos con la causa."),
  (g(40,47), "Aquí es donde cabe entonces usar un poco la lógica. Si correr es tan malo para los perros, "
@@ -36,8 +37,8 @@ BLOQUES=[
  (g(63,71), "Bueno, salvo que tengas un canal de televisión que te respalde, por supuesto. Escucha el sentir "
             "de tu gente. La gente vota con el corazón, pero también con el sentido común. Y aquí vienen "
             "dos proyectos. Uno que busca prohibir, dejando en desamparo muchos perros, y hay otro que "
-            "busca regular, que efectivamente va a cuidar a los animales."),
- (g(72,76), "La decisión es tuya, pero la razón indica que la protección es el mejor camino."),
+            "busca regular, que efectivamente va a cuidar a los animales. La decisión es tuya,"),
+ (g(72,76), "pero la razón indica que la protección es el mejor camino."),
 ]
 CLAVES=["prohibir","regulación","escucha","fuera","Congreso","sobrevivió","canal","nada",
         "reelecta","falso","mantra","caballos","fútbol","pueblo","fanáticos","desamparo","protección"]

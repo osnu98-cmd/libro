@@ -249,6 +249,50 @@ Comprobar el resultado midiendo, no de oído:
 El rango dinámico (`LRA`) debe bajar. Si pasa de 4 a 2 dB, ya no hay partes
 que se oyen más bajo que otras.
 
+### 4.7 Sincronía — el error que se nota
+
+Tres cosas desalinean los subtítulos, y hay que corregir las tres:
+
+**a) El detector de silencio llega tarde.** `silencedetect` marca el
+`silence_end` cuando el nivel cruza el umbral, y eso ocurre *después* del
+arranque real de la palabra —una consonante suave tarda en subir—.
+
+**b) Los subtítulos tienen que entrar antes, no justo.** Es práctica
+estándar: adelantar entre 150 y 200 ms. Si entran exactos, se leen como
+atrasados.
+
+Las dos se corrigen con un `ADELANTO` global de **0,20 s** restado a todos
+los tiempos.
+
+**c) Deriva dentro de los bloques.** El reparto proporcional supone
+velocidad constante, y nadie habla así. En un bloque de 23 s el desfase al
+final llega a segundo y medio.
+
+> **Ningún bloque debe pasar de 18 segundos.** Se parten en finales de
+> frase, verificando con una ventana corta de reconocimiento dónde cae
+> exactamente esa frase.
+
+**d) La animación de entrada no puede arrancar muy abajo.** Si el texto
+empieza al 90% y crece, se lee como que llegó tarde. 96% y 70 ms.
+
+### 4.8 Cómo verificar la sincronía sin ver el video
+
+Decodificar ventanas cortas de 10 s en puntos repartidos y anotar la primera
+frase de cada una: eso da anclajes fiables. Después, para cada anclaje,
+imprimir qué subtítulo está en pantalla en ese instante y comparar.
+
+```
+t       EN PANTALLA          | AUDIO
+ 40.0   su mejor             | que puso su mejor rostro     ok
+ 64.0   corre una            | una carrera de perros        ok
+ 78.0   sustancias           | sustancias ilícitas          ok
+```
+
+**Los anclajes de ventanas largas mienten.** whisper puede saltarse las
+primeras palabras de la ventana; un anclaje sacado de una ventana de 24 s
+puede estar corrido varios segundos y llevar a "corregir" lo que estaba
+bien. Solo son fiables los de ventanas cortas.
+
 ---
 
 ## 5. Transcribir para subtitular

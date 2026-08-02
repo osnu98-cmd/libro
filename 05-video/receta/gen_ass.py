@@ -1,7 +1,7 @@
 import unicodedata
 from PIL import ImageFont
 FUENTE="fuentes/Outfit-Bold.ttf"
-BASE=142; TOPE=240; MARGEN=16; ANCHO=720-2*MARGEN-6
+BASE=142; TOPE=240; MARGEN=16; ADELANTO=0.20; ANCHO=720-2*MARGEN-6
 AC=r"\c&H00C8FF&"; BL=r"\c&HFFFFFF&"
 _c={}
 def _f(s):
@@ -75,7 +75,9 @@ def construir(bloques, salida, claves=(), nombres=(), max_pal=3):
         if len(ch)==1 and ch[0]["t"]:
             fin = CH[i+1][0]["a"] if i+1<len(CH) else ch[0]["b"]+0.5
             ch[0]["b"]=min(max(ch[0]["b"], ch[0]["a"]+0.55), fin)
-    ts=lambda t: f"{int(t//3600)}:{int(t%3600//60):02d}:{t%60:05.2f}"
+    def ts(t):
+        t=max(0.0,t-ADELANTO)
+        return f"{int(t//3600)}:{int(t%3600//60):02d}:{t%60:05.2f}"
     ev=[]; info=[]; placas=[]; condensados=0
     for ch in CH:
         if len(ch)==1 and ch[0]["t"]:
@@ -86,7 +88,7 @@ def construir(bloques, salida, claves=(), nombres=(), max_pal=3):
             s,sx=caber(txt, TOPE, ANCHO, 0.62)
             info.append((txt,s,sx))
             ev.append(f"Dialogue: 0,{ts(p['a'])},{ts(p['b'])},Sub,,0,0,0,,"
-                      f"{{\\fs{s}\\fscx{int(sx*0.86)}\\fscy86\\t(0,120,\\fscx{sx}\\fscy100)\\c&H00C8FF&\\fad(70,90)}}{txt}")
+                      f"{{\\fs{s}\\fscx{int(sx*0.93)}\\fscy93\\t(0,80,\\fscx{sx}\\fscy100)\\c&H00C8FF&\\fad(45,80)}}{txt}")
             continue
         plano=" ".join(x["w"] for x in ch)
         # altura SIEMPRE 142; si no cabe a lo ancho, se condensa
@@ -97,8 +99,8 @@ def construir(bloques, salida, claves=(), nombres=(), max_pal=3):
             a,b=wd["a"],wd["b"]
             if b-a<0.06: b=a+0.06
             if i==0:
-                ini=int(sx*0.90)
-                pre=(f"{{\\fscx{ini}\\fscy90\\t(0,95,\\fscx{sx}\\fscy100)}}")
+                ini=int(sx*0.96)
+                pre=(f"{{\\fscx{ini}\\fscy96\\t(0,70,\\fscx{sx}\\fscy100)}}")
             else:
                 pre=f"{{\\fscx{sx}\\fscy100}}"
             linea=pre+"".join("{"+(AC if j==i else BL)+"}"+x["w"]+" " for j,x in enumerate(ch)).strip()
