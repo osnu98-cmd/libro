@@ -286,12 +286,13 @@
   }
   .opcion .nota { font-size: 14px; color: var(--ink-2); margin: 0; }
 
+  /* siempre visible, fuera del pliegue */
   .decidir {
-    margin-top: 20px;
-    padding-top: 18px;
+    padding: 16px 22px 20px;
     border-top: 1px solid var(--linea);
+    background: color-mix(in srgb, var(--paper) 55%, var(--paper-2));
   }
-  .botonera { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; }
+  .botonera { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 12px; }
   .voto {
     font-family: var(--mono);
     font-size: 11.5px;
@@ -358,6 +359,39 @@
   }
   #salida.visible { display: block; }
 
+  .general {
+    margin-top: 34px;
+    padding: 20px 22px 22px;
+    background: var(--paper-2);
+    border: 1px solid var(--linea);
+    border-left: 4px solid var(--acento);
+    border-radius: 3px;
+    box-shadow: var(--sombra);
+  }
+  .general h2 {
+    font-family: var(--serif);
+    font-size: 21px;
+    font-weight: 600;
+    margin: 0 0 8px;
+    letter-spacing: -.01em;
+  }
+  .general p { margin: 0 0 12px; max-width: 68ch; color: var(--ink-2); font-size: 15px; }
+  .general textarea { min-height: 110px; }
+
+  .marca-nota {
+    font-family: var(--mono);
+    font-size: 10.5px;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    color: var(--acento);
+    border: 1px solid color-mix(in srgb, var(--acento) 34%, transparent);
+    background: var(--acento-soft);
+    padding: 3px 8px;
+    border-radius: 2px;
+    display: none;
+  }
+  .marca-nota.visible { display: inline-block; }
+
   .aviso {
     background: var(--marca-soft);
     border: 1px solid color-mix(in srgb, var(--marca) 30%, transparent);
@@ -392,11 +426,18 @@
 
   <div class="estado">
     <div class="barra"><span id="progreso"></span></div>
-    <div class="cuenta"><b id="hechas">0</b> de <b>12</b> decididos</div>
+    <div class="cuenta"><b id="hechas">0</b> de <b>12</b> decididos · <b id="conNota">0</b> con comentario</div>
+    <button id="btn-todo" type="button">Abrir todos</button>
     <button class="btn-exportar" id="btn-exportar">Exportar decisiones</button>
   </div>
 
   <div id="fichas"></div>
+
+  <section class="general">
+    <h2>Lo que no está en ninguno de los doce</h2>
+    <p>Si hay algo que quieres discutir y no cabe en ningún punto —una idea nueva, un dato que apareció, algo del texto que no me convence— escríbelo acá. Se exporta junto con lo demás.</p>
+    <textarea id="nota-general" placeholder="Lo que quieras agregar…"></textarea>
+  </section>
 
   <textarea id="salida" readonly aria-label="Decisiones exportadas"></textarea>
 
@@ -603,6 +644,7 @@
           '<div class="meta">' +
             '<span class="chip chip-grav"' + gravChip + ">" + esc(p.gravedad) + "</span>" +
             '<span class="chip chip-est" data-e="' + (st.voto ? "decidido" : "abierto") + '">' + (st.voto ? "decidido" : "sin decidir") + "</span>" +
+            '<span class="marca-nota' + (st.nota && st.nota.trim() ? " visible" : "") + '">con comentario</span>' +
           "</div>" +
         "</div>" +
         '<span class="flecha" aria-hidden="true">▸</span>' +
@@ -614,11 +656,11 @@
         "<p>" + esc(p.miPostura) + "</p>" +
         '<div class="rotulo">Las formulaciones que compiten</div>' +
         '<div class="opciones' + (p.opciones.length === 2 ? " par" : "") + '">' + opcionesHTML + "</div>" +
-        '<div class="decidir">' +
-          '<div class="rotulo" style="margin-top:0">Tu decisión</div>' +
-          '<div class="botonera">' + votosHTML + "</div>" +
-          '<textarea placeholder="Al margen: por qué, o la formulación que prefieres…">' + esc(st.nota || "") + "</textarea>" +
-        "</div>" +
+      "</div>" +
+      '<div class="decidir">' +
+        '<div class="rotulo" style="margin-top:0">Tu decisión y tu comentario</div>' +
+        '<div class="botonera">' + votosHTML + "</div>" +
+        '<textarea placeholder="Escribe acá lo que quieras sobre este punto: por qué, la formulación que prefieres, el dato que tienes, o lo que quieras discutir conmigo…">' + esc(st.nota || "") + "</textarea>" +
       "</div>";
 
     var head = art.querySelector("header");
@@ -649,18 +691,39 @@
       });
     });
 
-    art.querySelector("textarea").addEventListener("input", function (e) {
+    art.querySelector(".decidir textarea").addEventListener("input", function (e) {
       if (!estado[p.id]) estado[p.id] = {};
       estado[p.id].nota = e.target.value;
-      guardar();
+      art.querySelector(".marca-nota").classList.toggle("visible", !!e.target.value.trim());
+      guardar(); refrescar();
     });
 
     cont.appendChild(art);
   });
 
+  var general = document.getElementById("nota-general");
+  general.value = estado.__general || "";
+  general.addEventListener("input", function (e) {
+    estado.__general = e.target.value;
+    guardar();
+  });
+
+  var btnTodo = document.getElementById("btn-todo");
+  btnTodo.addEventListener("click", function () {
+    var abrir = btnTodo.dataset.modo !== "abierto";
+    document.querySelectorAll(".ficha").forEach(function (f) {
+      f.dataset.abierta = abrir ? "si" : "no";
+      f.querySelector("header").setAttribute("aria-expanded", abrir ? "true" : "false");
+    });
+    btnTodo.dataset.modo = abrir ? "abierto" : "cerrado";
+    btnTodo.textContent = abrir ? "Cerrar todos" : "Abrir todos";
+  });
+
   function refrescar() {
     var n = PUNTOS.filter(function (p) { return estado[p.id] && estado[p.id].voto; }).length;
+    var c = PUNTOS.filter(function (p) { return estado[p.id] && estado[p.id].nota && estado[p.id].nota.trim(); }).length;
     document.getElementById("hechas").textContent = n;
+    document.getElementById("conNota").textContent = c;
     document.getElementById("progreso").style.width = (n / PUNTOS.length * 100) + "%";
   }
   refrescar();
@@ -674,6 +737,12 @@
       if (st.nota && st.nota.trim()) out.push("   Nota: " + st.nota.trim());
       out.push("");
     });
+    if (estado.__general && estado.__general.trim()) {
+      out.push("OTROS COMENTARIOS");
+      out.push("-----------------");
+      out.push(estado.__general.trim());
+      out.push("");
+    }
     var pend = PUNTOS.filter(function (p) {
       return p.gravedad === "bloqueante" && !(estado[p.id] && estado[p.id].voto);
     });
