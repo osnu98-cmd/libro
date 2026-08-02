@@ -293,6 +293,34 @@ primeras palabras de la ventana; un anclaje sacado de una ventana de 24 s
 puede estar corrido varios segundos y llevar a "corregir" lo que estaba
 bien. Solo son fiables los de ventanas cortas.
 
+### 4.9 Cartel de cierre
+
+**Nunca se superpone con el subtítulo.** Hay que dejar medio segundo largo de
+cara limpia en silencio después de la última palabra, y recién ahí abrir la
+disolvencia. Se consigue alargando el video con
+`tpad=stop_mode=clone:stop_duration=1.1` después de quemar los subtítulos, y
+poniendo el `offset` del `xfade` más allá del final del último subtítulo.
+
+Con un plano fijo, ese congelado es indistinguible de video real y además da
+el respiro que un cierre necesita.
+
+**Ojo con el audio:** al pegar el silencio del cartel, la pista pasa a salir
+del grafo complejo, y entonces **`-af` deja de funcionar**
+(*«Simple and complex filtering cannot be used together for the same
+stream»*). Toda la cadena de voz tiene que moverse dentro del
+`filter_complex`.
+
+### 4.10 El primer cuadro es la portada
+
+TikTok e Instagram usan el primer cuadro como miniatura y para la vista
+previa que se autorreproduce. Hay que mirarlo: si el autor parpadeó al
+arrancar, sale con los ojos cerrados.
+
+Se corrige **sustituyendo los primeros cuadros por uno posterior con los ojos
+abiertos**, con `overlay` y `enable='lt(t,N)'`. El empalme cae exactamente en
+el cuadro que se usó, así que no hay salto. No hace falta recortar ni mover
+nada, así que los subtítulos no se tocan.
+
 ---
 
 ## 5. Transcribir para subtitular

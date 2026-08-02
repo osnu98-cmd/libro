@@ -1,18 +1,25 @@
 import json
-SEG=json.load(open("segmentos_full.json"))
+SEG=json.load(open("segmentos_v4.json"))
 def g(i,j): return [tuple(SEG[k]) for k in range(i,j+1)]
 BLOQUES=[
- (g(0,4),   "Hola, mi nombre es Oscar Núñez y soy el presidente de la Fundación Soy del Campo. "
-            "Este lunes 3, por tercera o cuarta vez ya, se va a volver a votar un proyecto que busca "
-            "prohibir las carreras de galgos, junto con él un proyecto que busca su regulación. "
-            "Si eres un diputado nuevo o tienes alguna duda de cómo votar este proyecto,"),
- (g(5,12),  "escucha lo que te voy a decir. En primer lugar, los autores de este proyecto: "
-            "Félix González, Melo, Sagardía, Camila Musante, Yovana Ahumada, están todos fuera del Congreso. "
-            "Una de las diputadas que sobrevivió fue ayudada con un tremendo espaldarazo"),
- (g(13,15), "por un conocido canal que puso su mejor rostro en una investigación sobre las carreras de galgos, "
+ (g(0,0),  "Hola, mi nombre es Oscar Núñez y soy el presidente de la Fundación Soy del Campo."),
+ (g(1,1),  "Este lunes 3,"),
+ (g(2,2),  "por tercera o cuarta vez ya se va a volver a votar un proyecto que busca prohibir "
+           "las carreras de galgos,"),
+ (g(3,3),  "junto con él un proyecto que busca su regulación. Si eres un diputado nuevo o"),
+ (g(4,4),  "tienes alguna duda de cómo votar este proyecto,"),
+ (g(5,5),  "escucha lo que te voy a decir."),
+ (g(6,6),  "En primer lugar,"),
+ (g(7,7),  "los autores de este proyecto:"),
+ (g(8,8),  "Félix González, Melo, Sagardía,"),
+ (g(9,9),  "Camila Musante, Yovana Ahumada,"),
+ (g(10,10),"están todos fuera del Congreso."),
+ (g(11,11),"Una de las diputadas que sobrevivió"),
+ (g(12,12),"fue ayudada con un tremendo espaldarazo"),
+ (g(13,16), "por un conocido canal que puso su mejor rostro en una investigación sobre las carreras de galgos, "
             "que por supuesto, una vez más, no concluyó nada, pero le sirvió para salir reelecta. "
             "Pon atención y ojo a este video,"),
- (g(16,19), "porque si tú no tienes un canal de televisión que te respalde días antes de la elección, "
+ (g(17,19), "porque si tú no tienes un canal de televisión que te respalde días antes de la elección, "
             "entonces tienes que escuchar esto. Con gran elocuencia y teatralidad te van a contar cómo"),
  (g(20,26), "cada vez que se corre una carrera de perros, el perro que pierde o lo matan, o le quiebran "
             "las patas en represalia; que cuando llegan a cierta edad son abandonados en las calles, "

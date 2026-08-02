@@ -34,15 +34,50 @@ que no se parece a lo que refuta.
 
 ## 2 · Versión para redes — TikTok, Reels
 
-**`GALGOS-REDES-vertical` · 3 min 14 s · 720 × 1280**
+**`GALGOS-REDES-FINAL` · 3 min 05 s · 720 × 1280**
 
 - Vertical a sangre, sin barras ni fondo desenfocado.
+- Primer cuadro corregido: los ocho primeros se sustituyen por el cuadro 8,
+  porque en los dos primeros el autor tiene los ojos cerrados. Importa porque
+  las plataformas usan el primer cuadro como miniatura y como vista previa.
 - Subtítulo de cuerpo 142, altura constante, palabra activa en ámbar.
 - Diecisiete palabras clave solas y gigantes, hasta 240 pt.
 - Cinco apellidos en placa blanca.
 - Logo de la Fundación arriba a la derecha, todo el video.
 - Audio tratado para parlante de teléfono: −15,6 LUFS, pico −2,3 dBTP,
   rango dinámico bajado de 3,9 a 2,6 dB.
+
+### Cartel de cierre
+
+Después de la última palabra hay **seis décimas de cara limpia en silencio**,
+y recién ahí entra la disolvencia al cartel. Nunca se superponen con el
+subtítulo.
+
+> **PROHIBICIÓN**
+> debe ser rechazada.
+>
+> **REGULACIÓN**
+> para proteger a los perritos.
+
+Las dos palabras grandes van en ámbar, a 150 pt, **condensadas al 70% y
+exactamente del mismo tamaño** — si una fuera mayor, el ojo leería que pesa
+más, y aquí las dos tienen que pesar igual.
+
+**Por qué los sustantivos y no los verbos:** son los nombres de los dos
+proyectos que el diputado va a ver en la tabla ese día. La palabra que se le
+queda grabada es la misma que va a leer al votar.
+
+**Por qué en ese orden:** lo último que se ve es lo que queda. Terminando en
+regulación, se va con la protección y no con el rechazo. Además «desamparo» y
+«proteger» son antónimos exactos: puestos así, las dos frases quedan sobre el
+mismo eje y en polos opuestos.
+
+**Nota de redacción.** La versión anterior unía las dos frases con una «Y»
+—«…de los perritos. Y rechaza…»—. Son dos órdenes independientes y van
+separadas por punto. El mismo error reapareció por composición: «y su
+desamparo» arrancaba línea y parecía el conector. Se resolvió bajando el
+cuerpo hasta que cada frase entra completa sin que ninguna línea empiece por
+conjunción.
 
 ### Las palabras clave, en orden
 
