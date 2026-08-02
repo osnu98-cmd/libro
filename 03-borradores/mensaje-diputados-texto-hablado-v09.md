@@ -52,13 +52,61 @@ El silencio hace ese trabajo mejor que cualquier frase.
 **Sin porcentaje**, porque si dices noventa por ciento alguien cuenta. Con
 los nombres el dato es más fuerte, y ya no es tuyo: es de ellos.
 
-> **Esto es ahora lo más comprobable y lo más caro de todo el video.**
-> Un asesor lo chequea en cinco minutos. Antes de decirlo hay que tener los
-> nombres bien escritos —los que tengo salen de reconocimiento automático de
-> voz y pueden estar deformados— y el resultado electoral de cada uno.
-> **Si uno solo sigue en ejercicio, el tramo entero sale.**
-> `[REQUIERE VERIFICACIÓN DE FUENTE: los nombres del video, uno por uno,
-> contra la composición actual de la Cámara y los resultados del Servel]`
+### Los nombres, tal como los diste
+
+Van los cinco en el texto: **Camila Musante, Félix González, Clara Sagardía,
+Daniel Melo, Yovana Ahumada**, y cierra con tu pregunta. Es tu decisión y
+está tomada. Pero te debo tres advertencias, y la primera no es de estilo.
+
+**Primera, y es factual: cambié «perdieron la confianza de sus electores»
+por «búsquelos en la Cámara: no están».**
+
+No es lo mismo, y la diferencia te protege. No ser reelecto y perder la
+confianza del electorado son cosas distintas: en Chile un parlamentario
+puede no estar por no haber repostulado, por haber ido al Senado o a otro
+cargo, porque el partido no lo llevó, o por aritmética de pacto y de lista.
+Si dices «perdieron la confianza» y **uno solo** de los cinco no estaba en
+la papeleta, esa frase se cae, y se lleva la lista completa y el resto del
+video.
+
+«No están» es verificable y no admite réplica. Y la conclusión que tú
+quieres que el diputado saque, la saca solo. Igual que acordamos con el
+dato de las condenas: el hecho desnudo pega más que el hecho con glosa.
+
+**Segunda: la verificación de estos cinco nombres es ahora el punto más
+crítico de toda la pieza.** No es una advertencia de rutina.
+
+- Los nombres salieron de un reconocimiento automático de voz sobre el video
+  y **pueden estar mal escritos**. «Sagardía» y «Yovana Ahumada» hay que
+  confirmarlos letra por letra.
+- Hay que verificar uno por uno, contra la composición actual de la Cámara,
+  que efectivamente **ninguno** esté en ejercicio.
+- Y hay que verificar que cada uno **efectivamente esté detrás de este
+  proyecto**: firma del boletín, indicación, o intervención en acta. No basta
+  con que el video los nombre.
+- **Si uno solo falla en cualquiera de las tres, salen los cinco.** No se
+  arregla sacando ese nombre: si te equivocaste en uno, nadie te va a creer
+  los otros cuatro.
+
+`[REQUIERE VERIFICACIÓN DE FUENTE: los cinco nombres, ortografía, condición
+actual de parlamentario, y vínculo documentado con el proyecto]`
+
+**Tercera, y esta es opinión mía, con la que puedes no estar de acuerdo.**
+
+Nombrar a cinco parlamentarios en un mensaje dirigido a otros
+parlamentarios tiene un costo que no tiene nombrar a cero. Alguno de esos
+cinco puede ser del partido o del pacto del que recibe el video. Y el que
+escucha no se pregunta solo si tienes razón: se pregunta también si mañana
+su nombre va a estar en la lista de otro video.
+
+Con la lista, dejas de ser el que trae papeles y pasas a ser el que lleva
+cuentas. No te digo que no lo hagas —es tu pelea y llevas siete años en
+ella—, te digo lo que cuesta, para que lo pagues sabiendo.
+
+**Si quisieras el mismo golpe sin ese costo**, la versión sin nombres dice
+casi lo mismo: *«en el video le van a leer una lista de nombres. Anótelos y
+búsquelos en la Cámara. No están.»* El diputado va y los busca, y los
+nombres se los pone él. Ahí el que acusa no eres tú: es el registro.
 
 ---
 
@@ -286,12 +334,17 @@ en la calle en Chile.
 De ese problema no se habla el lunes. El lunes se habla de los que están
 inscritos, con chip, con veterinario y con dueño conocido.
 
-Y en el video que anda dando vueltas estos días le van a leer una lista de
-nombres, para decirle que este proyecto tiene apoyo transversal.
+Y le voy a dar unos nombres, porque en el video que anda dando vueltas se los
+dan a usted para convencerlo de que esto tiene apoyo transversal.
 
-Anote esos nombres. Y después búsquelos en la Cámara.
+Camila Musante. Félix González. Clara Sagardía. Daniel Melo. Yovana Ahumada.
 
-No están. No fueron reelectos.
+Son solo algunos de los que están detrás de esto que a usted le van a pedir
+que firme el lunes.
+
+Búsquelos en la Cámara. No están.
+
+Diputada, diputado: ¿va a tomar usted esta trampa envenenada?
 
 ## VI. Y entonces cambió la acusación
 
@@ -472,6 +525,10 @@ de regular es votar por veterinario en cada competencia, por control de
 dopaje, por pistas seguras para los animales y para el público, y por
 crianza responsable. Nada de eso es obligatorio hoy.
 
+En el video le van a leer una lista de nombres para convencerlo de que esto
+tiene apoyo transversal. Anótelos y búsquelos en la Cámara. No están.
+Diputado: ¿va a tomar usted esta trampa envenenada?
+
 ¿Y qué pasa con el galgo cuando ya no corre? Se queda en la casa, con su
 familia, como cualquier mascota. Y le hago yo la pregunta que no le va a
 hacer nadie: con la situación económica, ¿dónde van a parar los perros de
@@ -500,8 +557,9 @@ Los papeles se los mando hoy. Muchas gracias, y suerte el lunes.
    dato más comprobable del video.
 4. Que «seguridad del público» y «crianza responsable» estén literalmente en
    el boletín que regula.
-5. **Los nombres del video, uno por uno**, contra la composición actual de
-   la Cámara. Si uno solo sigue en ejercicio, ese tramo sale.
+5. **Los cinco nombres** —Musante, González, Sagardía, Melo, Ahumada—:
+   ortografía, que ninguno esté hoy en ejercicio, y que cada uno esté
+   documentadamente detrás del proyecto. **Si uno falla, salen los cinco.**
 
 **Fuera del video, decidido:** España y Portugal, el porcentaje de no
 reelectos, que el reportaje salvó una reelección, la pregunta sobre el canal
