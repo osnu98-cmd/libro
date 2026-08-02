@@ -321,6 +321,36 @@ abiertos**, con `overlay` y `enable='lt(t,N)'`. El empalme cae exactamente en
 el cuadro que se usó, así que no hay salto. No hace falta recortar ni mover
 nada, así que los subtítulos no se tocan.
 
+### 4.11 Los límites de bloque son el error más caro
+
+Toda la sincronía depende de que el texto asignado a un bloque sea
+**exactamente** el que se dice dentro de su ventana de tiempo. Un límite mal
+puesto no produce un desfase pequeño: produce un salto.
+
+Caso real: el bloque de la lógica terminaba en el segundo 117,4, pero en el
+117,5 el autor todavía decía «y el fútbol representan gente de poder». El
+bloque siguiente arrancaba entonces **dos segundos antes** que su audio, y
+el texto se despegaba por completo.
+
+**Cómo se detecta:** decodificar una ventana corta que cruce el límite —seis
+segundos, tres a cada lado— y ver qué frase suena ahí. Si la frase que se oye
+pertenece al bloque anterior, el límite está adelantado.
+
+**Regla práctica:** un bloque no puede mezclar un pasaje enfático con uno
+rápido. «Los perros, en cambio, pertenecen al pueblo» va a 1,7 palabras por
+segundo; el pasaje que sigue va a 3,6. Promediados, el texto corre. Se parten
+en dos.
+
+### 4.12 Qué puntuación se le quita a las palabras clave
+
+Al aislar una palabra clave se le quita el punto y la coma, que solo comen
+ancho y obligan a achicar la palabra.
+
+**Pero el signo de interrogación y el de exclamación se conservan.** Si la
+pregunta termina en palabra clave —«¿por qué nadie dice nada de las carreras
+de **caballos?**»—, quitarle el signo la convierte en afirmación. Se pierde
+la pregunta entera.
+
 ---
 
 ## 5. Transcribir para subtitular

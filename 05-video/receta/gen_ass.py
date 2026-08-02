@@ -18,7 +18,7 @@ def caber(t, tope, ancho_max, piso_sx):
 def norm(w):
     w="".join(c for c in unicodedata.normalize("NFD",w.lower()) if unicodedata.category(c)!="Mn")
     return "".join(c for c in w if c.isalnum())
-LIMPIA=".,;:¿?¡!—–-«»\"'"
+LIMPIA=".,;:¿¡—–-«»\"'"   # el ? y el ! se conservan: son parte del sentido
 
 CAB=f"""[Script Info]
 ScriptType: v4.00+

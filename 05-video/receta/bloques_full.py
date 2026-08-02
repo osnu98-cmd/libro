@@ -26,15 +26,16 @@ BLOQUES=[
             "o que los inyectan en las pistas delante de los niños con todo tipo de sustancias ilícitas "
             "y prohibidas."),
  (g(27,30), "Sin embargo, en varios años de tramitación, innumerable cantidad de informes "
-            "de las policías, de tribunales"),
- (g(31,39), "y de los organismos competentes han demostrado que todo esto es falso, pero igualmente se "
+            "de las policías, de tribunales y de los organismos competentes han demostrado"),
+ (g(31,39), "que todo esto es falso, pero igualmente se "
             "sigue transmitiendo como si fuese un mantra religioso por todo tipo de actores, actrices, "
-            "influencers y políticos firmemente comprometidos con la causa."),
- (g(40,47), "Aquí es donde cabe entonces usar un poco la lógica. Si correr es tan malo para los perros, "
+            "influencers y políticos firmemente comprometidos con la causa. Aquí es donde cabe entonces"),
+ (g(40,48), "usar un poco la lógica. Si correr es tan malo para los perros, "
             "¿por qué nadie dice nada de las carreras de caballos? Si las supuestas apuestas contra las "
             "que van a hablar también mañana son tan malas, ¿por qué no dice nadie nada respecto al fútbol? "
             "La respuesta es muy sencilla. Los caballos y el fútbol representan gente de poder."),
- (g(48,56), "Los perros, en cambio, pertenecen al pueblo. Y esta razón queda más que clara con el argumento "
+ (g(49,50), "Los perros, en cambio, pertenecen al pueblo."),
+ (g(51,56), "Y esta razón queda más que clara con el argumento "
             "que ahora van a dar para prohibir la regulación: es que si se regula, entonces el Estado va a "
             "tener que poner fondos para esta actividad."),
  (g(57,62), "Qué terrible, ¿no? Ahora queremos cuidarle los fondos al Estado. O sea, está muy bien que los "
