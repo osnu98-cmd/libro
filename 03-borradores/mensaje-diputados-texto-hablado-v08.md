@@ -40,9 +40,15 @@ se corrigieron seis cosas que la propia revisión introdujo.
    que no se vuelve: si lo revela el adversario, todo lo anterior se relee
    como ocultamiento. **Ahora va en los primeros treinta segundos.**
 
-Y el cambio que más rinde: **«no hay condena» dejaba de ser una afirmación
-empírica frágil y pasa a ser carga de la prueba.** El que quiere prohibir
-una actividad entera es el que tiene que traer el caso. Eso es inatacable.
+**Corrección posterior al examen, a instancia tuya.** El examen había
+suavizado de más las cero condenas en diecisiete años, imponiendo el
+resguardo de que la ausencia de condena no prueba la ausencia del hecho.
+Tenías razón: ese resguardo solo vale cuando no cabía esperar encontrar
+nada. Aquí sí cabía —hubo ley vigente, tribunales, miles de denuncias por
+maltrato en el país, denunciantes motivados, y gente que fue a mirar a
+propósito—. Cuando se buscó y no apareció nada, el silencio significa algo.
+El texto ahora cobra ese silencio, y solo evita el absoluto «aquí nunca ha
+pasado nada», que no lo puede sostener nadie.
 
 ---
 
@@ -101,9 +107,15 @@ buscado.
 
 Ni una.
 
-Y le digo altiro lo que eso prueba y lo que no. No prueba que nunca haya
-pasado nada. Prueba que **el que quiere prohibir una actividad entera es el
-que tiene que traer el caso.** No al revés.
+Y no me diga que eso no prueba nada. Hubo ley. Hubo tribunales. Hubo gente
+buscando, y buscando con ganas. Diecisiete años. **Cuando se busca así de
+fuerte y no aparece ni un caso, eso ya no es falta de pruebas: eso es una
+respuesta.**
+
+Yo no le voy a decir que aquí nunca ha pasado nada, porque eso no lo puede
+decir nadie. Le digo otra cosa: **el que quiere prohibir una actividad
+entera es el que tiene que traer el caso.** Y en diecisiete años nadie lo
+trajo.
 
 ## IV. Y entonces cambió la acusación
 
@@ -265,9 +277,10 @@ La ley que castiga el maltrato animal lleva años aplicándose y ha condenado
 a mucha gente. No es una ley de papel. Y yo no he encontrado una sola
 condena contra un galguero. Y la he buscado.
 
-Eso no prueba que nunca haya pasado nada. Prueba otra cosa: **que el que
-quiere prohibir una actividad entera es el que tiene que traer el caso. No
-al revés.**
+Y no me diga que eso no prueba nada. Hubo ley, hubo tribunales y hubo gente
+buscando con ganas. **Cuando se busca así de fuerte y no aparece ni un caso,
+eso ya no es falta de pruebas: eso es una respuesta.** Y el que quiere
+prohibir una actividad entera es el que tiene que traer el caso.
 
 Y si me dice: bueno, ¿y qué pierdo con prohibir igual, por si acaso? Mire al
 lado. Argentina prohibió el año 2016. Nueve años después, la policía tuvo

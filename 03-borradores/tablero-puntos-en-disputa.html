@@ -1,0 +1,695 @@
+<title>Puntos en disputa — mensaje a los diputados</title>
+
+<style>
+  :root {
+    --ink:        #16202b;
+    --ink-2:      #33414f;
+    --ink-3:      #63717f;
+    --paper:      #f4f5f2;
+    --paper-2:    #eaece6;
+    --paper-3:    #dfe2da;
+    --marca:      #8c2f2a;
+    --marca-soft: #f0e0de;
+    --campo:      #5f6b4a;
+    --campo-soft: #e5e9dc;
+    --acento:     #1f4e5f;
+    --acento-soft:#dde8ea;
+    --linea:      rgba(22,32,43,.14);
+    --linea-2:    rgba(22,32,43,.07);
+    --sombra:     0 1px 2px rgba(22,32,43,.06), 0 8px 24px -12px rgba(22,32,43,.18);
+
+    --serif: ui-serif, "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, serif;
+    --sans: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", sans-serif;
+    --mono: ui-monospace, "SF Mono", SFMono-Regular, Menlo, Consolas, monospace;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --ink:        #e6e8e2;
+      --ink-2:      #b3b9b0;
+      --ink-3:      #838a80;
+      --paper:      #12181e;
+      --paper-2:    #1a222a;
+      --paper-3:    #232d36;
+      --marca:      #d98b83;
+      --marca-soft: #33211f;
+      --campo:      #a8b58c;
+      --campo-soft: #232a1c;
+      --acento:     #7cb3c2;
+      --acento-soft:#16292f;
+      --linea:      rgba(230,232,226,.16);
+      --linea-2:    rgba(230,232,226,.08);
+      --sombra:     0 1px 2px rgba(0,0,0,.4), 0 8px 24px -12px rgba(0,0,0,.6);
+    }
+  }
+  :root[data-theme="dark"] {
+    --ink:#e6e8e2; --ink-2:#b3b9b0; --ink-3:#838a80;
+    --paper:#12181e; --paper-2:#1a222a; --paper-3:#232d36;
+    --marca:#d98b83; --marca-soft:#33211f;
+    --campo:#a8b58c; --campo-soft:#232a1c;
+    --acento:#7cb3c2; --acento-soft:#16292f;
+    --linea:rgba(230,232,226,.16); --linea-2:rgba(230,232,226,.08);
+    --sombra:0 1px 2px rgba(0,0,0,.4), 0 8px 24px -12px rgba(0,0,0,.6);
+  }
+  :root[data-theme="light"] {
+    --ink:#16202b; --ink-2:#33414f; --ink-3:#63717f;
+    --paper:#f4f5f2; --paper-2:#eaece6; --paper-3:#dfe2da;
+    --marca:#8c2f2a; --marca-soft:#f0e0de;
+    --campo:#5f6b4a; --campo-soft:#e5e9dc;
+    --acento:#1f4e5f; --acento-soft:#dde8ea;
+    --linea:rgba(22,32,43,.14); --linea-2:rgba(22,32,43,.07);
+    --sombra:0 1px 2px rgba(22,32,43,.06), 0 8px 24px -12px rgba(22,32,43,.18);
+  }
+
+  * { box-sizing: border-box; }
+
+  body {
+    margin: 0;
+    background: var(--paper);
+    color: var(--ink);
+    font-family: var(--sans);
+    font-size: 16px;
+    line-height: 1.6;
+    -webkit-font-smoothing: antialiased;
+  }
+
+  .wrap { max-width: 1180px; margin: 0 auto; padding: 0 20px 96px; }
+
+  /* ---------- cabecera ---------- */
+  .cab {
+    border-bottom: 2px solid var(--ink);
+    padding: 40px 0 22px;
+    margin-bottom: 30px;
+  }
+  .cab .oficio {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: .14em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px 20px;
+    margin-bottom: 16px;
+  }
+  .cab h1 {
+    font-family: var(--serif);
+    font-weight: 600;
+    font-size: clamp(30px, 5vw, 46px);
+    line-height: 1.08;
+    letter-spacing: -.015em;
+    margin: 0 0 10px;
+    text-wrap: balance;
+  }
+  .cab .bajada {
+    margin: 0;
+    max-width: 62ch;
+    color: var(--ink-2);
+    font-size: 17px;
+  }
+
+  /* ---------- barra de estado ---------- */
+  .estado {
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    background: color-mix(in srgb, var(--paper) 92%, transparent);
+    backdrop-filter: blur(8px);
+    border-bottom: 1px solid var(--linea);
+    margin: 0 -20px 34px;
+    padding: 12px 20px;
+    display: flex;
+    align-items: center;
+    gap: 18px;
+    flex-wrap: wrap;
+  }
+  .barra {
+    flex: 1 1 220px;
+    height: 7px;
+    min-width: 160px;
+    background: var(--paper-3);
+    border-radius: 999px;
+    overflow: hidden;
+  }
+  .barra span {
+    display: block;
+    height: 100%;
+    width: 0%;
+    background: var(--campo);
+    transition: width .35s cubic-bezier(.4,0,.2,1);
+  }
+  .cuenta {
+    font-family: var(--mono);
+    font-size: 12px;
+    letter-spacing: .06em;
+    color: var(--ink-2);
+    font-variant-numeric: tabular-nums;
+    white-space: nowrap;
+  }
+  .cuenta b { color: var(--ink); font-weight: 700; }
+
+  button {
+    font: inherit;
+    cursor: pointer;
+    border: 1px solid var(--linea);
+    background: var(--paper-2);
+    color: var(--ink);
+    border-radius: 3px;
+    padding: 7px 14px;
+    transition: background .15s, border-color .15s, color .15s;
+  }
+  button:hover { border-color: var(--ink-3); }
+  button:focus-visible { outline: 2px solid var(--acento); outline-offset: 2px; }
+
+  .btn-exportar {
+    background: var(--ink);
+    color: var(--paper);
+    border-color: var(--ink);
+    font-family: var(--mono);
+    font-size: 12px;
+    letter-spacing: .08em;
+    text-transform: uppercase;
+    padding: 8px 16px;
+  }
+  .btn-exportar:hover { background: var(--acento); border-color: var(--acento); }
+
+  /* ---------- ficha ---------- */
+  .ficha {
+    background: var(--paper-2);
+    border: 1px solid var(--linea);
+    border-left: 4px solid var(--marca);
+    border-radius: 3px;
+    box-shadow: var(--sombra);
+    margin-bottom: 22px;
+    overflow: hidden;
+    transition: border-left-color .2s;
+  }
+  .ficha[data-resuelta="si"] { border-left-color: var(--campo); }
+
+  .ficha > header {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+    padding: 20px 22px 14px;
+    cursor: pointer;
+  }
+  .ficha > header:hover .titulo { color: var(--acento); }
+
+  .num {
+    font-family: var(--mono);
+    font-size: 12px;
+    font-weight: 700;
+    color: var(--ink-3);
+    padding-top: 5px;
+    font-variant-numeric: tabular-nums;
+    flex: 0 0 auto;
+  }
+  .cabecera-txt { flex: 1 1 auto; min-width: 0; }
+  .titulo {
+    font-family: var(--serif);
+    font-size: 21px;
+    font-weight: 600;
+    line-height: 1.25;
+    margin: 0 0 6px;
+    letter-spacing: -.01em;
+    transition: color .15s;
+    text-wrap: balance;
+  }
+  .meta {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .chip {
+    font-family: var(--mono);
+    font-size: 10.5px;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    padding: 3px 8px;
+    border-radius: 2px;
+    border: 1px solid transparent;
+    white-space: nowrap;
+  }
+  .chip-grav { background: var(--marca-soft); color: var(--marca); border-color: color-mix(in srgb, var(--marca) 32%, transparent); }
+  .chip-grav[data-g="media"] { background: var(--acento-soft); color: var(--acento); border-color: color-mix(in srgb, var(--acento) 30%, transparent); }
+  .chip-est { background: transparent; color: var(--ink-3); border-color: var(--linea); }
+  .chip-est[data-e="decidido"] { background: var(--campo-soft); color: var(--campo); border-color: color-mix(in srgb, var(--campo) 34%, transparent); }
+
+  .flecha {
+    flex: 0 0 auto;
+    color: var(--ink-3);
+    font-size: 13px;
+    padding-top: 7px;
+    transition: transform .2s;
+  }
+  .ficha[data-abierta="si"] .flecha { transform: rotate(90deg); }
+
+  .cuerpo { display: none; padding: 0 22px 22px; }
+  .ficha[data-abierta="si"] .cuerpo { display: block; }
+
+  .rotulo {
+    font-family: var(--mono);
+    font-size: 10.5px;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+    margin: 20px 0 7px;
+    padding-bottom: 5px;
+    border-bottom: 1px solid var(--linea-2);
+  }
+  .cuerpo p { margin: 0 0 10px; max-width: 72ch; }
+  .cuerpo p:last-child { margin-bottom: 0; }
+
+  .opciones { display: grid; gap: 12px; margin-top: 4px; }
+  @media (min-width: 760px) { .opciones.par { grid-template-columns: 1fr 1fr; } }
+
+  .opcion {
+    border: 1px solid var(--linea);
+    border-radius: 3px;
+    padding: 14px 16px;
+    background: var(--paper);
+  }
+  .opcion h4 {
+    font-family: var(--mono);
+    font-size: 10.5px;
+    letter-spacing: .1em;
+    text-transform: uppercase;
+    margin: 0 0 8px;
+    color: var(--ink-3);
+  }
+  .opcion .frase {
+    font-family: var(--serif);
+    font-size: 17px;
+    line-height: 1.45;
+    margin: 0 0 8px;
+  }
+  .opcion .nota { font-size: 14px; color: var(--ink-2); margin: 0; }
+
+  .decidir {
+    margin-top: 20px;
+    padding-top: 18px;
+    border-top: 1px solid var(--linea);
+  }
+  .botonera { display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 14px; }
+  .voto {
+    font-family: var(--mono);
+    font-size: 11.5px;
+    letter-spacing: .07em;
+    text-transform: uppercase;
+    padding: 8px 14px;
+    background: var(--paper);
+  }
+  .voto[aria-pressed="true"] {
+    background: var(--ink);
+    color: var(--paper);
+    border-color: var(--ink);
+  }
+
+  textarea {
+    width: 100%;
+    min-height: 76px;
+    resize: vertical;
+    font: inherit;
+    font-size: 15px;
+    padding: 11px 13px;
+    background: var(--paper);
+    color: var(--ink);
+    border: 1px solid var(--linea);
+    border-radius: 3px;
+  }
+  textarea:focus-visible { outline: 2px solid var(--acento); outline-offset: 1px; border-color: var(--acento); }
+  textarea::placeholder { color: var(--ink-3); }
+
+  .cita {
+    border-left: 2px solid var(--linea);
+    padding-left: 14px;
+    margin: 0 0 10px;
+    color: var(--ink-2);
+    font-style: italic;
+    max-width: 68ch;
+  }
+
+  /* ---------- pie ---------- */
+  .pie {
+    margin-top: 44px;
+    padding-top: 22px;
+    border-top: 2px solid var(--ink);
+    font-size: 14px;
+    color: var(--ink-2);
+  }
+  .pie h3 {
+    font-family: var(--mono);
+    font-size: 11px;
+    letter-spacing: .12em;
+    text-transform: uppercase;
+    color: var(--ink-3);
+    margin: 0 0 10px;
+  }
+
+  #salida {
+    display: none;
+    margin-top: 16px;
+    width: 100%;
+    min-height: 220px;
+    font-family: var(--mono);
+    font-size: 12.5px;
+    line-height: 1.55;
+  }
+  #salida.visible { display: block; }
+
+  .aviso {
+    background: var(--marca-soft);
+    border: 1px solid color-mix(in srgb, var(--marca) 30%, transparent);
+    border-radius: 3px;
+    padding: 14px 18px;
+    margin-bottom: 30px;
+    font-size: 15px;
+    color: var(--ink);
+  }
+  .aviso strong { color: var(--marca); }
+
+  @media (prefers-reduced-motion: reduce) {
+    *, *::before, *::after { transition-duration: .01ms !important; animation-duration: .01ms !important; }
+  }
+</style>
+
+<div class="wrap">
+
+  <header class="cab">
+    <div class="oficio">
+      <span>Fundación Soy del Campo</span>
+      <span>Mensaje a los diputados · v08</span>
+      <span>Votación lunes 3 · VIII · 2026</span>
+    </div>
+    <h1>Puntos en disputa</h1>
+    <p class="bajada">Doce decisiones que quedaron abiertas después del examen adversarial. Cada una con lo que está en juego, las formulaciones que compiten y tu voto. Al final se exporta todo en un texto que puedes pegarme.</p>
+  </header>
+
+  <div class="aviso">
+    <strong>Punto 1 corregido.</strong> Tenías razón: el examen se pasó de prudente con las cero condenas en diecisiete años. Ese punto ya viene con mi posición cambiada y con la formulación fuerte.
+  </div>
+
+  <div class="estado">
+    <div class="barra"><span id="progreso"></span></div>
+    <div class="cuenta"><b id="hechas">0</b> de <b>12</b> decididos</div>
+    <button class="btn-exportar" id="btn-exportar">Exportar decisiones</button>
+  </div>
+
+  <div id="fichas"></div>
+
+  <textarea id="salida" readonly aria-label="Decisiones exportadas"></textarea>
+
+  <footer class="pie">
+    <h3>Cómo usar esto</h3>
+    <p>Abre cada punto, elige una opción y anota lo que quieras al margen. Todo queda guardado en este navegador, así que puedes cerrar y volver. Cuando termines —o cuando lleves la mitad— aprieta <em>Exportar decisiones</em> y pégame el texto: con eso dejo la versión final en una sola pasada.</p>
+    <p>Los puntos marcados <strong>bloqueante</strong> no son de estilo. Si esos quedan sin resolver, el video no se graba.</p>
+  </footer>
+</div>
+
+<script>
+(function () {
+  "use strict";
+
+  var PUNTOS = [
+    {
+      id: "condenas",
+      titulo: "Las cero condenas en diecisiete años: ¿cuánto se puede afirmar?",
+      gravedad: "bloqueante",
+      disputa: "Tú dices que después de diecisiete años sin una sola condena ya no corresponde decir «esto no prueba que no haya delito». El examen adversarial había impuesto ese resguardo porque un abogado no puede sostener que la ausencia de condena pruebe la ausencia del hecho.",
+      miPostura: "Cambié de posición: tienes razón, y el examen se pasó de prudente. La regla «la ausencia de prueba no es prueba de ausencia» solo vale cuando NO cabía esperar encontrar nada. Aquí sí cabía: hubo ley vigente, tribunales funcionando, miles de denuncias por maltrato en el país, denunciantes motivados, y gente que fue a mirar a propósito. Cuando se buscó y no apareció nada, el silencio sí significa algo. Lo único que no puedes decir es el absoluto «nunca hubo maltrato», porque eso es un negativo universal.",
+      opciones: [
+        { rot: "Formulación débil (la del examen)", frase: "«Eso no prueba que nunca haya pasado nada. Prueba que el que quiere prohibir una actividad entera es el que tiene que traer el caso.»", nota: "Inatacable, pero suena a que concedes. Y concede más de lo necesario." },
+        { rot: "Formulación fuerte (mi propuesta ahora)", frase: "«Y no me diga que eso no prueba nada. Hubo ley. Hubo tribunales. Hubo gente buscando, y buscando con ganas. Diecisiete años. Cuando se busca así de fuerte y no aparece ni un caso, eso ya no es falta de pruebas: eso es una respuesta.»", nota: "Fuerte y defendible. No afirma el absoluto, pero cobra el silencio. Y deja la carga donde corresponde: el que quiere prohibir trae el caso." }
+      ],
+      votos: ["Formulación fuerte", "Formulación débil", "Otra — la escribo"]
+    },
+    {
+      id: "noventa",
+      titulo: "El noventa por ciento de impulsores no reelectos",
+      gravedad: "bloqueante",
+      disputa: "El examen lo eliminó entero. Lo leyó como amenaza electoral encubierta, agravada porque los descargos («no le voy a decir por qué», «no lo puedo probar») hacen la insinuación más fuerte, no más débil.",
+      miPostura: "Estoy de acuerdo con eliminarlo, y por una razón práctica más que moral: el reflejo de un parlamentario que se siente presionado es votar al revés para demostrar que no lo compran. Además la réplica es fácil y humillante: la renovación de esa Cámara fue alta para todos, y varios pueden no haber podido repostular por el límite legal a la reelección.",
+      opciones: [
+        { rot: "Eliminarlo", frase: "No se menciona. El costo político se transmite solo con el rechazo repetido del proyecto.", nota: "Es lo que hace la v08." },
+        { rot: "Mantenerlo con la lista en la mano", frase: "«De los que impulsaron las versiones anteriores, varios ya no están en el Congreso. Le mando la lista con nombre y período, y usted saca sus conclusiones.»", nota: "Solo si tienes la lista nominativa verificada. Sin ella no se puede decir de ninguna forma." }
+      ],
+      votos: ["Eliminarlo", "Mantenerlo con lista", "Otra — la escribo"]
+    },
+    {
+      id: "frase-regalada",
+      titulo: "La frase redactada para que el diputado la diga en público",
+      gravedad: "bloqueante",
+      disputa: "El examen la calificó como el peor documento posible en caso de filtración: un abogado externo entregándole a un parlamentario el libreto literal de su declaración, tres días antes de votar.",
+      miPostura: "De acuerdo en sacarla. Un diputado con instinto la detecta al primer visionado y borra el mensaje: nadie quiere prueba escrita de que le pasaron el argumento. El acta cumple la misma función y no la escribiste tú.",
+      opciones: [
+        { rot: "Reemplazar por el acta", frase: "«Las dos votaciones quedan en la misma acta, del mismo día. Y la firma usted.»", nota: "Le da la misma cobertura pública, sin dejar rastro de libreto." },
+        { rot: "Conservar la frase hecha", frase: "«Yo no voté contra los perros. Voté por veterinario obligatorio, control de dopaje y clausura al que incumpla.»", nota: "Más útil para el diputado tímido, pero es el archivo que no quieres que se filtre." }
+      ],
+      votos: ["Reemplazar por el acta", "Conservar la frase", "Otra — la escribo"]
+    },
+    {
+      id: "vinculo",
+      titulo: "Hasta dónde declarar tu vínculo con la actividad",
+      gravedad: "bloqueante",
+      disputa: "La v08 dice la fórmula mínima: «llevo siete años en esto, del lado de la gente de esta actividad. No se lo escondo». Si además hay asesoría, patrocinio, vínculo económico o representación, la fórmula mínima acompañada de «no se lo escondo» es peor que el silencio.",
+      miPostura: "Esto no lo puedo decidir yo porque no sé cuál es tu vínculo real. Y es el único de los bloqueantes sin retorno: si el adversario revela algo que tú no dijiste después de haber prometido transparencia, todo el video se relee como ocultamiento.",
+      opciones: [
+        { rot: "Fórmula mínima", frase: "«Llevo siete años en esto, del lado de la gente de esta actividad. No se lo escondo.»", nota: "Solo sirve si no hay nada más que declarar." },
+        { rot: "Declaración completa", frase: "Agregar en la misma frase la naturaleza exacta: asesoría, patrocinio, representación o vínculo económico, si existe.", nota: "Cuesta tres segundos y cierra el flanco para siempre." }
+      ],
+      votos: ["Fórmula mínima basta", "Necesito declarar más", "Lo consulto y te aviso"]
+    },
+    {
+      id: "armas",
+      titulo: "Argentina: nombrar «armas de fuego» en voz propia",
+      gravedad: "alta",
+      disputa: "El examen advirtió que ese audio —el defensor de la actividad enumerando apuestas ilegales, armas de fuego y química veterinaria— montado sobre imágenes de galgos es el mejor spot que le puedes regalar al adversario. Nadie va a explicar en el clip que hablabas de Argentina.",
+      miPostura: "El dato es demasiado bueno para perderlo, pero hay que atribuirlo. Que las palabras sean del parte policial argentino y no de tu boca.",
+      opciones: [
+        { rot: "Atribuido", frase: "«Según el parte policial argentino, en esos allanamientos se incautaron apuestas ilegales, remedios veterinarios y armas de fuego.»", nota: "Mismo dato, pero el clip queda inservible: se oye la fuente." },
+        { rot: "Directo", frase: "«Y adentro encontraron apuestas ilegales, remedios veterinarios y armas de fuego.»", nota: "Más potente al oído, y más recortable en tu contra." }
+      ],
+      votos: ["Atribuido al parte", "Directo", "Otra — la escribo"]
+    },
+    {
+      id: "nunca",
+      titulo: "«Nunca encontraron nada irregular»",
+      gravedad: "alta",
+      disputa: "Negativo absoluto. Basta una foto, un parte o una multa municipal para desmentirlo en un solo posteo, y como toda tu autoridad se construye sobre los papeles, el desmentido no daña esa frase: daña todas las demás.",
+      miPostura: "Pasarlo a lo que a ti te consta. Pierde un grado de énfasis y gana blindaje total: un contraejemplo ya no lo refuta.",
+      opciones: [
+        { rot: "Sobre lo que te consta", frase: "«Y de todos los que fueron, yo no conozco a uno solo que haya salido de ahí con una denuncia. Ni uno.»", nota: "Lo que hace la v08. Irrefutable, porque habla de tu conocimiento." },
+        { rot: "Absoluto", frase: "«Nunca encontraron nada irregular.»", nota: "Más rotundo, y se cae con un solo caso." }
+      ],
+      votos: ["Sobre lo que me consta", "Absoluto", "Otra — la escribo"]
+    },
+    {
+      id: "apertura",
+      titulo: "La apertura: ¿entra el contraste con la agenda del país?",
+      gravedad: "media",
+      disputa: "Tu dictado abría con los desastres climáticos, la delincuencia y la economía, y con la ironía sobre las bancadas «muy conectadas con las necesidades del país». La v08 lo sacó y parte identificándote.",
+      miPostura: "«Hay problemas más importantes» es el argumento más fácil de devolver que existe, y la ironía cierra de golpe al diputado que todavía no sabe de qué lado está. Pero es tu voz y el contraste es verdadero.",
+      opciones: [
+        { rot: "Sin contraste (v08)", frase: "«Soy Oscar Núñez, abogado, de la Fundación Soy del Campo. Le hablo por el proyecto que prohíbe las carreras de galgos, que usted vota el lunes.»", nota: "Directo, sin flanco, y llega antes al asunto." },
+        { rot: "Con contraste, sin ironía", frase: "«En medio de los desastres climáticos, de la delincuencia y de los problemas de economía que nos están golpeando, vuelve al Congreso, otra vez, el mismo proyecto para prohibir las carreras de galgo.»", nota: "Conserva tu apertura y saca la ironía, que es la parte atacable." }
+      ],
+      votos: ["Sin contraste", "Con contraste sin ironía", "Con ironía, como lo dicté"]
+    },
+    {
+      id: "futbol",
+      titulo: "El fútbol o la hípica",
+      gravedad: "media",
+      disputa: "El examen sacó el fútbol y dejó solo la hípica, porque la analogía futbolística se rompe sola (el jugador eligió correr y además cobra) y porque la hípica es el ejemplo perfecto: animal, apuesta, plata y ley propia.",
+      miPostura: "La hípica es más precisa. El fútbol es más popular y llega a cualquiera. Se pueden decir los dos si el fútbol va primero y como gancho, y la hípica cierra como argumento.",
+      opciones: [
+        { rot: "Solo la hípica", frase: "«En la hípica corren animales, hay premios y hay plata. La hípica no se prohibió. Se reguló.»", nota: "Lo que hace la v08. Argumento cerrado, sin flanco." },
+        { rot: "Fútbol como gancho, hípica como argumento", frase: "«En el fútbol se apuesta y a nadie se le ocurre prohibir el fútbol. Y mire la hípica, que es el caso exacto: animales, premios y plata. No se prohibió. Se reguló.»", nota: "Más popular, y la hípica tapa el flanco del fútbol." }
+      ],
+      votos: ["Solo hípica", "Fútbol y luego hípica", "Otra — la escribo"]
+    },
+    {
+      id: "escenas",
+      titulo: "Las escenas del proyecto: el perro con la pata quebrada",
+      gravedad: "media",
+      disputa: "Las imágenes del §VII son las mejor escritas y las peor grabadas: «sin hoyos donde un perro se quiebre una pata», «que ningún cachorro pise una pista», «el que dopó, para afuera». Al hacerlas vívidas, se convirtió material seguro en material memorable y recortable en tu contra.",
+      miPostura: "No hay que perderlas, hay que atribuirlas. Si las escenas son del texto legal y no de tu boca, el clip pierde el filo.",
+      opciones: [
+        { rot: "Atribuidas al proyecto", frase: "«El proyecto dice que la pista tiene que estar pareja. Dice que ningún cachorro corre. Dice que al que dopó lo dejan afuera.»", nota: "Lo que hace la v08. Mismas imágenes, otra boca." },
+        { rot: "En voz propia", frase: "«A favor de que la pista esté pareja, sin hoyos donde un perro se quiebre una pata.»", nota: "Más cálido y más tuyo. Y más fácil de recortar." }
+      ],
+      votos: ["Atribuidas al proyecto", "En voz propia", "Otra — la escribo"]
+    },
+    {
+      id: "duracion",
+      titulo: "Cuál de las dos versiones se graba",
+      gravedad: "alta",
+      disputa: "La completa son 1.257 palabras, cerca de nueve minutos con silencios. La corta son 485, algo más de tres minutos.",
+      miPostura: "La corta. Para WhatsApp a un parlamentario tres minutos es el techo real, y lo que se pierde cuando se abandona un video es siempre el final, que es justo donde está la petición de los dos votos.",
+      opciones: [
+        { rot: "Corta", frase: "485 palabras · 3 min 20 s aproximados.", nota: "Se termina de ver. Conserva el esqueleto irrenunciable." },
+        { rot: "Completa", frase: "1.257 palabras · cerca de 9 min.", nota: "Más argumentos, menos gente que llega al final." },
+        { rot: "Las dos", frase: "La corta por WhatsApp y la completa como respaldo para quien pida más.", nota: "Cuesta una segunda grabación." }
+      ],
+      votos: ["Solo la corta", "Solo la completa", "Las dos"]
+    },
+    {
+      id: "galgo-retirado",
+      titulo: "El hueco: qué pasa con el galgo que deja de ganar",
+      gravedad: "bloqueante",
+      disputa: "Ninguna de las ocho versiones lo aborda. Es el centro emocional del ataque previsible y la primera pregunta de cualquier periodista el lunes.",
+      miPostura: "No lo escribí porque no tengo con qué. Necesito de ti dos cosas verificables: qué dice la norma sobre abandono, y si el proyecto de regulación contempla registro o destino del perro retirado. Si no lo cubrimos, prepárate igual, porque la pregunta va a llegar.",
+      opciones: [
+        { rot: "Agregar un párrafo", frase: "Un tramo corto que diga qué pasa hoy con el perro retirado y qué agregaría la regulación.", nota: "Necesito el dato de tu parte antes de escribirlo." },
+        { rot: "No entrar en el video", frase: "Dejarlo fuera y preparar solo la respuesta oral para cuando te lo pregunten.", nota: "El video queda más corto, pero el flanco queda abierto." }
+      ],
+      votos: ["Agregar párrafo — te mando el dato", "Solo preparar la respuesta", "Otra — la escribo"]
+    },
+    {
+      id: "bloque3",
+      titulo: "El bloque ideológico: ¿libro o video?",
+      gravedad: "media",
+      disputa: "El pasaje sobre la visión ideologizada, los animales como semidioses y el uso del derecho animal como instrumento quedó archivado en cavilaciones. Quedó pendiente tu decisión desde hace varias versiones.",
+      miPostura: "Al libro. Ahí, con espacio y con fuentes, es la tesis central de «la batalla cultural chilena» y se sostiene. En un video de tres minutos a un diputado que no te conoce, el mismo argumento te descalifica.",
+      opciones: [
+        { rot: "Al libro", frase: "Se queda en cavilaciones y se desarrolla en la parte que corresponda.", nota: "Lo que está hecho hoy." },
+        { rot: "Al video también", frase: "Entra una versión breve en el mensaje a los diputados.", nota: "Sube mucho el riesgo de clip y pierde al indeciso." }
+      ],
+      votos: ["Solo al libro", "También al video", "Otra — la escribo"]
+    }
+  ];
+
+  var LLAVE = "galgos-disputa-v1";
+  var estado = {};
+  try { estado = JSON.parse(localStorage.getItem(LLAVE) || "{}"); } catch (e) { estado = {}; }
+
+  function guardar() {
+    try { localStorage.setItem(LLAVE, JSON.stringify(estado)); } catch (e) {}
+  }
+
+  function esc(s) {
+    return String(s).replace(/[&<>"]/g, function (c) {
+      return { "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;" }[c];
+    });
+  }
+
+  var cont = document.getElementById("fichas");
+
+  PUNTOS.forEach(function (p, i) {
+    var st = estado[p.id] || {};
+    var art = document.createElement("article");
+    art.className = "ficha";
+    art.dataset.abierta = i === 0 ? "si" : "no";
+    art.dataset.resuelta = st.voto ? "si" : "no";
+
+    var gravChip = p.gravedad === "media" ? ' data-g="media"' : "";
+
+    var opcionesHTML = p.opciones.map(function (o) {
+      return '<div class="opcion"><h4>' + esc(o.rot) + "</h4>" +
+             '<p class="frase">' + esc(o.frase) + "</p>" +
+             '<p class="nota">' + esc(o.nota) + "</p></div>";
+    }).join("");
+
+    var votosHTML = p.votos.map(function (v) {
+      var on = st.voto === v;
+      return '<button class="voto" type="button" data-voto="' + esc(v) + '" aria-pressed="' + (on ? "true" : "false") + '">' + esc(v) + "</button>";
+    }).join("");
+
+    art.innerHTML =
+      '<header role="button" tabindex="0" aria-expanded="' + (i === 0 ? "true" : "false") + '">' +
+        '<span class="num">' + String(i + 1).padStart(2, "0") + "</span>" +
+        '<div class="cabecera-txt">' +
+          '<h2 class="titulo">' + esc(p.titulo) + "</h2>" +
+          '<div class="meta">' +
+            '<span class="chip chip-grav"' + gravChip + ">" + esc(p.gravedad) + "</span>" +
+            '<span class="chip chip-est" data-e="' + (st.voto ? "decidido" : "abierto") + '">' + (st.voto ? "decidido" : "sin decidir") + "</span>" +
+          "</div>" +
+        "</div>" +
+        '<span class="flecha" aria-hidden="true">▸</span>' +
+      "</header>" +
+      '<div class="cuerpo">' +
+        '<div class="rotulo">Qué está en disputa</div>' +
+        "<p>" + esc(p.disputa) + "</p>" +
+        '<div class="rotulo">Mi posición</div>' +
+        "<p>" + esc(p.miPostura) + "</p>" +
+        '<div class="rotulo">Las formulaciones que compiten</div>' +
+        '<div class="opciones' + (p.opciones.length === 2 ? " par" : "") + '">' + opcionesHTML + "</div>" +
+        '<div class="decidir">' +
+          '<div class="rotulo" style="margin-top:0">Tu decisión</div>' +
+          '<div class="botonera">' + votosHTML + "</div>" +
+          '<textarea placeholder="Al margen: por qué, o la formulación que prefieres…">' + esc(st.nota || "") + "</textarea>" +
+        "</div>" +
+      "</div>";
+
+    var head = art.querySelector("header");
+    function alternar() {
+      var abierta = art.dataset.abierta === "si";
+      art.dataset.abierta = abierta ? "no" : "si";
+      head.setAttribute("aria-expanded", abierta ? "false" : "true");
+    }
+    head.addEventListener("click", alternar);
+    head.addEventListener("keydown", function (e) {
+      if (e.key === "Enter" || e.key === " ") { e.preventDefault(); alternar(); }
+    });
+
+    art.querySelectorAll(".voto").forEach(function (b) {
+      b.addEventListener("click", function () {
+        var v = b.dataset.voto;
+        if (!estado[p.id]) estado[p.id] = {};
+        estado[p.id].voto = estado[p.id].voto === v ? null : v;
+        art.querySelectorAll(".voto").forEach(function (o) {
+          o.setAttribute("aria-pressed", o.dataset.voto === estado[p.id].voto ? "true" : "false");
+        });
+        var decidido = !!estado[p.id].voto;
+        art.dataset.resuelta = decidido ? "si" : "no";
+        var chip = art.querySelector(".chip-est");
+        chip.dataset.e = decidido ? "decidido" : "abierto";
+        chip.textContent = decidido ? "decidido" : "sin decidir";
+        guardar(); refrescar();
+      });
+    });
+
+    art.querySelector("textarea").addEventListener("input", function (e) {
+      if (!estado[p.id]) estado[p.id] = {};
+      estado[p.id].nota = e.target.value;
+      guardar();
+    });
+
+    cont.appendChild(art);
+  });
+
+  function refrescar() {
+    var n = PUNTOS.filter(function (p) { return estado[p.id] && estado[p.id].voto; }).length;
+    document.getElementById("hechas").textContent = n;
+    document.getElementById("progreso").style.width = (n / PUNTOS.length * 100) + "%";
+  }
+  refrescar();
+
+  document.getElementById("btn-exportar").addEventListener("click", function () {
+    var out = ["DECISIONES SOBRE EL MENSAJE A LOS DIPUTADOS", "=========================================", ""];
+    PUNTOS.forEach(function (p, i) {
+      var st = estado[p.id] || {};
+      out.push((i + 1) + ". " + p.titulo);
+      out.push("   [" + p.gravedad.toUpperCase() + "] Decisión: " + (st.voto || "SIN DECIDIR"));
+      if (st.nota && st.nota.trim()) out.push("   Nota: " + st.nota.trim());
+      out.push("");
+    });
+    var pend = PUNTOS.filter(function (p) {
+      return p.gravedad === "bloqueante" && !(estado[p.id] && estado[p.id].voto);
+    });
+    if (pend.length) {
+      out.push("BLOQUEANTES SIN RESOLVER:");
+      pend.forEach(function (p) { out.push("  - " + p.titulo); });
+    }
+    var ta = document.getElementById("salida");
+    ta.value = out.join("\n");
+    ta.classList.add("visible");
+    ta.select();
+    try { document.execCommand("copy"); } catch (e) {}
+    var b = document.getElementById("btn-exportar");
+    var t = b.textContent;
+    b.textContent = "Copiado";
+    setTimeout(function () { b.textContent = t; }, 1600);
+  });
+})();
+</script>
