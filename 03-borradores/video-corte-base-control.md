@@ -34,7 +34,33 @@ La disolvencia de 0,25 s cae encima del silencio, así que no corta palabra.
 
 ---
 
-## LO QUE FALTA — y es una sola cosa, pero es la que importa
+## DECISIÓN DEL AUTOR — 2026-08-02
+
+**No se graba la toma de cierre.** El autor decidió no regrabar los ocho
+segundos. Su razón: el empalme no quedaría bien y la toma agregada no
+resultaría determinante.
+
+Es correcto. El riesgo real no es el corte —ese queda limpio— sino la
+continuidad de la voz: grabada horas después, la energía no calza y se nota
+que es un agregado. Un cierre que suena pegado pesa menos que uno que no
+está.
+
+**En su lugar:**
+
+1. **La placa final** queda como cierre. Es lo último que se ve, se sostiene
+   cinco segundos y no se lee a medias.
+2. **La frase va como primera línea del mensaje de WhatsApp** que lleva el
+   video. Se lee antes de que el video parta y no depende de que lo terminen
+   de ver.
+
+**Pieza final: `GALGOS-3-con-leyendas` — 3 min 19 s.**
+
+La sección que sigue queda como registro de por qué se planteó, no como
+tarea pendiente.
+
+---
+
+## LO QUE FALTABA — y por qué se resolvió por otra vía
 
 **El video no termina con la frase que decidiste.**
 
