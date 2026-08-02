@@ -1,7 +1,7 @@
 ---
 pieza: Mensaje a los diputados — texto hablado
 versión: v08
-estado: VIGENTE (supera a v06 y v07)
+estado: SUPERADA POR v09
 fecha: 2026-08-01
 origen: v06 + examen adversarial (115 hallazgos, 10 agentes) + veredicto de mezcla
 formato: texto corrido para decir a cámara
