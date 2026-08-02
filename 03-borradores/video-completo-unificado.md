@@ -103,8 +103,6 @@ Y termino con lo práctico.
 Ese mismo día, en esa misma sesión, van dos proyectos. Uno prohíbe. El otro
 regula.
 
-**Regula para asegurar el bienestar de los perritos. Y rechaza prohibir.**
-
 Así no votas contra nadie. Votas a favor de que haya un veterinario en cada
 competencia, control de dopaje, pistas seguras, y clausura para el que no
 cumpla.
@@ -119,7 +117,11 @@ Ellos ya demostraron la fuerza que tienen.
 
 **Y la gente, cuando vota, vota con su corazón y con su sentido común.**
 
-**Regula. Y rechaza prohibir.**
+## VII · La última frase
+
+**Regula para asegurar el bienestar de los perritos.**
+
+**Y rechaza la prohibición y su desamparo.**
 
 ---
 ---
@@ -133,15 +135,21 @@ Uní las tres partes y las leí de corrido. Cuatro cosas.
 Faltaba la petición: el video convencía y no pedía nada. Con tu frase quedó
 resuelto, y quedó mejor de lo que yo lo tenía.
 
-**«Regula para asegurar el bienestar de los perritos. Y rechaza prohibir.»**
+**«Regula para asegurar el bienestar de los perritos. Y rechaza la prohibición y su desamparo.»**
 
 Da vuelta el argumento entero. Toda la campaña se apoya en que quien defiende
 las carreras está contra los perros. Esa frase dice lo contrario, y en el
 mismo idioma que ellos usan: **el que vota regular es el que está cuidando a
 los perros; el que prohíbe los manda a donde nadie los mira.**
 
-Va antes del remate, y la repito en tres palabras como última frase del
-video, para que sea lo último que quede sonando.
+Y «desamparo» es la palabra exacta. No dice que prohibir sea injusto con los
+galgueros —eso al diputado le da lo mismo—: dice qué le pasa **al perro**. Se
+queda sin veterinario, sin chip, sin reglamento y sin nadie a quien
+reclamarle. Eso es desamparo, y es literalmente lo que ocurre.
+
+Queda como **la última frase del video**, después del remate. Es lo correcto:
+en una pieza cuyo objetivo es un voto, la instrucción tiene que ser lo último
+que se oye.
 
 ## 2. Arreglé un empalme roto
 
