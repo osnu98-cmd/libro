@@ -236,6 +236,37 @@ Escuela de Medicina Veterinaria UC, feb-2022]`
 ---
 ---
 
+## §6 · Tu cierre: entra completo, con una frase corregida
+
+El movimiento es el correcto y es el que faltaba. Todo el video le quita al
+diputado el costo de votar en contra; **este cierre le dice de quién es ese
+costo y cuánto dura.** Y termina apelando a su conciencia, que es la única
+nota digna con la que se puede cerrar un mensaje así.
+
+**Lo que corregí, y por qué.** Escribiste que el mundo de las teleseries y
+los realities «es el único lugar donde estos proyectos encontraron amplio
+apoyo». Esa frase no la puedes sostener: basta una encuesta o un petitorio
+con firmas para desmentirla, y es de las cosas que alguien busca en un
+minuto. Además, teleseries y realities los ve justamente la gente de trabajo
+y esfuerzo que quieres reivindicar dos frases después, así que el contraste
+se te da vuelta.
+
+Lo que sí es defendible, y es más filoso, es **quién ha dado la cara**: la
+campaña ha tenido por rostros visibles a gente de televisión. Eso está en tus
+propios antecedentes —un veterinario y rostro de televisión en la campaña por
+la prohibición, y el periodista del segundo video— y no depende de ninguna
+encuesta.
+
+Y el contraste queda mejor así: no es *teleseries contra trabajo*, es **el
+aplauso del estudio contra el distrito**. Eso no ofende a nadie por lo que ve
+en la tele, y le pone al diputado la pregunta donde duele: a quién le rinde
+cuentas.
+
+`[VERIFICAR si vas a nombrar a alguien: que los rostros que menciones hayan
+participado efectivamente en la campaña por la prohibición]`
+
+---
+
 # VERSIÓN COMPLETA — v09
 
 ## I. Cómo llega esto al Congreso
@@ -461,6 +492,22 @@ Votar en contra de esta prohibición no es votar a favor del maltrato. Es
 votar a favor de que haya alguien a quien reclamarle, con nombre y con
 dirección.
 
+Y le digo una última cosa.
+
+No se preocupe de contradecir a los rostros de televisión. Fíjese quiénes
+han dado la cara por este proyecto todos estos años: gente de pantalla,
+animadores, caras conocidas. Ese es el aplauso que usted se va a perder si
+vota en contra. Y ese aplauso dura una semana.
+
+Usted no le responde a esa gente.
+
+Usted le responde a la gente de su distrito. A gente real, de trabajo y de
+esfuerzo, que se levanta temprano. A esa gente le tiene que rendir cuentas,
+y con esa gente le pido que actúe en conciencia y con rectitud.
+
+El aplauso del estudio se apaga el martes. Su distrito sigue ahí el año que
+viene.
+
 Los papeles se los mando hoy mismo, junto con este video, sin que me los
 pida. Casi todos son papeles del Estado, con timbre y con número, y usted
 los revisa sin creerme a mí. Lo que le conté de la gente que fue a mirar es
@@ -541,6 +588,11 @@ sabe.
 
 Hoy hay un club con nombre a quien preguntarle. En un potrero, de noche, no
 hay a quién preguntarle nada.
+
+Y no se preocupe de contradecir a los rostros de televisión. Ese aplauso dura
+una semana. Usted no le responde a esa gente: le responde a la de su
+distrito, a gente de trabajo y de esfuerzo. Con ella actúe en conciencia y
+con rectitud.
 
 Los papeles se los mando hoy. Muchas gracias, y suerte el lunes.
 
