@@ -29,19 +29,20 @@ seguro sobre qué es lo que debes votar ese día:
 Los patrocinadores de este proyecto —los diputados Félix González, Sagardía,
 Melo, Musante, por dar algunos nombres— **ya no están en el Congreso.**
 
-Fueron castigados por su fanatismo, por su inconsecuencia y por sus
-actuaciones.
+**Búscalos.**
 
-Y la otra diputada importante del proyecto, días antes de la elección, fue
-apoyada por uno de los canales más importantes de Chile, que puso a uno de
-los rostros más importantes de la televisión en una supuesta investigación,
-para ver lo que ocurría dentro de las carreras de galgos.
+Y hay algo más. Y lo digo sin nombrar a nadie, porque no hace falta.
 
-Se infiltraron en las carreras de galgos **para no obtener ningún dato** que
-demostrara que ahí había maltrato animal.
+Días antes de la última elección, uno de los canales más importantes de Chile
+hizo un reportaje sobre las carreras de galgos. Con uno de los rostros más
+conocidos de la televisión. Con gente infiltrada.
 
-Y hay que decirlo: esa diputada resultó electa después de ese respaldo y de
-ese video, a escasos días de la elección.
+**No encontraron nada.**
+
+Y la diputada que aparecía en ese reportaje salió electa.
+
+Yo no estoy diciendo que hayan hecho nada malo. **Estoy diciendo lo que pasó,
+y en qué orden pasó.**
 
 **Pon atención a este video.**
 
