@@ -164,6 +164,43 @@ video parta, y no depende de que lo terminen de ver.
 
 ---
 
+## SOBRE LA GUÍA DE EDICIÓN «PARA REELS / TIKTOK»
+
+El autor trajo una guía de edición de otro asistente: subtítulos dinámicos
+tipo karaoke, amarillo neón, rojo/verde para «prohibir/regular», zooms al
+108 %, B-roll de galgos corriendo y tarjeta final con emojis.
+
+**Punto de vista de Claude: casi todo eso está pensado para otro público y
+en este video hace daño.** Las razones, una por una:
+
+| Sugerencia | Juicio |
+|---|---|
+| Zócalo con nombre y cargo | **Se toma.** Ya está puesto. |
+| Subtítulos karaoke palabra por palabra | **Se rechaza.** Es la estética exacta de los videos que este video refuta. |
+| Amarillo neón / rojo / verde | **Se rechaza.** Grita, y el argumento aquí es que el otro lado grita. |
+| Zoom al 108 % | **Se rechaza.** El material es de 368 px: ampliar recorta y empasta más. |
+| B-roll de galgos | **Se rechaza.** Regla Cero: sería material no verificado presentado como propio. |
+| Tarjeta final con emojis | **Se rechaza.** Baja el registro justo en la petición. |
+| Placa de cierre limpia | **Se toma.** Ya está puesta. |
+
+**El razonamiento de fondo:** el público de esta pieza son diputados, uno a
+uno por WhatsApp, antes de una votación. Su activo es que **no se parece** a
+lo que está refutando. Si el video se ve como un reel de influencer,
+confirma de un golpe lo que el video niega.
+
+Una versión con esos recursos tendría sentido **solo** en una pieza distinta,
+para público general en redes, y aun así con moderación.
+
+### Dos errores concretos en esa guía
+
+1. **«Hoy se vota en el CONGRESO»** — la votación es el lunes 3, no hoy.
+2. **«No se trata de PROHIBIR, se trata de REGULAR»** se propone como
+   subtítulo, y **es una frase que el autor nunca dijo.** Poner en pantalla,
+   como suyas, palabras que no salieron de su boca infringe la Regla del
+   Testimonio.
+
+---
+
 ## Estado de las palabras en pantalla
 
 Sin quemar todavía. La lista de las veintiuna está en
