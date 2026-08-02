@@ -4,7 +4,7 @@ versión: v01
 estado: VIGENTE
 fecha: 2026-08-02
 dictado de origen: 2026-08-02-introduccion.md + 2026-08-02-parte2.md
-duración: ≈ 4 min 45 s
+duración: ≈ 5 min
 ---
 
 # Video completo — para revisar y decir
@@ -98,6 +98,19 @@ de cuidar la plata.
 
 ## V
 
+Y termino con lo práctico.
+
+Ese mismo día, en esa misma sesión, van dos proyectos. Uno prohíbe. El otro
+regula.
+
+**Regula para asegurar el bienestar de los perritos. Y rechaza prohibir.**
+
+Así no votas contra nadie. Votas a favor de que haya un veterinario en cada
+competencia, control de dopaje, pistas seguras, y clausura para el que no
+cumpla.
+
+## VI
+
 **Escucha a tus electores.**
 
 No al reality, no a la teleserie, no a los influencers.
@@ -106,6 +119,8 @@ Ellos ya demostraron la fuerza que tienen.
 
 **Y la gente, cuando vota, vota con su corazón y con su sentido común.**
 
+**Regula. Y rechaza prohibir.**
+
 ---
 ---
 
@@ -113,30 +128,20 @@ Ellos ya demostraron la fuerza que tienen.
 
 Uní las tres partes y las leí de corrido. Cuatro cosas.
 
-## 1. Falta lo único que le estás pidiendo
+## 1. El hueco quedó cerrado
 
-**En todo el video no hay petición.** No le dices en ningún momento qué tiene
-que votar.
+Faltaba la petición: el video convencía y no pedía nada. Con tu frase quedó
+resuelto, y quedó mejor de lo que yo lo tenía.
 
-Le explicas quién está detrás, le desmontas las acusaciones, le muestras la
-selectividad y le dices a quién escuchar. Pero nunca le dices **rechaza el
-que prohíbe y aprueba el que regula.**
+**«Regula para asegurar el bienestar de los perritos. Y rechaza prohibir.»**
 
-Es el hueco más grande de la pieza. Un video que convence y no pide, no
-mueve el voto: deja al diputado de acuerdo contigo y sin instrucción.
+Da vuelta el argumento entero. Toda la campaña se apoya en que quien defiende
+las carreras está contra los perros. Esa frase dice lo contrario, y en el
+mismo idioma que ellos usan: **el que vota regular es el que está cuidando a
+los perros; el que prohíbe los manda a donde nadie los mira.**
 
-Además, la regulación aparece en el §IV **solo para discutir su
-financiamiento**, así que el que escucha ni siquiera se entera de que existe
-un segundo proyecto votable ese mismo día.
-
-**Con dos frases se arregla**, y van justo antes del remate:
-
-> Y termino con lo práctico. Ese mismo día, en esa misma sesión, van dos
-> proyectos: uno prohíbe y el otro regula.
->
-> **Rechaza el que prohíbe. Y aprueba el que regula.** Así no votas contra
-> nadie: votas a favor de que haya veterinario obligatorio, control de dopaje
-> y clausura para el que no cumpla.
+Va antes del remate, y la repito en tres palabras como última frase del
+video, para que sea lo último que quede sonando.
 
 ## 2. Arreglé un empalme roto
 
@@ -166,7 +171,7 @@ Y el registro está parejo: **todo en tú**, de principio a fin.
 
 # DURACIÓN
 
-≈ 4 min 45 s. Con las dos frases de la petición, ≈ 5 min.
+≈ 5 minutos.
 
 Si necesitas bajarlo, lo único resumible sin perder argumento es el listado
 de acusaciones del §III: se puede decir en dos frases en vez de cinco.
