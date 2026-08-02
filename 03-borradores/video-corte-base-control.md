@@ -126,6 +126,44 @@ Las dos caben en la misma toma de cierre si quieres.
 
 ---
 
+## LA LEYENDA A LOS PIES — qué resuelve y qué no
+
+Propuesta del autor: poner los argumentos que faltan como texto en pantalla
+en vez de regrabar.
+
+**Resuelve bien tres cosas:**
+
+1. **La identificación.** «OSCAR NÚÑEZ / Fundación Soy del Campo» abajo a la
+   izquierda, en los primeros ocho segundos. Es lo normal y ayuda: el
+   diputado sabe de entrada quién le habla.
+
+2. **El detalle de la regulación.** Los cuatro puntos —veterinario en cada
+   competencia, control de dopaje, pistas seguras, clausura al que no
+   cumpla— **funcionan mejor escritos que dichos.** Una lista de cuatro
+   cosas seguidas no se retiene de oído; leída sí. Y cae justo encima del
+   momento en que se dice «que efectivamente va a cuidar a los animales»,
+   que es la parte vaga.
+
+3. **«Búscalos.»** Es una orden. En texto pega igual o más.
+
+**No resuelve del todo una: la frase de cierre.**
+
+La placa final funciona y es una solución real, no un premio de consuelo.
+Pero tiene un límite honesto: **el texto no se oye.** Mucha gente ve estos
+videos con el teléfono en la oreja o caminando. Y las últimas palabras
+habladas siguen siendo «la decisión es tuya», que ablanda justo donde la
+placa endurece.
+
+- Placa sola → llega al 80 %.
+- Ocho segundos grabados **más** la placa encima → 100 %. Voz y texto
+  diciendo lo mismo es el cierre más fuerte que existe.
+
+**Y en cualquiera de los dos casos:** la frase va también como **primera
+línea del mensaje de WhatsApp** que lleva el video. Se lee antes de que el
+video parta, y no depende de que lo terminen de ver.
+
+---
+
 ## Estado de las palabras en pantalla
 
 Sin quemar todavía. La lista de las veintiuna está en
