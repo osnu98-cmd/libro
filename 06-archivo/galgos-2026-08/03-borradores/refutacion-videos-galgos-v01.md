@@ -1,7 +1,7 @@
 ---
 pieza: Refutación de videos animalistas sobre el proyecto de galgos
 versión: v01
-estado: VIGENTE
+estado: ARCHIVADO 2026-11-07 — era VIGENTE · ver ARCHIVO.md
 fecha: 2026-08-01
 videos analizados: 2 de 2
 votación: lunes 3 de agosto de 2026 — ver aviso al inicio

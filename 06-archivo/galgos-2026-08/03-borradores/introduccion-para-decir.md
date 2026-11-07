@@ -1,7 +1,7 @@
 ---
 pieza: Introducción del video — texto para decir a cámara
 versión: v01
-estado: VIGENTE
+estado: ARCHIVADO 2026-11-07 — era VIGENTE · ver ARCHIVO.md
 fecha: 2026-08-02
 dictado de origen: 01-dictados/transcripciones/2026-08-02-introduccion.md
 ---

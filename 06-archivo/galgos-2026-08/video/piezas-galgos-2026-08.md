@@ -1,7 +1,7 @@
 ---
 pieza: Video a diputados — carreras de galgos
 versión: v01
-estado: VIGENTE
+estado: ARCHIVADO 2026-11-07 — era VIGENTE · ver ARCHIVO.md
 fecha: 2026-08-02
 material de origen: seis tomas grabadas 2026-08-02
 ---

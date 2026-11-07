@@ -1,7 +1,7 @@
 ---
 pieza: Dossier — qué pasó en Argentina con la prohibición (Ley 27.330)
 versión: v01
-estado: VIGENTE — TODO PENDIENTE DE VERIFICACIÓN
+estado: ARCHIVADO 2026-11-07 — era VIGENTE — TODO PENDIENTE DE VERIFICACIÓN · ver ARCHIVO.md
 fecha: 2026-08-01
 para: discurso-galgos-diputados (Riesgo 5) y refutación de videos
 ---

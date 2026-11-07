@@ -405,7 +405,19 @@ que corresponde.
 
 ---
 
-## 7. Lo que hay que decirle al autor
+## 7. De dónde salió este manual
+
+Nació del video a diputados sobre carreras de galgos, agosto de 2026. Ese
+trabajo está archivado en `06-archivo/galgos-2026-08/`, y ahí quedaron los
+guiones que funcionan —generador de subtítulos, generador de placas,
+segmentación y bloques de texto— en `video/receta/`.
+
+El método de acá es reutilizable para cualquier pieza. Los ejemplos son de
+ese trabajo porque es donde se probó cada cosa.
+
+---
+
+## 8. Lo que hay que decirle al autor
 
 - **Qué no se puede ver.** Se revisan cuadros sueltos, no el movimiento. El
   ritmo lo juzga él.

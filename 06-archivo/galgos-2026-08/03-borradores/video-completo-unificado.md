@@ -1,7 +1,7 @@
 ---
 pieza: Video a diputados — texto unificado (partes 1, 2 y remate)
 versión: v01
-estado: VIGENTE
+estado: ARCHIVADO 2026-11-07 — era VIGENTE · ver ARCHIVO.md
 fecha: 2026-08-02
 dictado de origen: 2026-08-02-introduccion.md + 2026-08-02-parte2.md
 duración: ≈ 5 min

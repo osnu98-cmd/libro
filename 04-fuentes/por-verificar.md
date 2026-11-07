@@ -5,87 +5,29 @@ Nada sale de aquí sin verificación efectiva.
 
 Estados: PENDIENTE · EN BÚSQUEDA · VERIFICADO · NO HALLADO
 
-> **Advertencia.** Ningún dato de esta tabla fue verificado por Claude
-> contra fuente primaria. Todos fueron levantados de documentos propios de
-> la Fundación y de la Corporación de Greyhound de Pista Chile
-> (principalmente `Defensa Carreras 2024.pdf`), que a su vez citan oficios,
-> boletines, actas y sentencias. **La fuente primaria hay que ir a
-> buscarla.**
+---
+
+**La cola está vacía.** No hay datos pendientes en el trabajo vigente.
+
+La cola del trabajo de galgos —44 datos, siete de ellos críticos— se
+archivó junto con esa campaña:
+`06-archivo/galgos-2026-08/04-fuentes/por-verificar.md`.
+
+Si se retoma ese material, esa cola se levanta antes de usar nada, y los
+datos de fecha y tramitación hay que rehacerlos: son de agosto de 2026.
 
 ---
 
-## Discurso — prohibición de carreras de perros (Boletín 15388-12)
+## Cómo se usa
 
-| N.º | Dato a verificar | Dónde se usa | Estado | Fuente primaria a consultar |
-|-----|------------------|--------------|--------|------------------------------|
-| 1 | Texto vigente y numeración del artículo único del Boletín 15388-12; autoría (dip. Félix González Gatica) | §2, §5 | PENDIENTE | Boletín original en camara.cl / BCN |
-| 2 | **Estado actual de tramitación y qué se vota exactamente** (trámite, sala o comisión, fecha) | encuadre completo | PENDIENTE | Ficha de tramitación BCN. Prensa indica rechazo en Sala el 13-08-2024, resolución de enero 2025 pidiendo prohibición por decreto, y nueva votación en enero de 2026 — **todo por confirmar, dato de prensa, no fuente** |
-| 3 | Oficio PDI **AD010T0024393**, 25-abr-2024: 6 denuncias por abandono o maltrato con galgos afectados, 2017–marzo 2024 | §3 (dato central) | PENDIENTE | Oficio original de respuesta a transparencia |
-| 4 | Denuncias por maltrato animal en Chile: 2.382 (2023); 2.707 (2022); 4.737 (2019-2021); 1.194 causas (Fiscalía 2017) | §3, §8 | PENDIENTE | PDI / Carabineros / Fiscalía |
-| 5 | **Discrepancia del 0,4%.** El documento de la Corporación afirma que los galgos representan «cerca del 0,4%» de las denuncias. 6 sobre ~10.500 en siete años da ≈0,06%. Resolver antes de usar cualquier porcentaje | §3 — **NO USAR HASTA RESOLVER** | PENDIENTE | Recalcular con las cifras oficiales una vez verificado el N.º 3 y el N.º 4 |
-| 6 | Que ninguno de los 13 títulos de la bibliografía del Colmevet contiene el dato de esperanza de vida de 3-4 años ni la «tasa de descarte» | §3 | PENDIENTE | Revisión directa de los 13 títulos + acta de la sesión donde se expusieron |
-| 7 | Declaración de Atkinson en prensa sobre la obsolescencia de *Reservoir Dogs* | §3 | PENDIENTE | Nota de *The Australian* citada en `Defensa Carreras 2024.pdf` |
-| 8 | Cita atribuida al diputado Meza («esta cámara se atrincheró en amigos y enemigos…») | §1 | PENDIENTE | Audio/acta de la sesión de la Comisión de Medio Ambiente, 2019 |
-| 9 | Denuncias en sesión de amenazas y acoso: dips. Torrealba y Castro; agresiones denunciadas por la dip. Hoffmann y anuncio de acusación por ciberbullying | §9 | PENDIENTE | Audios y actas de la Comisión, sesiones de junio-julio de 2019 |
-| 10 | Intento de convertir la sesión en secreta para reproducir audios interceptados, y su rechazo por los demás diputados | §9 | PENDIENTE | Acta de la sesión |
-| 11 | Denuncia ante la Comisión de Ética por el caso Bahamondes: fecha de ingreso, tramitación y resultado | §9 | PENDIENTE | Registro de la Comisión de Ética de la Cámara |
-| 12 | Sentencia Juzgado de Garantía de Parral, 22-oct-2022, **RIT 334-2022 / RUC 2210016400-4**: injurias graves por escrito y con publicidad; 100 días de reclusión menor en grado mínimo (remitida) + 11 UTM + costas. Confirmar además que quedó **firme** | §9 | PENDIENTE | Copia autorizada del fallo (verificadoc.pjud.cl, código KLKWXBCGFXX) |
-| 13 | Boletín técnico SUBDERE / Escuela de Medicina Veterinaria PUC, feb-2022: 8.306.650 perros; 3.461.104 en vía pública sin supervisión; 27,4% con microchip e inscritos | §8 | PENDIENTE | Boletín técnico original |
-| 14 | **Suma propia** sobre la tabla del Oficio N° 1006/2024 (SUBDERE): Galgo Español 20.565 + Greyhound 4.754 = 25.319 inscritos 2018-2024 | §7 | PENDIENTE | Recontar sobre el oficio original; verificar que la tabla no tenga filas omitidas (la fila «PASTOR ALEMÁN» y otras aparecen sin zona, lo que sugiere transcripción imperfecta del PDF) |
-| 15 | Boletín 12.786-12 y las indicaciones del dip. Pablo Prieto Lorca (raza greyhound, veterinario, dopaje aleatorio, pista, edades 16-60 meses, clausura) | §10 | PENDIENTE | Boletín e indicaciones en BCN |
-| 16 | Sesión de la Comisión del 19-jun-2019: rechazo de la prohibición 7-4; petición del dip. Mirosevic de transformar prohibición en regulación; indicación de la dip. Hoffmann declarada inadmisible y retirada | §11 | PENDIENTE | Actas y audios de la Comisión |
-| 17 | GWIC (Greyhound Welfare and Integrity Commission, NSW): panel de reforma, 122 recomendaciones, aceptadas todas menos una; estudio UTS sobre pistas rectas y reducción de 8 a 6 perros | §10 | PENDIENTE | Sitio oficial GWIC / informe UTS |
-| 18 | Listado de 7 países con canódromos comerciales y cuántos son desarrollados | §10 | PENDIENTE | Fuente del listado (atribuido a Grey2K USA en el documento de la Corporación) |
-| 19 | Pronunciamiento del Parlamento Europeo (2020) rechazando la petición animalista sobre galgos en España, por proporcionalidad y subsidiariedad | §10 | PENDIENTE | Documento del Parlamento Europeo |
-| 20 | Reglamento de la Corporación Nacional de Greyhound de Pista Chile (prohibición de apuestas, veterinario en pista) y campaña nacional de microchip 2019 | §7 | PENDIENTE | Reglamento y registro de la campaña |
-| 21 | Características de las pistas chilenas: rectas, 200 metros, 12 segundos de carrera | §10 | PENDIENTE | Reglamento de la Corporación |
-| 22 | 13 razas de lebreles en el Grupo X de la FCI, 9 presentes en Chile; y que canicross, mushing, agility y lure coursing son deportes reconocidos | §5 | PENDIENTE | Nomenclatura oficial FCI |
+| Columna | Qué va |
+|---|---|
+| N.º | Correlativo, no se reutiliza |
+| Dato a verificar | La afirmación exacta, no el tema |
+| Dónde se usa | Parte, capítulo y párrafo |
+| Estado | PENDIENTE · EN BÚSQUEDA · VERIFICADO · NO HALLADO |
+| Fuente primaria a consultar | Dónde ir a buscarla, no dónde se leyó |
 
----
-
-## Argentina y videos (incorporados en v02 del discurso)
-
-Todos provienen de **búsqueda web** (prensa y declaraciones de ONG). Bajo
-la Regla del Testimonio son material de apoyo, no base del relato.
-Detalle completo en `04-fuentes/argentina-prohibicion-2016-dossier.md`.
-
-| N.º | Dato a verificar | Dónde se usa | Estado | Fuente primaria a consultar |
-|-----|------------------|--------------|--------|------------------------------|
-| 23 | Ley 27.330 (Argentina, 2016): prohibición total; penas de 3 meses a 4 años; multa $4.000-$80.000; votación 132-17-32; prohibición de caza de liebre con galgos | §7 | PENDIENTE | InfoLeg, norma 268503 + Diario de Sesiones |
-| 24 | Operativo Tres Arroyos / Coronel Pringles: 14 allanamientos (6 y 8), agentes encubiertos, cámaras y grupos de WhatsApp; secuestro de armas de fuego, medicamentos veterinarios, químicos y handies; causa en Bahía Blanca por Ley 27.330 y Ley 14.346 | §7, refutación | PENDIENTE | Prensa local (La Voz del Pueblo, El Eco, Perfil, La Nación 10-07-2025). **Confirmar el año: aparece como causa iniciada en 2024 con operativo difundido en 2025** |
-| 25 | Que la denuncia la originaron **vecinos y productores rurales** de Coronel Pringles por ingreso a sus campos | §7 (remate) | PENDIENTE | Misma prensa |
-| 26 | Operativo Las Heras, Mendoza (nov-2025): 10 detenidos, animales bajo resguardo judicial | dossier | PENDIENTE | Prensa mendocina (El Nueve, Sitio Andino) |
-| 27 | Cita de Hilen Elisci (ONG Rescatando Huellas): «la ley de galgos no se está cumpliendo; hoy hay carreras clandestinas y muchos otros galgos son usados para la caza» | §7, refutación | PENDIENTE | 0223.com.ar, 14-03-2024 — confirmar textual y fecha |
-| 28 | Artículo «Ley 27330 de prohibición de carreras de galgos: una ley penal innecesaria», revista Aequitas Virtual (USAL): autor, año, volumen y argumento | dossier | PENDIENTE | p3.usal.edu.ar (bloquea acceso automatizado; abrir a mano) |
-| 29 | **Video del 30-07-2026**: autoría, fecha de publicación y cuenta. Conservar copia del archivo | §6 del discurso, refutación completa | PENDIENTE | El archivo está en poder del autor |
-| 30 | **Cuál es exactamente el proyecto de regulación que va en cuarto lugar de la tabla**: ¿es el Boletín 12.786-12 u otro posterior? Y confirmar que no contiene ninguna norma de financiamiento estatal | refutación, afirmación 2 — **el punto más caro de equivocar** | PENDIENTE | Tabla de la Sala + texto del boletín en BCN |
-| 31 | Si el rodeo recibe o no aportes estatales | **NO AFIRMAR** — ver refutación §7 | PENDIENTE | Solo si alguna vez se va a afirmar |
-| 32 | **FECHA DE VOTACIÓN: lunes 3 de agosto de 2026.** Ambos videos coinciden. Confirmar tabla de la Sala, qué se vota exactamente y en qué orden van la prohibición y la regulación | TODO — reordena las prioridades | **CRÍTICO** | Tabla de la Sala en camara.cl |
-| 33 | Identidad y publicación del video 2: **Felipe Saldías**, periodista y director de *Panorama Político Chile*; grabado en el Parque Japonés de La Serena. Fecha de publicación y cuenta | refutación §3 | PENDIENTE | Guardar captura y archivo |
-| 34 | Los seis parlamentarios que el video 2 nombra como impulsores de la prohibición: Jaime Araya, Camila Musante, Clara Sagardía, Marisela Santibáñez, Félix González, Daniel Melo. **Los nombres vienen de reconocimiento automático de voz y pueden estar deformados** | refutación §3 | PENDIENTE | Contrastar con los firmantes reales del boletín en BCN antes de usarlos |
-| 35 | Que el Boletín 15388-12 y el 12.420-12 son **mociones parlamentarias** (no de origen galguero), para sostener la respuesta a la afirmación 8 | refutación §3 | PENDIENTE | Ficha de tramitación de ambos boletines |
-
-| 36 | **Votaciones anteriores del proyecto: cuántas veces se ha votado, con qué fecha y con qué cifras cada vez.** El eje del video es que el rechazo es CRECIENTE. Si la progresión no es creciente, el tramo sale entero | v03 §4, tramo 0:56 | **CRÍTICO** | Diario de Sesiones y fichas de tramitación (BCN). Dato conocido: Sala 13-08-2024, 58 a favor / 68 en contra / 13 abstenciones — por confirmar |
-| 37 | Quiénes impulsaron cada versión del proyecto y **cuáles de ellos siguen hoy en el Congreso**. El dictado dice «todos están fuera»; el video 2 nombra a Félix González entre los impulsores actuales. Basta un nombre en ejercicio para que «todos» sea falso | v03 §4, tramo 1:18 | **CRÍTICO** | Firmantes de los boletines 12.420-12, 12.786-12 y 15388-12 + composición actual de la Cámara |
-| 38 | «Animales sufriendo condiciones documentadas por imposición de las políticas animalistas» — ¿a qué condiciones concretas se refiere el autor? | cavilaciones C-001 | PENDIENTE | Precisar con el autor y luego buscar fuente |
-
-| 39 | **«Innumerables fiscalizaciones demostraron el cumplimiento de las normas de bienestar animal».** Distinguir de «no hay denuncias»: son afirmaciones distintas. ¿Existen actas o informes de fiscalización, de qué servicio y con qué fecha? | v04 §1.1 — **el dato más fuerte y el más peligroso** | **CRÍTICO** | Actas/informes de SAG, municipios, Carabineros o PDI en poder del autor |
-| 40 | **El 90% de los diputados que promovieron estas políticas no fue reelecto.** Lista nominativa con período y resultado electoral | v04 §2, tramo 1:00 | **CRÍTICO** | Resultados electorales (Servel) + firmantes de los boletines |
-| 41 | Que desde 2009 (Ley 20.380 y art. 291 bis) no exista **ninguna condena** contra galgueros por maltrato animal. Nota: de 2009 a 2026 son 17 años, no 20 | v04 §2, tramo 1:38 | PENDIENTE | Poder Judicial / Fiscalía |
-
-| 42 | **Visitas de verificación de la contraparte a los canódromos:** influencers, asistentes de incógnito y diputados que fueron a mirar y no encontraron irregularidades. Situar en tiempo y lugar sin nombrar personas | v05 §3, tramo 2:00 | PENDIENTE | Testimonio del autor — precisar fechas, recintos y, si existe, registro público de esas visitas |
-| 43 | Que el reproche de la contraparte migró del maltrato a las apuestas | v05 §3, tramo 2:36 | PENDIENTE | Actas y audios de la Comisión: contrastar los fundamentos iniciales con las intervenciones posteriores |
-| 44 | Artículos 277 a 279 del Código Penal sobre apuestas ilegales, para la comparación con el fútbol | v05 §3, tramo 3:14 | PENDIENTE | Texto vigente del Código Penal |
-
----
-
-## Nota sobre el uso de estos datos
-
-Regla Cero del proyecto: **nada de esta tabla se pronuncia en público
-mientras esté en PENDIENTE.** El discurso completo se apoya en reprochar a
-la contraparte que afirma sin fuente. Un solo dato caído invierte el
-argumento y se lo entrega al adversario.
-
-Prioridad de verificación, si hay poco tiempo:
-**N.º 3, N.º 5, N.º 6, N.º 12 y N.º 2.** Con esos cinco cerrados, el
-discurso se sostiene aunque haya que renunciar al resto.
+Un dato que viene de dictado nunca entra como VERIFICADO, por seguro que
+lo haya dicho el autor. Números de boletín, rol, causa, ley, fecha, cifra
+y cita textual van siempre a PENDIENTE — §1.1 del protocolo.

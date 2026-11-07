@@ -1,7 +1,7 @@
 ---
 pieza: Video a diputados — control del corte base (seis tomas empalmadas)
 versión: v01
-estado: VIGENTE
+estado: ARCHIVADO 2026-11-07 — era VIGENTE · ver ARCHIVO.md
 fecha: 2026-08-02
 material de origen: seis tomas grabadas 2026-08-02 (1.mp4 … 6.mp4)
 duración del corte: 3 min 20 s

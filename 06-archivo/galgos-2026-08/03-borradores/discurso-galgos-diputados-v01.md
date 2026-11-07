@@ -1,7 +1,7 @@
 ---
 pieza: Discurso — prohibición de carreras de perros (Boletín 15388-12)
 versión: v02
-estado: VIGENTE (supera a v01)
+estado: ARCHIVADO 2026-11-07 — era VIGENTE (supera a v01) · ver ARCHIVO.md
 fecha: 2026-08-01
 autor: Oscar Antonio Núñez Llanca · Fundación Soy del Campo Chile
 destinatario: Diputadas y diputados que deben votar el proyecto

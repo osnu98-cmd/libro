@@ -1,7 +1,7 @@
 ---
 pieza: Mensaje a los diputados — texto hablado
 versión: v09
-estado: VIGENTE (supera a v08)
+estado: ARCHIVADO 2026-11-07 — era VIGENTE (supera a v08) · ver ARCHIVO.md
 fecha: 2026-08-01
 origen: v08 + las doce decisiones del autor y sus notas al margen
 formato: texto corrido para decir a cámara

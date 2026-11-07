@@ -1,7 +1,7 @@
 ---
 pieza: Anexo estratégico del discurso sobre galgos
 versión: v01
-estado: VIGENTE
+estado: ARCHIVADO 2026-11-07 — era VIGENTE · ver ARCHIVO.md
 fecha: 2026-08-01
 acompaña a: discurso-galgos-diputados-v01.md
 ---

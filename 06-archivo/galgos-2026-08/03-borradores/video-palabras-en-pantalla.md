@@ -1,7 +1,7 @@
 ---
 pieza: Palabras en pantalla — video a diputados
 versión: v02
-estado: VIGENTE (supera a v01)
+estado: ARCHIVADO 2026-11-07 — era VIGENTE (supera a v01) · ver ARCHIVO.md
 fecha: 2026-08-02
 ---
 
